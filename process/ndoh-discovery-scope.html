@@ -29,7 +29,7 @@
   --maxw:1280px;
 }
 *{box-sizing:border-box;}
-html{scroll-behavior:smooth;scroll-padding-top:96px;}
+html{scroll-behavior:smooth;scroll-padding-top:124px;}
 body{margin:0;background:var(--paper);color:var(--body);
   font-family:'DM Sans',system-ui,-apple-system,sans-serif;font-size:15px;line-height:1.68;
   -webkit-font-smoothing:antialiased;}
@@ -42,9 +42,9 @@ em{color:var(--muted);}
 ::selection{background:rgba(0,169,206,.3);color:#fff;}
 
 /* ---------------- masthead ---------------- */
-.mast{position:sticky;top:0;z-index:60;background:rgba(10,16,21,.93);
-  backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
-  border-bottom:1px solid var(--line);}
+.stickytop{position:sticky;top:0;z-index:60;background:var(--paper);
+  border-bottom:1px solid var(--line);box-shadow:0 6px 18px rgba(0,0,0,.45);}
+.mast{background:var(--paper);border-bottom:1px solid var(--line-2);}
 .mast-in{max-width:var(--maxw);margin:0 auto;padding:12px clamp(16px,3vw,36px);
   display:flex;align-items:center;justify-content:space-between;gap:20px;}
 .brand{display:flex;align-items:center;gap:13px;min-width:0;}
@@ -62,13 +62,11 @@ em{color:var(--muted);}
 .mast-ref b{color:var(--cyan);font-weight:700;}
 
 /* ---------------- section nav ---------------- */
-.snav{position:sticky;top:53px;z-index:55;background:rgba(10,16,21,.93);
-  backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
-  border-bottom:1px solid var(--line-2);}
+.snav{background:var(--paper);}
 .snav-in{max-width:var(--maxw);margin:0 auto;padding:0 clamp(16px,3vw,36px);
   display:flex;gap:2px;overflow-x:auto;scrollbar-width:none;}
 .snav-in::-webkit-scrollbar{display:none;}
-.snav a{padding:11px 13px;font-size:11px;font-weight:600;letter-spacing:.05em;
+.snav a{padding:10px 11px;font-size:10.5px;font-weight:600;letter-spacing:.05em;
   text-transform:uppercase;color:var(--dim);white-space:nowrap;border-bottom:2px solid transparent;
   transition:color .2s,border-color .2s;}
 .snav a:hover{color:var(--body);text-decoration:none;}
@@ -185,11 +183,11 @@ figcaption{margin-top:12px;font-size:12px;color:var(--dim);font-style:italic;lin
 /* --- interactive model SVG --- */
 #model .stage{cursor:pointer;}
 #model .plate{transition:stroke .45s,stroke-width .45s;}
-#model .snum{font-family:'Syne',sans-serif;font-weight:800;font-size:12px;fill:var(--dim);
+#model .snum{font-family:'Syne',sans-serif;font-weight:800;font-size:17px;fill:var(--dim);
   letter-spacing:.14em;transition:fill .4s;}
-#model .stitle{font-family:'Syne',sans-serif;font-weight:700;font-size:17px;fill:#c3d2d9;
+#model .stitle{font-family:'Syne',sans-serif;font-weight:700;font-size:25px;fill:#c3d2d9;
   letter-spacing:.05em;transition:fill .4s;}
-#model .scap{font-size:10px;fill:var(--dim);letter-spacing:.09em;text-transform:uppercase;
+#model .scap{font-size:13px;fill:var(--dim);letter-spacing:.09em;text-transform:uppercase;
   transition:fill .4s;}
 #model .stage.dim{opacity:.42;}
 #model .stage.on .snum{fill:var(--lime);}
@@ -198,13 +196,13 @@ figcaption{margin-top:12px;font-size:12px;color:var(--dim);font-style:italic;lin
 #model .stage.on .plate{stroke:var(--cyan);stroke-width:2.2;}
 
 #model .unit rect{fill:#0d161d;stroke:#2c4a57;stroke-width:1;transition:stroke .4s,fill .4s;}
-#model .unit text{font-size:9px;font-weight:600;fill:#a8bcc6;letter-spacing:.02em;}
+#model .unit text{font-size:12.5px;font-weight:600;fill:#a8bcc6;letter-spacing:.02em;}
 #model .stage.on .unit rect{stroke:#3d7f95;fill:#101d26;}
 #model .stage.on .unit text{fill:#cfe0e7;}
 
 #model .core-fill{fill:#0b1117;}
 #model .core-ring{fill:none;stroke:var(--lime);stroke-width:1.8;}
-#model .core-lbl{font-family:'Syne',sans-serif;font-weight:800;font-size:13px;fill:var(--lime);
+#model .core-lbl{font-family:'Syne',sans-serif;font-weight:800;font-size:17px;fill:var(--lime);
   letter-spacing:.08em;}
 #model .pulse{fill:none;stroke:var(--lime);opacity:0;transform-origin:center;transform-box:fill-box;}
 #model .stage.on .pulse{animation:mPulse 2.1s ease-out infinite;}
@@ -220,14 +218,14 @@ figcaption{margin-top:12px;font-size:12px;color:var(--dim);font-style:italic;lin
 #model .uplink{stroke:var(--cyan);stroke-opacity:.5;stroke-width:1.3;fill:none;stroke-dasharray:4 4;}
 #model .downlink{stroke:var(--lime);stroke-opacity:.5;stroke-width:1.3;fill:none;stroke-dasharray:4 4;}
 
-#model .band-lbl{font-family:'Syne',sans-serif;font-weight:700;letter-spacing:.15em;
+#model .band-lbl{font-family:'Syne',sans-serif;font-weight:700;font-size:15px;letter-spacing:.13em;
   fill:var(--dim);transition:fill .45s;}
 #model .band.lit .band-lbl{fill:var(--cyan);}
 #model .band.lifecourse.lit .band-lbl{fill:var(--lime);}
 #model .bandpill rect{fill:#0d161d;stroke:#243642;stroke-width:1;transition:stroke .45s,fill .45s;}
-#model .bandpill .n{font-family:'Syne',sans-serif;font-weight:700;font-size:14px;fill:#7d919c;
+#model .bandpill .n{font-family:'Syne',sans-serif;font-weight:700;font-size:19px;fill:#7d919c;
   transition:fill .45s;}
-#model .bandpill .s{font-size:9px;fill:var(--dim);letter-spacing:.03em;transition:fill .45s;}
+#model .bandpill .s{font-size:12px;fill:var(--dim);letter-spacing:.03em;transition:fill .45s;}
 #model .band.lit .bandpill rect{stroke:#356b7e;fill:#0e1a22;}
 #model .band.lit .bandpill .n{fill:#dbe6eb;}
 #model .band.lit .bandpill .s{fill:#8fa6b1;}
@@ -328,6 +326,7 @@ footer{padding:34px 0 46px;border-top:1px solid var(--line);}
 </style>
 </head>
 <body>
+<div class="stickytop">
 <header class="mast">
   <div class="mast-in">
     <div class="brand">
@@ -352,13 +351,14 @@ footer{padding:34px 0 46px;border-top:1px solid var(--line);}
     <a href="#s1">1 · Background</a>
     <a href="#s2">2 · Architecture</a>
     <a href="#s3">3 · Methodology</a>
-    <a href="#s4">4 · Scope &amp; Deliverables</a>
-    <a href="#s5">5 · Implementation Model</a>
-    <a href="#s6">6 · Transition to Action</a>
+    <a href="#s4">4 · Deliverables</a>
+    <a href="#s5">5 · The Model</a>
+    <a href="#s6">6 · Next Steps</a>
     <a href="#s7">7 · Plain Language</a>
-    <a href="#s8">8 · Machine-Readable</a>
+    <a href="#s8">8 · AI Access</a>
   </div>
 </nav>
+</div>
 
 <div class="wrap">
 
@@ -641,8 +641,8 @@ footer{padding:34px 0 46px;border-top:1px solid var(--line);}
 </defs>
 <rect width="1840" height="812" fill="url(#mgrid)"/>
 <g class="band" id="bandNat">
-<text class="band-lbl" x="80" y="80" font-size="11">NATIONAL DIGITAL</text>
-<text class="band-lbl" x="80" y="96" font-size="11">HEALTH SYSTEMS</text>
+<text class="band-lbl" x="80" y="78">NATIONAL DIGITAL</text>
+<text class="band-lbl" x="80" y="98">HEALTH SYSTEMS</text>
 <g class="bandpill"><rect x="455.0" y="56" width="230" height="56" rx="5"/><text class="n" x="570.0" y="82" text-anchor="middle">HPRS</text><text class="s" x="570.0" y="99" text-anchor="middle">Health Patient Registration System</text></g>
 <g class="bandpill"><rect x="805.0" y="56" width="230" height="56" rx="5"/><text class="n" x="920.0" y="82" text-anchor="middle">DHIS2</text><text class="s" x="920.0" y="99" text-anchor="middle">District Health Information System</text></g>
 <g class="bandpill"><rect x="1155.0" y="56" width="230" height="56" rx="5"/><text class="n" x="1270.0" y="82" text-anchor="middle">NHLS</text><text class="s" x="1270.0" y="99" text-anchor="middle">National Health Laboratory Service</text></g>
@@ -661,9 +661,9 @@ footer{padding:34px 0 46px;border-top:1px solid var(--line);}
 <text class="snum" x="220.0" y="200" text-anchor="middle">01</text>
 <text class="stitle" x="220.0" y="226" text-anchor="middle">ZONE</text>
 <rect class="plate" x="65" y="240" width="310" height="370" rx="9" fill="rgba(255,255,255,.012)" stroke="#2c4a57" stroke-width="1.4" stroke-dasharray="7 6"/>
-<text x="220.0" y="418" text-anchor="middle" font-family="Syne,sans-serif" font-size="12" font-weight="700" fill="#4d6673" letter-spacing="1.6">NDOH-GOVERNED</text>
-<text x="220.0" y="438" text-anchor="middle" font-family="Syne,sans-serif" font-size="12" font-weight="700" fill="#4d6673" letter-spacing="1.6">BOUNDARY</text>
-<text x="220.0" y="464" text-anchor="middle" font-size="10.5" font-style="italic" fill="#3f5561">no tenants yet</text>
+<text x="220.0" y="418" text-anchor="middle" font-family="Syne,sans-serif" font-size="16" font-weight="700" fill="#5d7a88" letter-spacing="1.6">NDOH-GOVERNED</text>
+<text x="220.0" y="438" text-anchor="middle" font-family="Syne,sans-serif" font-size="16" font-weight="700" fill="#5d7a88" letter-spacing="1.6">BOUNDARY</text>
+<text x="220.0" y="464" text-anchor="middle" font-size="14" font-style="italic" fill="#52707e">no tenants yet</text>
 <text class="scap" x="220.0" y="636" text-anchor="middle">the governed boundary</text>
 </g>
 <g class="stage" data-s="2">
@@ -734,7 +734,7 @@ footer{padding:34px 0 46px;border-top:1px solid var(--line);}
 <circle class="core-fill" cx="920" cy="423" r="40"/>
 <circle class="core-ring" cx="920" cy="423" r="40"/>
 <text class="core-lbl" x="920" y="420" text-anchor="middle">AI</text>
-<text x="920" y="434" text-anchor="middle" font-size="7.6" fill="#7f9aa6" letter-spacing=".5">ROUTING</text>
+<text x="920" y="434" text-anchor="middle" font-size="10" fill="#8fa9b5" letter-spacing=".5">ROUTING</text>
 <text class="scap" x="920.0" y="636" text-anchor="middle">intelligence at the core</text>
 </g>
 <g class="stage" data-s="4">
@@ -782,7 +782,7 @@ footer{padding:34px 0 46px;border-top:1px solid var(--line);}
 <circle class="core-fill" cx="1270" cy="423" r="40"/>
 <circle class="core-ring" cx="1270" cy="423" r="40"/>
 <text class="core-lbl" x="1270" y="420" text-anchor="middle">AI</text>
-<text x="1270" y="434" text-anchor="middle" font-size="7.6" fill="#7f9aa6" letter-spacing=".5">ROUTING</text>
+<text x="1270" y="434" text-anchor="middle" font-size="10" fill="#8fa9b5" letter-spacing=".5">ROUTING</text>
 <text class="scap" x="1270.0" y="636" text-anchor="middle">one connected estate</text>
 </g>
 <g class="stage" data-s="5">
@@ -830,8 +830,8 @@ footer{padding:34px 0 46px;border-top:1px solid var(--line);}
 <circle class="pulse c" cx="1620" cy="423" r="40"/>
 <circle class="core-fill" cx="1620" cy="423" r="40"/>
 <circle class="core-ring" cx="1620" cy="423" r="40" stroke="url(#mg)" stroke-width="2.6"/>
-<text class="core-lbl" x="1620" y="419" text-anchor="middle" font-size="12">Ai-OS</text>
-<text x="1620" y="435" text-anchor="middle" font-size="8" fill="#7f9aa6" letter-spacing=".6">GOVERNED</text>
+<text class="core-lbl" x="1620" y="420" text-anchor="middle" font-size="16">Ai-OS</text>
+<text x="1620" y="435" text-anchor="middle" font-size="10.5" fill="#8fa9b5" letter-spacing=".6">GOVERNED</text>
 <text class="scap" x="1620.0" y="636" text-anchor="middle">a governed operating system</text>
 </g>
 <path class="chev" d="M385,415 l14,10 l-14,10"/>
@@ -847,8 +847,8 @@ footer{padding:34px 0 46px;border-top:1px solid var(--line);}
 <path class="downlink" d="M1620.0,680 V716"/>
 </g>
 <g class="band lifecourse" id="bandLife">
-<text class="band-lbl" x="80" y="740" font-size="11">LIFE-COURSE &amp;</text>
-<text class="band-lbl" x="80" y="756" font-size="11">COMMUNITY LAYER</text>
+<text class="band-lbl" x="80" y="738">LIFE-COURSE &amp;</text>
+<text class="band-lbl" x="80" y="758">COMMUNITY LAYER</text>
 <g class="bandpill"><rect x="455.0" y="716" width="230" height="56" rx="5"/><text class="n" x="570.0" y="742" text-anchor="middle">Children</text><text class="s" x="570.0" y="759" text-anchor="middle">0–9 years</text></g>
 <g class="bandpill"><rect x="805.0" y="716" width="230" height="56" rx="5"/><text class="n" x="920.0" y="742" text-anchor="middle">Adolescents</text><text class="s" x="920.0" y="759" text-anchor="middle">10–24 years</text></g>
 <g class="bandpill"><rect x="1155.0" y="716" width="230" height="56" rx="5"/><text class="n" x="1270.0" y="742" text-anchor="middle">Adults</text><text class="s" x="1270.0" y="759" text-anchor="middle">25–59 years</text></g>
