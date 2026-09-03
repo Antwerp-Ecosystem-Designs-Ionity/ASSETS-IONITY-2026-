@@ -1,0 +1,89 @@
+name: ionity-ai-mark-white
+path: derivatives/pwa/ionity-ai-mark-white
+title: derivatives/pwa/ionity-ai-mark-white
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 19
+total_bytes: 198768
+formats:
+  png: 17
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-ai-mark-white-1024.png
+    bytes: 19967
+    dimensions: 1024x1024
+    sha256: 0c710582d9acddd5
+  - file: ionity-ai-mark-white-128.png
+    bytes: 5552
+    dimensions: 128x128
+    sha256: 645c46181571282b
+  - file: ionity-ai-mark-white-144.png
+    bytes: 6713
+    dimensions: 144x144
+    sha256: 35e116fb535c031b
+  - file: ionity-ai-mark-white-152.png
+    bytes: 7171
+    dimensions: 152x152
+    sha256: 8920eaf1704136bb
+  - file: ionity-ai-mark-white-167.png
+    bytes: 8056
+    dimensions: 167x167
+    sha256: 12c6d4fd58b63ce0
+  - file: ionity-ai-mark-white-180.png
+    bytes: 8802
+    dimensions: 180x180
+    sha256: c3024409ae7bb816
+  - file: ionity-ai-mark-white-192.png
+    bytes: 9358
+    dimensions: 192x192
+    sha256: adcd2f8f8e5a4cee
+  - file: ionity-ai-mark-white-256.png
+    bytes: 13623
+    dimensions: 256x256
+    sha256: e22008b0e207d28d
+  - file: ionity-ai-mark-white-384.png
+    bytes: 23458
+    dimensions: 384x384
+    sha256: e4fb20e846875b77
+  - file: ionity-ai-mark-white-48.png
+    bytes: 2056
+    dimensions: 48x48
+    sha256: 6022172a356702c6
+  - file: ionity-ai-mark-white-512.png
+    bytes: 33131
+    dimensions: 512x512
+    sha256: 87a79a086a663298
+  - file: ionity-ai-mark-white-72.png
+    bytes: 3111
+    dimensions: 72x72
+    sha256: 558b8c718ffe6152
+  - file: ionity-ai-mark-white-96.png
+    bytes: 4291
+    dimensions: 96x96
+    sha256: 7eef6a0a6a2e4089
+  - file: ionity-ai-mark-white-apple-touch-icon.png
+    bytes: 6996
+    dimensions: 180x180
+    sha256: 29f44833501cea8a
+  - file: ionity-ai-mark-white-maskable-1024.png
+    bytes: 17260
+    dimensions: 1024x1024
+    sha256: 34629e3e8affa349
+  - file: ionity-ai-mark-white-maskable-192.png
+    bytes: 5973
+    dimensions: 192x192
+    sha256: 7d4d7e9bb408a80a
+  - file: ionity-ai-mark-white-maskable-512.png
+    bytes: 18787
+    dimensions: 512x512
+    sha256: 36f68710ee0c3b52

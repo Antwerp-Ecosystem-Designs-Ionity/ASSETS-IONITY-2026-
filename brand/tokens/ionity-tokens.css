@@ -1,0 +1,43 @@
+/* =============================================================================
+ * IONITY GLOBAL DESIGN TOKENS  v1.1.0  ::  generated from ionity-tokens.json
+ * Ionity (Pty) Ltd | AEDI | Author: Johan Wilhelm van Antwerp
+ * Policy 986 AED | (c) 2018-2026 Antwerp Designs | All Rights Reserved | TM2
+ * ============================================================================= */
+:root {
+  --ionity-brand-purple: #5746e3;
+  --ionity-brand-teal: #00d4b8;
+  --ionity-brand-cyan: #00d2ff;
+  --ionity-brand-skyblue: #00bfff;
+  --ionity-brand-c6ff: #00c6ff;
+  --ionity-surface-bg: #0b0d12;
+  --ionity-surface-bg-legacy: #0d1b2a;
+  --ionity-surface-surface-1: #151922;
+  --ionity-surface-border: #242b38;
+  --ionity-surface-ink: #06061e;
+  --ionity-text-default: #e7ebf2;
+  --ionity-text-muted: #8b93a4;
+  --ionity-text-inverse: #0b0d12;
+  --ionity-document-header: #1a1a2e;
+  --ionity-document-accent: #e94560;
+  --ionity-document-body: #16213e;
+  --ionity-document-secondary: #0f3460;
+  --ionity-document-watermark: #b8c5d6;
+  --ionity-document-rule: #d4e6f1;
+  --ionity-document-band: #f0f7fa;
+  --ionity-gradient-brand: linear-gradient(90deg, #5746e3 0%, #00d4b8 50%, #00d2ff 100%);
+  --ionity-gradient-surface: linear-gradient(180deg, #151922 0%, #0b0d12 100%);
+  --ionity-typography-family-sans: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --ionity-typography-family-mono: 'JetBrains Mono', 'Cascadia Mono', Consolas, monospace;
+  --ionity-typography-size-body: 11pt;
+  --ionity-typography-size-subheader: 14pt;
+  --ionity-typography-size-header: 18pt;
+  --ionity-radius-sm: 4px;
+  --ionity-radius-md: 10px;
+  --ionity-radius-lg: 18px;
+  --ionity-radius-pill: 999px;
+  --ionity-space-xs: 4px;
+  --ionity-space-sm: 8px;
+  --ionity-space-md: 16px;
+  --ionity-space-lg: 24px;
+  --ionity-space-xl: 40px;
+}

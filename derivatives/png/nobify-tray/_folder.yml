@@ -1,0 +1,99 @@
+name: nobify-tray
+path: derivatives/png/nobify-tray
+title: derivatives/png/nobify-tray
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  PNG size ladder, 16 px to 2048 px, aspect preserved, transparent.
+asset_count: 20
+total_bytes: 2271007
+formats:
+  png: 20
+assets:
+  - file: nobify-tray-1024.png
+    bytes: 235928
+    dimensions: 1024x1024
+    sha256: bae7e77dfab5adf5
+  - file: nobify-tray-128.png
+    bytes: 11769
+    dimensions: 128x128
+    sha256: 0a7baa2b7fa84fae
+  - file: nobify-tray-1280.png
+    bytes: 333182
+    dimensions: 1280x1280
+    sha256: 995939a2364b1b3e
+  - file: nobify-tray-1536.png
+    bytes: 446164
+    dimensions: 1536x1536
+    sha256: fae5ca3249723c95
+  - file: nobify-tray-16.png
+    bytes: 566
+    dimensions: 16x16
+    sha256: 87d50d43018e2e7c
+  - file: nobify-tray-160.png
+    bytes: 15217
+    dimensions: 160x160
+    sha256: 643b1cc18eafe3ba
+  - file: nobify-tray-180.png
+    bytes: 18486
+    dimensions: 180x180
+    sha256: 6f0d6fe350010b64
+  - file: nobify-tray-192.png
+    bytes: 20215
+    dimensions: 192x192
+    sha256: 1f25dd29b27034ae
+  - file: nobify-tray-2048.png
+    bytes: 702590
+    dimensions: 2048x2048
+    sha256: 7d1bca25130bd049
+  - file: nobify-tray-24.png
+    bytes: 974
+    dimensions: 24x24
+    sha256: 62dec8372862c5ea
+  - file: nobify-tray-256.png
+    bytes: 29958
+    dimensions: 256x256
+    sha256: 7f9fd59fc1d3b415
+  - file: nobify-tray-32.png
+    bytes: 1285
+    dimensions: 32x32
+    sha256: 058a84d44b667349
+  - file: nobify-tray-320.png
+    bytes: 40553
+    dimensions: 320x320
+    sha256: 5622c2bf1224f240
+  - file: nobify-tray-384.png
+    bytes: 52853
+    dimensions: 384x384
+    sha256: b5028a5cfe5e6600
+  - file: nobify-tray-48.png
+    bytes: 2765
+    dimensions: 48x48
+    sha256: 99a3e99d01bf8275
+  - file: nobify-tray-512.png
+    bytes: 81397
+    dimensions: 512x512
+    sha256: 455c3a2973285eb6
+  - file: nobify-tray-64.png
+    bytes: 4449
+    dimensions: 64x64
+    sha256: 206e6f4827982c15
+  - file: nobify-tray-640.png
+    bytes: 113859
+    dimensions: 640x640
+    sha256: 0f0b4c2907a956a3
+  - file: nobify-tray-768.png
+    bytes: 151066
+    dimensions: 768x768
+    sha256: 5037e469c46ab10a
+  - file: nobify-tray-96.png
+    bytes: 7731
+    dimensions: 96x96
+    sha256: 69cf2f8d2e21cdff

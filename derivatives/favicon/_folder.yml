@@ -1,0 +1,111 @@
+name: favicon
+path: derivatives/favicon
+title: derivatives/favicon
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Drop-in favicon bundle for any site root.
+asset_count: 24
+total_bytes: 306568
+formats:
+  png: 17
+  ico: 4
+  md: 1
+  yml: 1
+  svg: 1
+assets:
+  - file: apple-touch-icon.png
+    bytes: 11797
+    dimensions: 180x180
+    sha256: 1a8a06823dd1939d
+  - file: favicon-128x128.png
+    bytes: 10572
+    dimensions: 128x128
+    sha256: 0e07e1fad8bfca02
+  - file: favicon-16x16.png
+    bytes: 4141
+    dimensions: 16x16
+    sha256: 7875c774f69818e1
+  - file: favicon-180x180.png
+    bytes: 15205
+    dimensions: 180x180
+    sha256: 16c6620b94e8f4e7
+  - file: favicon-192x192.png
+    bytes: 16430
+    dimensions: 192x192
+    sha256: c0d9b90496629568
+  - file: favicon-2.ico
+    bytes: 2941
+    dimensions: 64x64
+    sha256: ee87723844741216
+  - file: favicon-256x256.png
+    bytes: 23628
+    dimensions: 256x256
+    sha256: d6e390116b06adae
+  - file: favicon-32.png
+    bytes: 4837
+    dimensions: 32x32
+    sha256: b5368ff8a11773cd
+  - file: favicon-32x32.png
+    bytes: 4681
+    dimensions: 32x32
+    sha256: f69374aa890416b4
+  - file: favicon-48x48.png
+    bytes: 5431
+    dimensions: 48x48
+    sha256: 4bfcf8ae991dbab7
+  - file: favicon-512x512.png
+    bytes: 66100
+    dimensions: 512x512
+    sha256: 2e4483d8e4baeea3
+  - file: favicon-64.png
+    bytes: 6721
+    dimensions: 64x64
+    sha256: f66daca36ff90235
+  - file: favicon-64x64.png
+    bytes: 6243
+    dimensions: 64x64
+    sha256: b773fa3feacb0598
+  - file: favicon-96x96.png
+    bytes: 8155
+    dimensions: 96x96
+    sha256: a2d6b75e05156e46
+  - file: favicon-ionity-global.ico
+    bytes: 34442
+    dimensions: 256x256
+    sha256: 013d1e35c75b66c4
+  - file: favicon.ico
+    bytes: 9326
+    dimensions: 128x85
+    sha256: f8659b72811f84d7
+  - file: favicon.svg
+    bytes: 1559
+    dimensions: 512.0x512.0
+    sha256: ec1ba9637ecc4a71
+  - file: ionity-logo.ico
+    bytes: 17785
+    dimensions: 256x256
+    sha256: fba3a72c6ac9429e
+  - file: mstile-150x150.png
+    bytes: 7787
+    dimensions: 150x150
+    sha256: 28850d07a9810d6f
+  - file: mstile-310x150.png
+    bytes: 22043
+    dimensions: 310x150
+    sha256: facb3b6d38217132
+  - file: mstile-310x310.png
+    bytes: 16842
+    dimensions: 310x310
+    sha256: 841d2f01e09bd9a0
+  - file: mstile-70x70.png
+    bytes: 5167
+    dimensions: 70x70
+    sha256: 6d3187d93b99a701

@@ -1,0 +1,41 @@
+name: william-njabulo-kodua
+path: derivatives/people/william-njabulo-kodua
+title: derivatives/people/william-njabulo-kodua
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Per-person derivative sizes.
+asset_count: 7
+total_bytes: 881042
+formats:
+  png: 5
+  md: 1
+  yml: 1
+assets:
+  - file: william-kodua-business-card-128.png
+    bytes: 20561
+    dimensions: 128x71
+    sha256: 27080a63bfe92b9c
+  - file: william-kodua-business-card-256.png
+    bytes: 72088
+    dimensions: 256x143
+    sha256: 5b077f6b7f740348
+  - file: william-kodua-business-card-400.png
+    bytes: 155408
+    dimensions: 400x223
+    sha256: 265d13ea1e16fc2f
+  - file: william-kodua-business-card-512.png
+    bytes: 237381
+    dimensions: 512x286
+    sha256: 813496fc1d00ad7c
+  - file: william-kodua-business-card-800.png
+    bytes: 393317
+    dimensions: 800x447
+    sha256: 83b8c3366ec098a8

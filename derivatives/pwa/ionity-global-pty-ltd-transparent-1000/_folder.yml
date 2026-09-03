@@ -1,0 +1,87 @@
+name: ionity-global-pty-ltd-transparent-1000
+path: derivatives/pwa/ionity-global-pty-ltd-transparent-1000
+title: derivatives/pwa/ionity-global-pty-ltd-transparent-1000
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 17
+total_bytes: 215215
+formats:
+  png: 17
+assets:
+  - file: ionity-global-pty-ltd-transparent-1000-1024.png
+    bytes: 71844
+    dimensions: 1024x1024
+    sha256: 250dcc5bb37c75ac
+  - file: ionity-global-pty-ltd-transparent-1000-128.png
+    bytes: 3015
+    dimensions: 128x128
+    sha256: 90b29ed22c1aa056
+  - file: ionity-global-pty-ltd-transparent-1000-144.png
+    bytes: 3463
+    dimensions: 144x144
+    sha256: 80ee0c08aaed3363
+  - file: ionity-global-pty-ltd-transparent-1000-152.png
+    bytes: 3816
+    dimensions: 152x152
+    sha256: 4e629221ee32a41d
+  - file: ionity-global-pty-ltd-transparent-1000-167.png
+    bytes: 4273
+    dimensions: 167x167
+    sha256: c95a3e8f4b521df9
+  - file: ionity-global-pty-ltd-transparent-1000-180.png
+    bytes: 4724
+    dimensions: 180x180
+    sha256: 88357dbb9b09aaae
+  - file: ionity-global-pty-ltd-transparent-1000-192.png
+    bytes: 5234
+    dimensions: 192x192
+    sha256: 5775208ecad4a122
+  - file: ionity-global-pty-ltd-transparent-1000-256.png
+    bytes: 8068
+    dimensions: 256x256
+    sha256: 5696af6379642c3e
+  - file: ionity-global-pty-ltd-transparent-1000-384.png
+    bytes: 14753
+    dimensions: 384x384
+    sha256: 16a1814fd4cd4ed0
+  - file: ionity-global-pty-ltd-transparent-1000-48.png
+    bytes: 762
+    dimensions: 48x48
+    sha256: b7ed260b060155f4
+  - file: ionity-global-pty-ltd-transparent-1000-512.png
+    bytes: 23407
+    dimensions: 512x512
+    sha256: be4ad5a483317fae
+  - file: ionity-global-pty-ltd-transparent-1000-72.png
+    bytes: 1365
+    dimensions: 72x72
+    sha256: cb4431481f506aec
+  - file: ionity-global-pty-ltd-transparent-1000-96.png
+    bytes: 2035
+    dimensions: 96x96
+    sha256: 0fe8c33a6cdf5082
+  - file: ionity-global-pty-ltd-transparent-1000-apple-touch-icon.png
+    bytes: 4724
+    dimensions: 180x180
+    sha256: 88357dbb9b09aaae
+  - file: ionity-global-pty-ltd-transparent-1000-maskable-1024.png
+    bytes: 45810
+    dimensions: 1024x1024
+    sha256: c9f8cfa0aeaba2e9
+  - file: ionity-global-pty-ltd-transparent-1000-maskable-192.png
+    bytes: 3426
+    dimensions: 192x192
+    sha256: efd0888c4916cd85
+  - file: ionity-global-pty-ltd-transparent-1000-maskable-512.png
+    bytes: 14496
+    dimensions: 512x512
+    sha256: f37b6963243a5c77

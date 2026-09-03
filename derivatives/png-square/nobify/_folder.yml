@@ -1,0 +1,39 @@
+name: nobify
+path: derivatives/png-square/nobify
+title: derivatives/png-square/nobify
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Square, padded, transparent PNG for avatars and tiles.
+asset_count: 5
+total_bytes: 222957
+formats:
+  png: 5
+assets:
+  - file: nobify-square-1024.png
+    bytes: 137185
+    dimensions: 1024x1024
+    sha256: 8eb6f0a81ff4d2c9
+  - file: nobify-square-128.png
+    bytes: 7331
+    dimensions: 128x128
+    sha256: dbf81e479910cc7b
+  - file: nobify-square-256.png
+    bytes: 20981
+    dimensions: 256x256
+    sha256: 7d885ce559f4780c
+  - file: nobify-square-512.png
+    bytes: 54877
+    dimensions: 512x512
+    sha256: 6028d3b83ac4efb8
+  - file: nobify-square-64.png
+    bytes: 2583
+    dimensions: 64x64
+    sha256: bb976f012d4b7941

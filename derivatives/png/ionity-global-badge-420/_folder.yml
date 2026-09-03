@@ -1,0 +1,99 @@
+name: ionity-global-badge-420
+path: derivatives/png/ionity-global-badge-420
+title: derivatives/png/ionity-global-badge-420
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  PNG size ladder, 16 px to 2048 px, aspect preserved, transparent.
+asset_count: 20
+total_bytes: 111822
+formats:
+  png: 20
+assets:
+  - file: ionity-global-badge-420-1024.png
+    bytes: 10751
+    dimensions: 1024x1024
+    sha256: d77665117e567201
+  - file: ionity-global-badge-420-128.png
+    bytes: 1535
+    dimensions: 128x128
+    sha256: 31dd5937a6359ee2
+  - file: ionity-global-badge-420-1280.png
+    bytes: 16729
+    dimensions: 1280x1280
+    sha256: 8259b6897085432c
+  - file: ionity-global-badge-420-1536.png
+    bytes: 18915
+    dimensions: 1536x1536
+    sha256: b8c31a625b5fcba8
+  - file: ionity-global-badge-420-16.png
+    bytes: 615
+    dimensions: 16x16
+    sha256: 01187d12dbabb1af
+  - file: ionity-global-badge-420-160.png
+    bytes: 1564
+    dimensions: 160x160
+    sha256: 3e1c227382f6002e
+  - file: ionity-global-badge-420-180.png
+    bytes: 1321
+    dimensions: 180x180
+    sha256: e52819141d8eaa48
+  - file: ionity-global-badge-420-192.png
+    bytes: 1327
+    dimensions: 192x192
+    sha256: 4384359d4311fc0b
+  - file: ionity-global-badge-420-2048.png
+    bytes: 34670
+    dimensions: 2048x2048
+    sha256: e6fd4e467283ff94
+  - file: ionity-global-badge-420-24.png
+    bytes: 551
+    dimensions: 24x24
+    sha256: bf36025d911c78eb
+  - file: ionity-global-badge-420-256.png
+    bytes: 2057
+    dimensions: 256x256
+    sha256: db099d4e79fbf05c
+  - file: ionity-global-badge-420-32.png
+    bytes: 944
+    dimensions: 32x32
+    sha256: a96a434e76a152de
+  - file: ionity-global-badge-420-320.png
+    bytes: 2138
+    dimensions: 320x320
+    sha256: 31deb46200f371d1
+  - file: ionity-global-badge-420-384.png
+    bytes: 1687
+    dimensions: 384x384
+    sha256: 24c407f7e9696ef7
+  - file: ionity-global-badge-420-48.png
+    bytes: 570
+    dimensions: 48x48
+    sha256: 19856e09ce7c4bd8
+  - file: ionity-global-badge-420-512.png
+    bytes: 3710
+    dimensions: 512x512
+    sha256: 546df8b1144241b6
+  - file: ionity-global-badge-420-64.png
+    bytes: 1011
+    dimensions: 64x64
+    sha256: 02afde39f10ed221
+  - file: ionity-global-badge-420-640.png
+    bytes: 5157
+    dimensions: 640x640
+    sha256: fd8bcb5651860c95
+  - file: ionity-global-badge-420-768.png
+    bytes: 5729
+    dimensions: 768x768
+    sha256: 019a1538e2bb1204
+  - file: ionity-global-badge-420-96.png
+    bytes: 841
+    dimensions: 96x96
+    sha256: dd00bd4ba97cd614

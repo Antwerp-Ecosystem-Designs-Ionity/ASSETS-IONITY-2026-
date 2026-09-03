@@ -1,0 +1,31 @@
+name: business-pack
+path: business-pack
+title: business-pack
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Curated, ready-to-send pack for clients, press and partners.
+asset_count: 5
+total_bytes: 7882
+formats:
+  -: 2
+  cff: 1
+  md: 1
+  yml: 1
+assets:
+  - file: CITATION.cff
+    bytes: 1283
+    sha256: 0737143ca6092af0
+  - file: LICENSE
+    bytes: 1148
+    sha256: 99b81ae6e6b81d5f
+  - file: NOTICE
+    bytes: 2207
+    sha256: 01ac5246c547208f

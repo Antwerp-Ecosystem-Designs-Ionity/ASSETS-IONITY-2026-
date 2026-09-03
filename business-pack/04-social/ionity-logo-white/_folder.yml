@@ -1,0 +1,85 @@
+name: ionity-logo-white
+path: business-pack/04-social/ionity-logo-white
+title: business-pack/04-social/ionity-logo-white
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Curated, ready-to-send pack for clients, press and partners.
+asset_count: 18
+total_bytes: 1128014
+formats:
+  png: 16
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-logo-white-avatar-400-400x400.png
+    bytes: 27555
+    dimensions: 400x400
+    sha256: 479a609376a00861
+  - file: ionity-logo-white-avatar-512-512x512.png
+    bytes: 33184
+    dimensions: 512x512
+    sha256: a3d009f6894cbbf3
+  - file: ionity-logo-white-email-signature-600x200.png
+    bytes: 24350
+    dimensions: 600x200
+    sha256: 5ff8651c9830be6c
+  - file: ionity-logo-white-facebook-cover-1640x624.png
+    bytes: 77198
+    dimensions: 1640x624
+    sha256: 82d4f4992eaefefc
+  - file: ionity-logo-white-github-social-1280x640.png
+    bytes: 57731
+    dimensions: 1280x640
+    sha256: e94766110ccf85e1
+  - file: ionity-logo-white-instagram-portrait-1080x1350.png
+    bytes: 82053
+    dimensions: 1080x1350
+    sha256: eda57c33ffa1421c
+  - file: ionity-logo-white-instagram-square-1080x1080.png
+    bytes: 80823
+    dimensions: 1080x1080
+    sha256: 06171f3c57dd4189
+  - file: ionity-logo-white-instagram-story-1080x1920.png
+    bytes: 80637
+    dimensions: 1080x1920
+    sha256: fe788db7486cbc35
+  - file: ionity-logo-white-linkedin-cover-1584x396.png
+    bytes: 41089
+    dimensions: 1584x396
+    sha256: 2103d05c0d9e507e
+  - file: ionity-logo-white-linkedin-post-1200x627.png
+    bytes: 56218
+    dimensions: 1200x627
+    sha256: e056ab01a819ebe0
+  - file: ionity-logo-white-og-facebook-linkedin-1200x630.png
+    bytes: 56149
+    dimensions: 1200x630
+    sha256: 973fea04ef67092f
+  - file: ionity-logo-white-og-twitter-x-1200x675.png
+    bytes: 62773
+    dimensions: 1200x675
+    sha256: 3f6b213a4e695dc4
+  - file: ionity-logo-white-presentation-16x9-1920x1080.png
+    bytes: 127385
+    dimensions: 1920x1080
+    sha256: 698345700ecd06e4
+  - file: ionity-logo-white-x-header-1500x500.png
+    bytes: 55231
+    dimensions: 1500x500
+    sha256: cb54d8bf90c8073c
+  - file: ionity-logo-white-youtube-banner-2560x1440.png
+    bytes: 192350
+    dimensions: 2560x1440
+    sha256: 4845d4b87bca30ac
+  - file: ionity-logo-white-youtube-thumbnail-1280x720.png
+    bytes: 68629
+    dimensions: 1280x720
+    sha256: 2bd28af43fd020b0

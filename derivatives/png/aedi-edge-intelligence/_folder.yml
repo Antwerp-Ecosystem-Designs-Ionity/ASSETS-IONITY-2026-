@@ -1,0 +1,101 @@
+name: aedi-edge-intelligence
+path: derivatives/png/aedi-edge-intelligence
+title: derivatives/png/aedi-edge-intelligence
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  PNG size ladder, 16 px to 2048 px, aspect preserved, transparent.
+asset_count: 22
+total_bytes: 6868992
+formats:
+  png: 20
+  md: 1
+  yml: 1
+assets:
+  - file: aedi-edge-intelligence-1024.png
+    bytes: 1281551
+    dimensions: 1024x1024
+    sha256: 2f3580bbd77b2193
+  - file: aedi-edge-intelligence-128.png
+    bytes: 17569
+    dimensions: 128x128
+    sha256: 452c464e4dae8556
+  - file: aedi-edge-intelligence-1280.png
+    bytes: 1280982
+    dimensions: 1280x1280
+    sha256: 807f29adf2d7b092
+  - file: aedi-edge-intelligence-1536.png
+    bytes: 1281551
+    dimensions: 1024x1024
+    sha256: 2f3580bbd77b2193
+  - file: aedi-edge-intelligence-16.png
+    bytes: 764
+    dimensions: 16x16
+    sha256: 17af48f305b4fcec
+  - file: aedi-edge-intelligence-160.png
+    bytes: 23629
+    dimensions: 160x160
+    sha256: 0ab0171929fd4e75
+  - file: aedi-edge-intelligence-180.png
+    bytes: 30928
+    dimensions: 180x180
+    sha256: 593c8c6ec814c413
+  - file: aedi-edge-intelligence-192.png
+    bytes: 34965
+    dimensions: 192x192
+    sha256: defec89a01e9ed8d
+  - file: aedi-edge-intelligence-2048.png
+    bytes: 1281551
+    dimensions: 1024x1024
+    sha256: 2f3580bbd77b2193
+  - file: aedi-edge-intelligence-24.png
+    bytes: 1395
+    dimensions: 24x24
+    sha256: ae3fbe7164e2dee3
+  - file: aedi-edge-intelligence-256.png
+    bytes: 60500
+    dimensions: 256x256
+    sha256: d5f64de91264797d
+  - file: aedi-edge-intelligence-32.png
+    bytes: 2101
+    dimensions: 32x32
+    sha256: 195479123a41534c
+  - file: aedi-edge-intelligence-320.png
+    bytes: 86837
+    dimensions: 320x320
+    sha256: 565a69f0c2463e88
+  - file: aedi-edge-intelligence-384.png
+    bytes: 139656
+    dimensions: 384x384
+    sha256: 981a55620b732ac4
+  - file: aedi-edge-intelligence-48.png
+    bytes: 3912
+    dimensions: 48x48
+    sha256: ae3c865b5fe82058
+  - file: aedi-edge-intelligence-512.png
+    bytes: 260830
+    dimensions: 512x512
+    sha256: c7a46616a9b96865
+  - file: aedi-edge-intelligence-64.png
+    bytes: 5844
+    dimensions: 64x64
+    sha256: fbcfd7945e29d815
+  - file: aedi-edge-intelligence-640.png
+    bytes: 376078
+    dimensions: 640x640
+    sha256: f0085698995cd1eb
+  - file: aedi-edge-intelligence-768.png
+    bytes: 683047
+    dimensions: 768x768
+    sha256: d099cc8870db53d6
+  - file: aedi-edge-intelligence-96.png
+    bytes: 10940
+    dimensions: 96x96
+    sha256: 0cdcf2904cf316c1

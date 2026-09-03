@@ -1,0 +1,99 @@
+name: aedi-computer-ai-pol986-alt
+path: derivatives/social/aedi-computer-ai-pol986-alt
+title: derivatives/social/aedi-computer-ai-pol986-alt
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Platform-exact social scopes - OG, X, LinkedIn, Instagram, YouTube and more.
+asset_count: 20
+total_bytes: 93437
+formats:
+  png: 20
+assets:
+  - file: aedi-computer-ai-pol986-alt-avatar-400-400x400.png
+    bytes: 1072
+    dimensions: 400x400
+    sha256: 215a0b6c397dc15b
+  - file: aedi-computer-ai-pol986-alt-avatar-512-512x512.png
+    bytes: 1509
+    dimensions: 512x512
+    sha256: 07e2d95b01608f99
+  - file: aedi-computer-ai-pol986-alt-discord-banner-960x540.png
+    bytes: 2440
+    dimensions: 960x540
+    sha256: b3b1af57cbfc4cc8
+  - file: aedi-computer-ai-pol986-alt-email-signature-600x200.png
+    bytes: 689
+    dimensions: 600x200
+    sha256: 0696ab304be39219
+  - file: aedi-computer-ai-pol986-alt-facebook-cover-1640x624.png
+    bytes: 4395
+    dimensions: 1640x624
+    sha256: 912169ee9072f252
+  - file: aedi-computer-ai-pol986-alt-github-social-1280x640.png
+    bytes: 3370
+    dimensions: 1280x640
+    sha256: 0ae9aeb3b986fb8b
+  - file: aedi-computer-ai-pol986-alt-instagram-portrait-1080x1350.png
+    bytes: 6209
+    dimensions: 1080x1350
+    sha256: 687f80467c638303
+  - file: aedi-computer-ai-pol986-alt-instagram-square-1080x1080.png
+    bytes: 4994
+    dimensions: 1080x1080
+    sha256: b0e41d55d687c163
+  - file: aedi-computer-ai-pol986-alt-instagram-story-1080x1920.png
+    bytes: 8791
+    dimensions: 1080x1920
+    sha256: 5bd648fd8a86ea3a
+  - file: aedi-computer-ai-pol986-alt-linkedin-cover-1584x396.png
+    bytes: 2828
+    dimensions: 1584x396
+    sha256: bbc1b26eb60dc274
+  - file: aedi-computer-ai-pol986-alt-linkedin-post-1200x627.png
+    bytes: 3158
+    dimensions: 1200x627
+    sha256: 5077d6ed2cc06dd4
+  - file: aedi-computer-ai-pol986-alt-og-facebook-linkedin-1200x630.png
+    bytes: 3172
+    dimensions: 1200x630
+    sha256: 5dac4e6712514bca
+  - file: aedi-computer-ai-pol986-alt-og-twitter-x-1200x675.png
+    bytes: 3392
+    dimensions: 1200x675
+    sha256: 39b5f8a022a21029
+  - file: aedi-computer-ai-pol986-alt-pinterest-pin-1000x1500.png
+    bytes: 6545
+    dimensions: 1000x1500
+    sha256: 2dd351f9a5ddb3b3
+  - file: aedi-computer-ai-pol986-alt-presentation-16x9-1920x1080.png
+    bytes: 8614
+    dimensions: 1920x1080
+    sha256: 691b59ad162cdf02
+  - file: aedi-computer-ai-pol986-alt-tiktok-cover-1080x1920.png
+    bytes: 8791
+    dimensions: 1080x1920
+    sha256: 5bd648fd8a86ea3a
+  - file: aedi-computer-ai-pol986-alt-whatsapp-profile-640x640.png
+    bytes: 2099
+    dimensions: 640x640
+    sha256: 9a5315f9645c0967
+  - file: aedi-computer-ai-pol986-alt-x-header-1500x500.png
+    bytes: 3416
+    dimensions: 1500x500
+    sha256: 678da4cdda54007c
+  - file: aedi-computer-ai-pol986-alt-youtube-banner-2560x1440.png
+    bytes: 14166
+    dimensions: 2560x1440
+    sha256: 66f08a7777cb6844
+  - file: aedi-computer-ai-pol986-alt-youtube-thumbnail-1280x720.png
+    bytes: 3787
+    dimensions: 1280x720
+    sha256: e522ae9ccdc5fb0e

@@ -1,0 +1,93 @@
+name: robin-mary-du-toit
+path: derivatives/people/robin-mary-du-toit
+title: derivatives/people/robin-mary-du-toit
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Per-person derivative sizes.
+asset_count: 20
+total_bytes: 9656619
+formats:
+  png: 18
+  md: 1
+  yml: 1
+assets:
+  - file: robin-du-toit-avatar-128.png
+    bytes: 26838
+    dimensions: 128x128
+    sha256: c78dfd8d5c93fcd0
+  - file: robin-du-toit-avatar-256.png
+    bytes: 91085
+    dimensions: 256x256
+    sha256: ce6f39562f6b2020
+  - file: robin-du-toit-avatar-400.png
+    bytes: 207006
+    dimensions: 400x400
+    sha256: 904f7b8634e35fb5
+  - file: robin-du-toit-avatar-512.png
+    bytes: 328435
+    dimensions: 512x512
+    sha256: 7a21fa1868faefed
+  - file: robin-du-toit-business-card-2752-1200.png
+    bytes: 1048810
+    dimensions: 1200x670
+    sha256: 55da149b08835555
+  - file: robin-du-toit-business-card-2752-128.png
+    bytes: 21179
+    dimensions: 128x71
+    sha256: 64cb183919f33454
+  - file: robin-du-toit-business-card-2752-2048.png
+    bytes: 2437873
+    dimensions: 2048x1143
+    sha256: 6f76e2f0d59a6ebe
+  - file: robin-du-toit-business-card-2752-256.png
+    bytes: 74156
+    dimensions: 256x143
+    sha256: 0316dfab31be6b8f
+  - file: robin-du-toit-business-card-2752-400.png
+    bytes: 160690
+    dimensions: 400x223
+    sha256: f9c600b734ebda1a
+  - file: robin-du-toit-business-card-2752-512.png
+    bytes: 245545
+    dimensions: 512x286
+    sha256: a1344e005ce3c8d4
+  - file: robin-du-toit-business-card-2752-800.png
+    bytes: 526841
+    dimensions: 800x447
+    sha256: 6c89d533d6ba8c55
+  - file: robin-du-toit-business-card-8600-1200.png
+    bytes: 1048247
+    dimensions: 1200x670
+    sha256: 93c4603394c43ea9
+  - file: robin-du-toit-business-card-8600-128.png
+    bytes: 21188
+    dimensions: 128x71
+    sha256: 8f771e74f1a18070
+  - file: robin-du-toit-business-card-8600-2048.png
+    bytes: 2410601
+    dimensions: 2048x1143
+    sha256: 6d711567113ff0bc
+  - file: robin-du-toit-business-card-8600-256.png
+    bytes: 74211
+    dimensions: 256x143
+    sha256: 7a372f31cc0a9ea8
+  - file: robin-du-toit-business-card-8600-400.png
+    bytes: 160434
+    dimensions: 400x223
+    sha256: 74733b4390baef29
+  - file: robin-du-toit-business-card-8600-512.png
+    bytes: 245017
+    dimensions: 512x286
+    sha256: 86006ed475898dd7
+  - file: robin-du-toit-business-card-8600-800.png
+    bytes: 523390
+    dimensions: 800x447
+    sha256: 64bf23488f237a72

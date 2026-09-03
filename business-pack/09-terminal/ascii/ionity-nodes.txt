@@ -1,0 +1,7 @@
+      o-------o-------o           N O D E S
+     /|      /|      /|           S E N S O R S
+    o-+-----o-+-----o |           E D G E   A I
+    | o-----|-o-----|-o           C L O U D
+    |/      |/      |/
+    o-------o-------o             AEDI · DaQ · PdM · CMMS
+   [ Ɛi3 ]  [ AI-M ]  [ OTA ]     5V 20W True Edge AI

@@ -1,0 +1,73 @@
+name: dennis-grobler
+path: derivatives/people/dennis-grobler
+title: derivatives/people/dennis-grobler
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Per-person derivative sizes.
+asset_count: 15
+total_bytes: 7741214
+formats:
+  png: 13
+  md: 1
+  yml: 1
+assets:
+  - file: dennis-grobler-business-card-1200.png
+    bytes: 999101
+    dimensions: 1200x670
+    sha256: 28fa4f1afe18623d
+  - file: dennis-grobler-business-card-128.png
+    bytes: 20584
+    dimensions: 128x71
+    sha256: 1e71b8cb1bebe0bf
+  - file: dennis-grobler-business-card-2048.png
+    bytes: 2321793
+    dimensions: 2048x1143
+    sha256: 4bcdbb43cea5baf0
+  - file: dennis-grobler-business-card-256.png
+    bytes: 71681
+    dimensions: 256x143
+    sha256: 580e683af57e1413
+  - file: dennis-grobler-business-card-400.png
+    bytes: 154782
+    dimensions: 400x223
+    sha256: 4148c7cafd6cb63c
+  - file: dennis-grobler-business-card-512.png
+    bytes: 235627
+    dimensions: 512x286
+    sha256: 457594507aa14fb5
+  - file: dennis-grobler-business-card-800.png
+    bytes: 500743
+    dimensions: 800x447
+    sha256: 2a9befb2b77140c3
+  - file: dennis-grobler-portrait-1200.png
+    bytes: 1751235
+    dimensions: 800x1200
+    sha256: 6dc1a5c15250da25
+  - file: dennis-grobler-portrait-128.png
+    bytes: 32838
+    dimensions: 85x128
+    sha256: f8a3cfd710019c3b
+  - file: dennis-grobler-portrait-256.png
+    bytes: 117450
+    dimensions: 171x256
+    sha256: fa0d693a2cfd9da0
+  - file: dennis-grobler-portrait-400.png
+    bytes: 259205
+    dimensions: 267x400
+    sha256: 0911678f105c7275
+  - file: dennis-grobler-portrait-512.png
+    bytes: 400779
+    dimensions: 341x512
+    sha256: 8359bc1f37a1084b
+  - file: dennis-grobler-portrait-800.png
+    bytes: 871485
+    dimensions: 533x800
+    sha256: 52042e47cc1e5cd6

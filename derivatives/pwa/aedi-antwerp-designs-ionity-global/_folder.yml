@@ -1,0 +1,89 @@
+name: aedi-antwerp-designs-ionity-global
+path: derivatives/pwa/aedi-antwerp-designs-ionity-global
+title: derivatives/pwa/aedi-antwerp-designs-ionity-global
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 19
+total_bytes: 1932399
+formats:
+  png: 17
+  md: 1
+  yml: 1
+assets:
+  - file: aedi-antwerp-designs-ionity-global-1024.png
+    bytes: 766513
+    dimensions: 1024x1024
+    sha256: a83982d6dc2447bf
+  - file: aedi-antwerp-designs-ionity-global-128.png
+    bytes: 14970
+    dimensions: 128x128
+    sha256: baa07c83f790b860
+  - file: aedi-antwerp-designs-ionity-global-144.png
+    bytes: 18662
+    dimensions: 144x144
+    sha256: dcee2902decec005
+  - file: aedi-antwerp-designs-ionity-global-152.png
+    bytes: 20392
+    dimensions: 152x152
+    sha256: 88746dd76e773485
+  - file: aedi-antwerp-designs-ionity-global-167.png
+    bytes: 24472
+    dimensions: 167x167
+    sha256: 5dddec3a264ce0f0
+  - file: aedi-antwerp-designs-ionity-global-180.png
+    bytes: 28337
+    dimensions: 180x180
+    sha256: 3fb7d52c47801d30
+  - file: aedi-antwerp-designs-ionity-global-192.png
+    bytes: 31689
+    dimensions: 192x192
+    sha256: f93b70f8e09e03f7
+  - file: aedi-antwerp-designs-ionity-global-256.png
+    bytes: 54588
+    dimensions: 256x256
+    sha256: c8b27e230e445bc0
+  - file: aedi-antwerp-designs-ionity-global-384.png
+    bytes: 119073
+    dimensions: 384x384
+    sha256: 0ca2f5403aa63a87
+  - file: aedi-antwerp-designs-ionity-global-48.png
+    bytes: 2303
+    dimensions: 48x48
+    sha256: 908923c1afc2653c
+  - file: aedi-antwerp-designs-ionity-global-512.png
+    bytes: 207997
+    dimensions: 512x512
+    sha256: 5879907df71d6e45
+  - file: aedi-antwerp-designs-ionity-global-72.png
+    bytes: 4948
+    dimensions: 72x72
+    sha256: 51f76038085e2955
+  - file: aedi-antwerp-designs-ionity-global-96.png
+    bytes: 8594
+    dimensions: 96x96
+    sha256: 5e893c37722866c2
+  - file: aedi-antwerp-designs-ionity-global-apple-touch-icon.png
+    bytes: 24571
+    dimensions: 180x180
+    sha256: 52ed7e7975fb731f
+  - file: aedi-antwerp-designs-ionity-global-maskable-1024.png
+    bytes: 459958
+    dimensions: 1024x1024
+    sha256: ae5794d1d8b3959c
+  - file: aedi-antwerp-designs-ionity-global-maskable-192.png
+    bytes: 19067
+    dimensions: 192x192
+    sha256: ab4ac64408ca47b1
+  - file: aedi-antwerp-designs-ionity-global-maskable-512.png
+    bytes: 121270
+    dimensions: 512x512
+    sha256: 4d170b1efceca863

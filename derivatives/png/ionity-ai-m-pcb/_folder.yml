@@ -1,0 +1,101 @@
+name: ionity-ai-m-pcb
+path: derivatives/png/ionity-ai-m-pcb
+title: derivatives/png/ionity-ai-m-pcb
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  PNG size ladder, 16 px to 2048 px, aspect preserved, transparent.
+asset_count: 22
+total_bytes: 10763921
+formats:
+  png: 20
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-ai-m-pcb-1024.png
+    bytes: 1844826
+    dimensions: 1024x1024
+    sha256: 65d12acf9c3636f9
+  - file: ionity-ai-m-pcb-128.png
+    bytes: 31871
+    dimensions: 128x128
+    sha256: fcd202c750432fbc
+  - file: ionity-ai-m-pcb-1280.png
+    bytes: 2238430
+    dimensions: 1280x1280
+    sha256: 56e00442143fbdd9
+  - file: ionity-ai-m-pcb-1536.png
+    bytes: 1844826
+    dimensions: 1024x1024
+    sha256: 65d12acf9c3636f9
+  - file: ionity-ai-m-pcb-16.png
+    bytes: 736
+    dimensions: 16x16
+    sha256: ebdad044b7dec5b6
+  - file: ionity-ai-m-pcb-160.png
+    bytes: 48022
+    dimensions: 160x160
+    sha256: a038a8482f481d76
+  - file: ionity-ai-m-pcb-180.png
+    bytes: 60547
+    dimensions: 180x180
+    sha256: 8e69cf1d7346bde9
+  - file: ionity-ai-m-pcb-192.png
+    bytes: 68368
+    dimensions: 192x192
+    sha256: bff6c7dff24f1257
+  - file: ionity-ai-m-pcb-2048.png
+    bytes: 1844826
+    dimensions: 1024x1024
+    sha256: 65d12acf9c3636f9
+  - file: ionity-ai-m-pcb-24.png
+    bytes: 1393
+    dimensions: 24x24
+    sha256: 6ea8541199ae3721
+  - file: ionity-ai-m-pcb-256.png
+    bytes: 118596
+    dimensions: 256x256
+    sha256: 6d297788a6edf687
+  - file: ionity-ai-m-pcb-32.png
+    bytes: 2356
+    dimensions: 32x32
+    sha256: 904c9e63ca5af1b6
+  - file: ionity-ai-m-pcb-320.png
+    bytes: 178739
+    dimensions: 320x320
+    sha256: 73c5f41f83b61498
+  - file: ionity-ai-m-pcb-384.png
+    bytes: 263138
+    dimensions: 384x384
+    sha256: aab29180b478fae3
+  - file: ionity-ai-m-pcb-48.png
+    bytes: 5134
+    dimensions: 48x48
+    sha256: ac603fc2b151dea3
+  - file: ionity-ai-m-pcb-512.png
+    bytes: 465908
+    dimensions: 512x512
+    sha256: 0cc2e9baf4362207
+  - file: ionity-ai-m-pcb-64.png
+    bytes: 8753
+    dimensions: 64x64
+    sha256: 847a6379b07c5b22
+  - file: ionity-ai-m-pcb-640.png
+    bytes: 672486
+    dimensions: 640x640
+    sha256: f57df061efdb70ff
+  - file: ionity-ai-m-pcb-768.png
+    bytes: 1042156
+    dimensions: 768x768
+    sha256: 77c35ebdc4995963
+  - file: ionity-ai-m-pcb-96.png
+    bytes: 18680
+    dimensions: 96x96
+    sha256: 65d0e1368b8df4cc

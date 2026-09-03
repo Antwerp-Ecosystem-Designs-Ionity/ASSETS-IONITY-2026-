@@ -1,0 +1,177 @@
+name: ico
+path: derivatives/ico
+title: derivatives/ico
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Multi-resolution Windows icons (16/24/32/48/64/128/256 in one file).
+asset_count: 41
+total_bytes: 1953782
+formats:
+  ico: 39
+  md: 1
+  yml: 1
+assets:
+  - file: aedi-antwerp-designs-ionity-global.ico
+    bytes: 112401
+    dimensions: 256x256
+    sha256: bb8753491b08433f
+  - file: aedi-antwerpdesigns-ionityglobal-1.ico
+    bytes: 112401
+    dimensions: 256x256
+    sha256: bb8753491b08433f
+  - file: aedi-antwerpdesigns-ionityglobal.ico
+    bytes: 112401
+    dimensions: 256x256
+    sha256: bb8753491b08433f
+  - file: aedi-computer-ai-pol986-alt.ico
+    bytes: 1018
+    dimensions: 256x256
+    sha256: d0ff73df1f10e619
+  - file: aedi-computer-ai-pol986.ico
+    bytes: 1018
+    dimensions: 256x256
+    sha256: d0ff73df1f10e619
+  - file: aedi-edge-intelligence.ico
+    bytes: 86110
+    dimensions: 256x256
+    sha256: 422d993a9b9b4a58
+  - file: aedi-mark-pc.ico
+    bytes: 81737
+    dimensions: 256x256
+    sha256: 47689e7e68131423
+  - file: aedi-mark.ico
+    bytes: 50175
+    dimensions: 256x256
+    sha256: 2e1b5bc9dc2ffefa
+  - file: icon-gravatar.ico
+    bytes: 1018
+    dimensions: 256x256
+    sha256: d0ff73df1f10e619
+  - file: icon-linkedin.ico
+    bytes: 1018
+    dimensions: 256x256
+    sha256: d0ff73df1f10e619
+  - file: ionity-ai-lockup-transparent.ico
+    bytes: 14767
+    dimensions: 256x256
+    sha256: 2c225bd390d4c4f8
+  - file: ionity-ai-lockup.ico
+    bytes: 21511
+    dimensions: 256x256
+    sha256: ecd3c76605949bd2
+  - file: ionity-ai-m-pcb.ico
+    bytes: 159137
+    dimensions: 256x256
+    sha256: cb7f07203e85b885
+  - file: ionity-ai-mark-white.ico
+    bytes: 35655
+    dimensions: 256x256
+    sha256: e65c7215a55b35ff
+  - file: ionity-ai-mark.ico
+    bytes: 58477
+    dimensions: 256x256
+    sha256: da1657b9e1216286
+  - file: ionity-ecosystems-eagle.ico
+    bytes: 65181
+    dimensions: 256x256
+    sha256: 3840f1eae4214dd3
+  - file: ionity-global-badge-420.ico
+    bytes: 9858
+    dimensions: 256x256
+    sha256: 16769bed9e70fa65
+  - file: ionity-global-badge-932.ico
+    bytes: 124950
+    dimensions: 256x256
+    sha256: 1e37f1392b34ae54
+  - file: ionity-global-logo-primary.ico
+    bytes: 23512
+    dimensions: 256x256
+    sha256: 06c2c080e41f200b
+  - file: ionity-global-logo-transparent.ico
+    bytes: 23512
+    dimensions: 256x256
+    sha256: 06c2c080e41f200b
+  - file: ionity-global-pty-ltd-transparent-1000.ico
+    bytes: 17049
+    dimensions: 256x256
+    sha256: 5cad9c48594700a7
+  - file: ionity-global-pty-ltd-transparent.ico
+    bytes: 17112
+    dimensions: 256x256
+    sha256: fb9c8537a544b010
+  - file: ionity-logo-clouds.ico
+    bytes: 111685
+    dimensions: 256x256
+    sha256: 5e74203e53ba341f
+  - file: ionity-logo-dark.ico
+    bytes: 27858
+    dimensions: 256x256
+    sha256: 0ad0df31b5f2d34f
+  - file: ionity-logo-edited-png-202608250030.ico
+    bytes: 21945
+    dimensions: 256x256
+    sha256: 8e413edfd6267e71
+  - file: ionity-logo-white.ico
+    bytes: 36918
+    dimensions: 256x256
+    sha256: bd961fd85179b6f0
+  - file: ionity-today-logo-pol986.ico
+    bytes: 23512
+    dimensions: 256x256
+    sha256: 06c2c080e41f200b
+  - file: ionityglobal-1.ico
+    bytes: 9858
+    dimensions: 256x256
+    sha256: 16769bed9e70fa65
+  - file: ionityglobal-2-1.ico
+    bytes: 124950
+    dimensions: 256x256
+    sha256: 1e37f1392b34ae54
+  - file: ionityglobal-2.ico
+    bytes: 124950
+    dimensions: 256x256
+    sha256: 1e37f1392b34ae54
+  - file: ionityglobal.ico
+    bytes: 9858
+    dimensions: 256x256
+    sha256: 16769bed9e70fa65
+  - file: mojamind-logo-360.ico
+    bytes: 97695
+    dimensions: 256x256
+    sha256: 60b686ac24fa2d85
+  - file: nobify-logo.ico
+    bytes: 42063
+    dimensions: 256x256
+    sha256: d1ee38a6e6527d44
+  - file: nobify-tray.ico
+    bytes: 53283
+    dimensions: 256x256
+    sha256: 11fb1f13b71a668e
+  - file: nobify.ico
+    bytes: 42063
+    dimensions: 256x256
+    sha256: d1ee38a6e6527d44
+  - file: social-github.ico
+    bytes: 23512
+    dimensions: 256x256
+    sha256: 06c2c080e41f200b
+  - file: social-gravatar.ico
+    bytes: 23512
+    dimensions: 256x256
+    sha256: 06c2c080e41f200b
+  - file: social-linkedin.ico
+    bytes: 23512
+    dimensions: 256x256
+    sha256: 06c2c080e41f200b
+  - file: social-whatsapp.ico
+    bytes: 23512
+    dimensions: 256x256
+    sha256: 06c2c080e41f200b

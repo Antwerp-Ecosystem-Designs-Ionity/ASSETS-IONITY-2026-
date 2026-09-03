@@ -1,0 +1,47 @@
+name: product-marks
+path: brand/product-marks
+title: brand/product-marks
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Product and sub-brand marks: Nobify, AI-M PCB, MojaMind.
+asset_count: 8
+total_bytes: 4158222
+formats:
+  png: 4
+  md: 1
+  yml: 1
+  svg: 1
+  ico: 1
+assets:
+  - file: ionity-ai-m-pcb.png
+    bytes: 1599831
+    dimensions: 1024x1024
+    sha256: 950ba039adff547c
+  - file: ionity-ai-m-pcb.svg
+    bytes: 2177047
+    dimensions: 1024.0x1024.0
+    sha256: 0b251d4cc0151fe8
+  - file: nobify-logo.png
+    bytes: 150064
+    dimensions: 1195x619
+    sha256: 44eebd1eb45482e6
+  - file: nobify-tray.ico
+    bytes: 32038
+    dimensions: 64x64
+    sha256: a1380c79c2e8ae72
+  - file: nobify-tray.png
+    bytes: 5022
+    dimensions: 32x32
+    sha256: 1fc9797afd7f85aa
+  - file: nobify.png
+    bytes: 192159
+    dimensions: 1195x619
+    sha256: 96425c3e87b83c7e

@@ -1,0 +1,99 @@
+name: aedi-computer-ai-pol986-alt
+path: derivatives/png/aedi-computer-ai-pol986-alt
+title: derivatives/png/aedi-computer-ai-pol986-alt
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  PNG size ladder, 16 px to 2048 px, aspect preserved, transparent.
+asset_count: 20
+total_bytes: 30161
+formats:
+  png: 20
+assets:
+  - file: aedi-computer-ai-pol986-alt-1024.png
+    bytes: 2822
+    dimensions: 683x1024
+    sha256: c1faab18b805fb6f
+  - file: aedi-computer-ai-pol986-alt-128.png
+    bytes: 129
+    dimensions: 85x128
+    sha256: c295d555a61acaf2
+  - file: aedi-computer-ai-pol986-alt-1280.png
+    bytes: 4343
+    dimensions: 853x1280
+    sha256: 96c30f80cc01e972
+  - file: aedi-computer-ai-pol986-alt-1536.png
+    bytes: 6215
+    dimensions: 1024x1536
+    sha256: c5cc5a24a6b33718
+  - file: aedi-computer-ai-pol986-alt-16.png
+    bytes: 72
+    dimensions: 11x16
+    sha256: fac42e118228e3db
+  - file: aedi-computer-ai-pol986-alt-160.png
+    bytes: 154
+    dimensions: 107x160
+    sha256: e8fab5b394bdc271
+  - file: aedi-computer-ai-pol986-alt-180.png
+    bytes: 170
+    dimensions: 120x180
+    sha256: 40b2aa23da8e2faf
+  - file: aedi-computer-ai-pol986-alt-192.png
+    bytes: 181
+    dimensions: 128x192
+    sha256: 92cb7bf98e418e3d
+  - file: aedi-computer-ai-pol986-alt-2048.png
+    bytes: 10973
+    dimensions: 1365x2048
+    sha256: 8440e638654849ce
+  - file: aedi-computer-ai-pol986-alt-24.png
+    bytes: 78
+    dimensions: 16x24
+    sha256: bcdf0def1f67dc73
+  - file: aedi-computer-ai-pol986-alt-256.png
+    bytes: 258
+    dimensions: 171x256
+    sha256: 9291782864c45c70
+  - file: aedi-computer-ai-pol986-alt-32.png
+    bytes: 88
+    dimensions: 21x32
+    sha256: 309dbfa116ecdecf
+  - file: aedi-computer-ai-pol986-alt-320.png
+    bytes: 353
+    dimensions: 213x320
+    sha256: 7c64a8258517e12a
+  - file: aedi-computer-ai-pol986-alt-384.png
+    bytes: 469
+    dimensions: 256x384
+    sha256: 20d1f4db73953ee0
+  - file: aedi-computer-ai-pol986-alt-48.png
+    bytes: 91
+    dimensions: 32x48
+    sha256: 7be191a90cd7a471
+  - file: aedi-computer-ai-pol986-alt-512.png
+    bytes: 768
+    dimensions: 341x512
+    sha256: b269bf561f2f8356
+  - file: aedi-computer-ai-pol986-alt-64.png
+    bytes: 96
+    dimensions: 43x64
+    sha256: bc2d7e74395aa779
+  - file: aedi-computer-ai-pol986-alt-640.png
+    bytes: 1159
+    dimensions: 427x640
+    sha256: c7cd66dcab6139ee
+  - file: aedi-computer-ai-pol986-alt-768.png
+    bytes: 1632
+    dimensions: 512x768
+    sha256: 9c72e6193db8aee8
+  - file: aedi-computer-ai-pol986-alt-96.png
+    bytes: 110
+    dimensions: 64x96
+    sha256: 02b04417f8afbe6c

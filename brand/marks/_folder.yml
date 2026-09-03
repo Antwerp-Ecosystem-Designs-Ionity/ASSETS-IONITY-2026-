@@ -1,0 +1,83 @@
+name: marks
+path: brand/marks
+title: brand/marks
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Standalone AEDI and Ionity symbol marks (eagle, AI mark, edge intelligence).
+asset_count: 17
+total_bytes: 22028576
+formats:
+  png: 8
+  svg: 5
+  md: 1
+  yml: 1
+  jpg: 1
+  jpeg: 1
+assets:
+  - file: aedi-antwerpdesigns-ionityglobal-1.png
+    bytes: 1372838
+    dimensions: 1029x579
+    sha256: 6c54478be7d35be4
+  - file: aedi-antwerpdesigns-ionityglobal.png
+    bytes: 1372838
+    dimensions: 1029x579
+    sha256: 6c54478be7d35be4
+  - file: aedi-computer-ai-pol986-alt.svg
+    bytes: 263609
+    dimensions: 639.75x959.999988
+    sha256: b33a362498374c94
+  - file: aedi-computer-ai-pol986.svg
+    bytes: 263609
+    dimensions: 639.75x959.999988
+    sha256: 465fd3100644312b
+  - file: aedi-edge-intelligence.png
+    bytes: 1120999
+    dimensions: 1024x1024
+    sha256: f69b0199d251ced4
+  - file: aedi-edge-intelligence.svg
+    bytes: 1540618
+    dimensions: 1024.0x1024.0
+    sha256: db6b51b5cf56a4c8
+  - file: aedi-mark-pc.jpg
+    bytes: 102723
+    dimensions: 862x485
+    sha256: f9a4b0817795e8de
+  - file: aedi-mark.jpeg
+    bytes: 77331
+    dimensions: 853x1280
+    sha256: ebd69810b984f6f4
+  - file: aedi-mark.svg
+    bytes: 1471197
+    sha256: 1183197f8d6f69f8
+  - file: ionity-ai-lockup-transparent.png
+    bytes: 1911835
+    dimensions: 1536x1024
+    sha256: ef4c00d2caaa1e92
+  - file: ionity-ai-lockup.png
+    bytes: 113497
+    dimensions: 1536x1024
+    sha256: 8c005e15dad114c8
+  - file: ionity-ai-mark-white.png
+    bytes: 14215
+    dimensions: 512x512
+    sha256: ccae2eeefde62077
+  - file: ionity-ai-mark.png
+    bytes: 82828
+    dimensions: 512x512
+    sha256: c5a3d8e011acf1e8
+  - file: ionity-ecosystems-eagle.png
+    bytes: 5064203
+    dimensions: 6123x4082
+    sha256: 1e4e6311da0d8385
+  - file: ionity-ecosystems-eagle.svg
+    bytes: 7252758
+    dimensions: 6123.0x4082.0
+    sha256: 7cb1f5aca21be098

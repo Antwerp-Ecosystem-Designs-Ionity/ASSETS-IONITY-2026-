@@ -1,0 +1,87 @@
+name: ionity-today-logo-pol986
+path: derivatives/pwa/ionity-today-logo-pol986
+title: derivatives/pwa/ionity-today-logo-pol986
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 17
+total_bytes: 306104
+formats:
+  png: 17
+assets:
+  - file: ionity-today-logo-pol986-1024.png
+    bytes: 105129
+    dimensions: 1024x1024
+    sha256: 402bec9f2f997d71
+  - file: ionity-today-logo-pol986-128.png
+    bytes: 3952
+    dimensions: 128x128
+    sha256: 1482e8cc7c64e692
+  - file: ionity-today-logo-pol986-144.png
+    bytes: 4681
+    dimensions: 144x144
+    sha256: a40bcd561dbe774b
+  - file: ionity-today-logo-pol986-152.png
+    bytes: 5019
+    dimensions: 152x152
+    sha256: 6ab0b0cab4544750
+  - file: ionity-today-logo-pol986-167.png
+    bytes: 5741
+    dimensions: 167x167
+    sha256: e84707027a6e894c
+  - file: ionity-today-logo-pol986-180.png
+    bytes: 6482
+    dimensions: 180x180
+    sha256: 4b4a3b1a4e869af5
+  - file: ionity-today-logo-pol986-192.png
+    bytes: 7154
+    dimensions: 192x192
+    sha256: 99e8ad8d2d0e08f5
+  - file: ionity-today-logo-pol986-256.png
+    bytes: 11165
+    dimensions: 256x256
+    sha256: 41f521f7d383305f
+  - file: ionity-today-logo-pol986-384.png
+    bytes: 20930
+    dimensions: 384x384
+    sha256: 98c0be8bcaef6ecb
+  - file: ionity-today-logo-pol986-48.png
+    bytes: 1060
+    dimensions: 48x48
+    sha256: 14021d0870cc4349
+  - file: ionity-today-logo-pol986-512.png
+    bytes: 33705
+    dimensions: 512x512
+    sha256: 82bb018a1987af13
+  - file: ionity-today-logo-pol986-72.png
+    bytes: 1819
+    dimensions: 72x72
+    sha256: b64b1f78834269ef
+  - file: ionity-today-logo-pol986-96.png
+    bytes: 2656
+    dimensions: 96x96
+    sha256: b08dc266baf2e38c
+  - file: ionity-today-logo-pol986-apple-touch-icon.png
+    bytes: 6482
+    dimensions: 180x180
+    sha256: 4b4a3b1a4e869af5
+  - file: ionity-today-logo-pol986-maskable-1024.png
+    bytes: 65143
+    dimensions: 1024x1024
+    sha256: 31ea77984142ad1c
+  - file: ionity-today-logo-pol986-maskable-192.png
+    bytes: 4560
+    dimensions: 192x192
+    sha256: d64dee85a495248c
+  - file: ionity-today-logo-pol986-maskable-512.png
+    bytes: 20426
+    dimensions: 512x512
+    sha256: 7d443edd260db965

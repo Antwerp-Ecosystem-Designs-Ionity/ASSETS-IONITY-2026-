@@ -1,0 +1,39 @@
+name: aedi-antwerpdesigns-ionityglobal-1
+path: derivatives/png-square/aedi-antwerpdesigns-ionityglobal-1
+title: derivatives/png-square/aedi-antwerpdesigns-ionityglobal-1
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Square, padded, transparent PNG for avatars and tiles.
+asset_count: 5
+total_bytes: 1229119
+formats:
+  png: 5
+assets:
+  - file: aedi-antwerpdesigns-ionityglobal-1-square-1024.png
+    bytes: 894954
+    dimensions: 1024x1024
+    sha256: 1992cc46cb802939
+  - file: aedi-antwerpdesigns-ionityglobal-1-square-128.png
+    bytes: 17635
+    dimensions: 128x128
+    sha256: 86d236e0f32a85ad
+  - file: aedi-antwerpdesigns-ionityglobal-1-square-256.png
+    bytes: 65346
+    dimensions: 256x256
+    sha256: b58a35882a249a0d
+  - file: aedi-antwerpdesigns-ionityglobal-1-square-512.png
+    bytes: 246343
+    dimensions: 512x512
+    sha256: 61c592014f7c7e2c
+  - file: aedi-antwerpdesigns-ionityglobal-1-square-64.png
+    bytes: 4841
+    dimensions: 64x64
+    sha256: 28edfbeea752a884

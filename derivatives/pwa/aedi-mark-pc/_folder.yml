@@ -1,0 +1,87 @@
+name: aedi-mark-pc
+path: derivatives/pwa/aedi-mark-pc
+title: derivatives/pwa/aedi-mark-pc
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 17
+total_bytes: 1339729
+formats:
+  png: 17
+assets:
+  - file: aedi-mark-pc-1024.png
+    bytes: 507766
+    dimensions: 1024x1024
+    sha256: 792e9657304e2fda
+  - file: aedi-mark-pc-128.png
+    bytes: 11901
+    dimensions: 128x128
+    sha256: 9479aa8b0f1f6a67
+  - file: aedi-mark-pc-144.png
+    bytes: 14791
+    dimensions: 144x144
+    sha256: 837280f8a7df5edc
+  - file: aedi-mark-pc-152.png
+    bytes: 16242
+    dimensions: 152x152
+    sha256: 088b1bd7387a8089
+  - file: aedi-mark-pc-167.png
+    bytes: 19526
+    dimensions: 167x167
+    sha256: 43a996077fc58708
+  - file: aedi-mark-pc-180.png
+    bytes: 22395
+    dimensions: 180x180
+    sha256: 75e8ecba9472e867
+  - file: aedi-mark-pc-192.png
+    bytes: 25297
+    dimensions: 192x192
+    sha256: a94c43ad9eb3be1b
+  - file: aedi-mark-pc-256.png
+    bytes: 42896
+    dimensions: 256x256
+    sha256: bc2ac72923a43c8b
+  - file: aedi-mark-pc-384.png
+    bytes: 90157
+    dimensions: 384x384
+    sha256: cfee49e812a40d83
+  - file: aedi-mark-pc-48.png
+    bytes: 2152
+    dimensions: 48x48
+    sha256: b71709a7d232936d
+  - file: aedi-mark-pc-512.png
+    bytes: 152996
+    dimensions: 512x512
+    sha256: be8688300d2aa470
+  - file: aedi-mark-pc-72.png
+    bytes: 4262
+    dimensions: 72x72
+    sha256: fbad16bd2fa20855
+  - file: aedi-mark-pc-96.png
+    bytes: 7037
+    dimensions: 96x96
+    sha256: 1aeb599de4ab1351
+  - file: aedi-mark-pc-apple-touch-icon.png
+    bytes: 22395
+    dimensions: 180x180
+    sha256: 75e8ecba9472e867
+  - file: aedi-mark-pc-maskable-1024.png
+    bytes: 299850
+    dimensions: 1024x1024
+    sha256: cb334223e1fa847d
+  - file: aedi-mark-pc-maskable-192.png
+    bytes: 14065
+    dimensions: 192x192
+    sha256: df07dcf9fbfb25a1
+  - file: aedi-mark-pc-maskable-512.png
+    bytes: 86001
+    dimensions: 512x512
+    sha256: 81ece3890671bd75

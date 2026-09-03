@@ -1,0 +1,189 @@
+name: johan-wilhelm-van-antwerp
+path: derivatives/people/johan-wilhelm-van-antwerp
+title: derivatives/people/johan-wilhelm-van-antwerp
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Per-person derivative sizes.
+asset_count: 44
+total_bytes: 16753606
+formats:
+  png: 42
+  md: 1
+  yml: 1
+assets:
+  - file: author-johan-200-128.png
+    bytes: 29526
+    dimensions: 128x128
+    sha256: 2e4e0e7509e7f0ab
+  - file: johan-origin-retro-128.png
+    bytes: 26952
+    dimensions: 99x128
+    sha256: 6268751d9110ee86
+  - file: johan-origin-retro-256.png
+    bytes: 81198
+    dimensions: 198x256
+    sha256: db29f459e8e4e067
+  - file: johan-origin-retro-400.png
+    bytes: 160905
+    dimensions: 310x400
+    sha256: f1fb15fe730d7656
+  - file: johan-origin-retro-512.png
+    bytes: 235349
+    dimensions: 397x512
+    sha256: d66f80d5e0263df8
+  - file: johan-origin-retro-800.png
+    bytes: 464411
+    dimensions: 620x800
+    sha256: de7699dc12cc184b
+  - file: johan-portrait-200-128.png
+    bytes: 18164
+    dimensions: 128x128
+    sha256: daaeb09afeeda086
+  - file: johan-portrait-2048-1200.png
+    bytes: 842678
+    dimensions: 670x1200
+    sha256: aa8d28aade32b5a9
+  - file: johan-portrait-2048-128.png
+    bytes: 15688
+    dimensions: 71x128
+    sha256: 246c31e3e218d094
+  - file: johan-portrait-2048-2048.png
+    bytes: 1900915
+    dimensions: 1143x2048
+    sha256: a58607b9b1522eec
+  - file: johan-portrait-2048-256.png
+    bytes: 55133
+    dimensions: 143x256
+    sha256: 6f79c4510ba3e951
+  - file: johan-portrait-2048-400.png
+    bytes: 124491
+    dimensions: 223x400
+    sha256: f3259fc9bb376293
+  - file: johan-portrait-2048-512.png
+    bytes: 194562
+    dimensions: 286x512
+    sha256: 0dc64027f2f6db31
+  - file: johan-portrait-2048-800.png
+    bytes: 423347
+    dimensions: 446x800
+    sha256: 41f07b31c6a4d893
+  - file: johan-portrait-400-128.png
+    bytes: 38431
+    dimensions: 128x128
+    sha256: 06b295ffaef8089f
+  - file: johan-portrait-400-256.png
+    bytes: 135981
+    dimensions: 256x256
+    sha256: 55747b63f4ad1cf3
+  - file: johan-portrait-400-400.png
+    bytes: 290505
+    dimensions: 400x400
+    sha256: 0afb227e4787ce38
+  - file: johan-portrait-512-128.png
+    bytes: 23766
+    dimensions: 128x128
+    sha256: 76a5cafda80bd7fb
+  - file: johan-portrait-512-256.png
+    bytes: 61871
+    dimensions: 256x256
+    sha256: 8befc7c7a6bdc42d
+  - file: johan-portrait-512-400.png
+    bytes: 120475
+    dimensions: 400x400
+    sha256: b6ee3af8adacf465
+  - file: johan-portrait-512-512.png
+    bytes: 119007
+    dimensions: 512x512
+    sha256: d0eae2d13afa91f0
+  - file: johan-portrait-master-1200.png
+    bytes: 843672
+    dimensions: 670x1200
+    sha256: b27104ca906fb676
+  - file: johan-portrait-master-128.png
+    bytes: 16766
+    dimensions: 71x128
+    sha256: a6ef275c154f6932
+  - file: johan-portrait-master-2048.png
+    bytes: 1940042
+    dimensions: 1143x2048
+    sha256: 4deac04d6dbeda75
+  - file: johan-portrait-master-256.png
+    bytes: 57651
+    dimensions: 143x256
+    sha256: 7482c4f90a52e205
+  - file: johan-portrait-master-400.png
+    bytes: 128596
+    dimensions: 223x400
+    sha256: b848d1b3215c1218
+  - file: johan-portrait-master-512.png
+    bytes: 199873
+    dimensions: 286x512
+    sha256: 277d4b789dccf308
+  - file: johan-portrait-master-800.png
+    bytes: 430887
+    dimensions: 446x800
+    sha256: 5cdf461b3783a97e
+  - file: johan-signature-a-1200.png
+    bytes: 782298
+    dimensions: 1200x670
+    sha256: cf4d9742e6433028
+  - file: johan-signature-a-128.png
+    bytes: 19385
+    dimensions: 128x71
+    sha256: 7c2ffd393cf7e85f
+  - file: johan-signature-a-2048.png
+    bytes: 1699670
+    dimensions: 2048x1143
+    sha256: 378adb181f4e1224
+  - file: johan-signature-a-256.png
+    bytes: 64686
+    dimensions: 256x143
+    sha256: 3fabc37b15202f77
+  - file: johan-signature-a-400.png
+    bytes: 135530
+    dimensions: 400x223
+    sha256: 35e17115b6b27869
+  - file: johan-signature-a-512.png
+    bytes: 202463
+    dimensions: 512x286
+    sha256: 25301ace0ddf1331
+  - file: johan-signature-a-800.png
+    bytes: 412774
+    dimensions: 800x447
+    sha256: 7b20d41118539497
+  - file: johan-signature-ionity-1200.png
+    bytes: 1041192
+    dimensions: 1200x670
+    sha256: d714b618a0072aaa
+  - file: johan-signature-ionity-128.png
+    bytes: 21447
+    dimensions: 128x71
+    sha256: 1d3082590e125e69
+  - file: johan-signature-ionity-2048.png
+    bytes: 2362693
+    dimensions: 2048x1143
+    sha256: 092ab46b5309ec74
+  - file: johan-signature-ionity-256.png
+    bytes: 75720
+    dimensions: 256x143
+    sha256: 4ccda19b87597576
+  - file: johan-signature-ionity-400.png
+    bytes: 163557
+    dimensions: 400x223
+    sha256: 823482071108eaee
+  - file: johan-signature-ionity-512.png
+    bytes: 250254
+    dimensions: 512x286
+    sha256: c5adfe0c31af433b
+  - file: johan-signature-ionity-800.png
+    bytes: 531809
+    dimensions: 800x447
+    sha256: 0f388c13be61aa8c

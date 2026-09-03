@@ -1,0 +1,41 @@
+name: aedi-mark
+path: derivatives/png-square/aedi-mark
+title: derivatives/png-square/aedi-mark
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Square, padded, transparent PNG for avatars and tiles.
+asset_count: 7
+total_bytes: 294402
+formats:
+  png: 5
+  md: 1
+  yml: 1
+assets:
+  - file: aedi-mark-square-1024.png
+    bytes: 187371
+    dimensions: 1024x1024
+    sha256: a5db3d83eeb3cb43
+  - file: aedi-mark-square-128.png
+    bytes: 8338
+    dimensions: 128x128
+    sha256: fa2e3269c59da9f5
+  - file: aedi-mark-square-256.png
+    bytes: 24508
+    dimensions: 256x256
+    sha256: 6ed2e35967ed2a88
+  - file: aedi-mark-square-512.png
+    bytes: 69232
+    dimensions: 512x512
+    sha256: 9bdb2fa11a6274bb
+  - file: aedi-mark-square-64.png
+    bytes: 2808
+    dimensions: 64x64
+    sha256: 17a93a8a099d506e

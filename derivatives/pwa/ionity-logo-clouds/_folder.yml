@@ -1,0 +1,89 @@
+name: ionity-logo-clouds
+path: derivatives/pwa/ionity-logo-clouds
+title: derivatives/pwa/ionity-logo-clouds
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 19
+total_bytes: 1801722
+formats:
+  png: 17
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-logo-clouds-1024.png
+    bytes: 696288
+    dimensions: 1024x1024
+    sha256: a20be2b0c459c0a1
+  - file: ionity-logo-clouds-128.png
+    bytes: 15315
+    dimensions: 128x128
+    sha256: c4c24c7f77414135
+  - file: ionity-logo-clouds-144.png
+    bytes: 19281
+    dimensions: 144x144
+    sha256: cfed217530fffe6a
+  - file: ionity-logo-clouds-152.png
+    bytes: 21032
+    dimensions: 152x152
+    sha256: 7a6d506ddeae0a64
+  - file: ionity-logo-clouds-167.png
+    bytes: 24919
+    dimensions: 167x167
+    sha256: 3b0709079eb355f1
+  - file: ionity-logo-clouds-180.png
+    bytes: 28783
+    dimensions: 180x180
+    sha256: f6b078f0734aa52c
+  - file: ionity-logo-clouds-192.png
+    bytes: 32180
+    dimensions: 192x192
+    sha256: 06a6636f302f0d3a
+  - file: ionity-logo-clouds-256.png
+    bytes: 54401
+    dimensions: 256x256
+    sha256: ccac2856ce27a6ab
+  - file: ionity-logo-clouds-384.png
+    bytes: 114005
+    dimensions: 384x384
+    sha256: b648fc529e28830d
+  - file: ionity-logo-clouds-48.png
+    bytes: 2541
+    dimensions: 48x48
+    sha256: b6a3d30c7118d010
+  - file: ionity-logo-clouds-512.png
+    bytes: 194046
+    dimensions: 512x512
+    sha256: 82a07a3b80022224
+  - file: ionity-logo-clouds-72.png
+    bytes: 5330
+    dimensions: 72x72
+    sha256: 257d4e3787e44cad
+  - file: ionity-logo-clouds-96.png
+    bytes: 8863
+    dimensions: 96x96
+    sha256: d71d53615a97259e
+  - file: ionity-logo-clouds-apple-touch-icon.png
+    bytes: 25325
+    dimensions: 180x180
+    sha256: 3dd896b5931823d0
+  - file: ionity-logo-clouds-maskable-1024.png
+    bytes: 418377
+    dimensions: 1024x1024
+    sha256: 56dbc6dc3170d062
+  - file: ionity-logo-clouds-maskable-192.png
+    bytes: 19715
+    dimensions: 192x192
+    sha256: fb1f3584d507b25b
+  - file: ionity-logo-clouds-maskable-512.png
+    bytes: 116903
+    dimensions: 512x512
+    sha256: 60d2d3554aebbbd6

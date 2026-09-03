@@ -1,0 +1,35 @@
+name: aedi-computer-ai-pol986-alt
+path: derivatives/avif/aedi-computer-ai-pol986-alt
+title: derivatives/avif/aedi-computer-ai-pol986-alt
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  AVIF at 256/512/1024 - smallest modern format, progressive fallback to WebP.
+asset_count: 4
+total_bytes: 3589
+formats:
+  avif: 4
+assets:
+  - file: aedi-computer-ai-pol986-alt-1024.avif
+    bytes: 826
+    dimensions: 683x1024
+    sha256: d155416abae9d0ba
+  - file: aedi-computer-ai-pol986-alt-2048.avif
+    bytes: 1557
+    dimensions: 1365x2048
+    sha256: 4c1dda68204b6898
+  - file: aedi-computer-ai-pol986-alt-256.avif
+    bytes: 539
+    dimensions: 171x256
+    sha256: 8c30c837328f421e
+  - file: aedi-computer-ai-pol986-alt-512.avif
+    bytes: 667
+    dimensions: 341x512
+    sha256: de79b16ff749cf30

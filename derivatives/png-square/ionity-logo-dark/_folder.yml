@@ -1,0 +1,41 @@
+name: ionity-logo-dark
+path: derivatives/png-square/ionity-logo-dark
+title: derivatives/png-square/ionity-logo-dark
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Square, padded, transparent PNG for avatars and tiles.
+asset_count: 7
+total_bytes: 206635
+formats:
+  png: 5
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-logo-dark-square-1024.png
+    bytes: 144050
+    dimensions: 1024x1024
+    sha256: 91f6a882a94eb855
+  - file: ionity-logo-dark-square-128.png
+    bytes: 4685
+    dimensions: 128x128
+    sha256: 852993467e7051ff
+  - file: ionity-logo-dark-square-256.png
+    bytes: 13014
+    dimensions: 256x256
+    sha256: 1a60724a710fe11a
+  - file: ionity-logo-dark-square-512.png
+    bytes: 40922
+    dimensions: 512x512
+    sha256: 35943c87d2bc2317
+  - file: ionity-logo-dark-square-64.png
+    bytes: 1735
+    dimensions: 64x64
+    sha256: 7ffb43ab51d51372

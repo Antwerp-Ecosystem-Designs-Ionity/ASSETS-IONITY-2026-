@@ -1,0 +1,101 @@
+name: aedi-antwerp-designs-ionity-global
+path: derivatives/png/aedi-antwerp-designs-ionity-global
+title: derivatives/png/aedi-antwerp-designs-ionity-global
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  PNG size ladder, 16 px to 2048 px, aspect preserved, transparent.
+asset_count: 22
+total_bytes: 6923601
+formats:
+  png: 20
+  md: 1
+  yml: 1
+assets:
+  - file: aedi-antwerp-designs-ionity-global-1024.png
+    bytes: 1108571
+    dimensions: 1024x578
+    sha256: 50738f3b39380b11
+  - file: aedi-antwerp-designs-ionity-global-128.png
+    bytes: 21988
+    dimensions: 128x72
+    sha256: e0a26731c2953971
+  - file: aedi-antwerp-designs-ionity-global-1280.png
+    bytes: 1600293
+    dimensions: 1280x720
+    sha256: 4460fe3dc79317d0
+  - file: aedi-antwerp-designs-ionity-global-1536.png
+    bytes: 1099130
+    dimensions: 1025x579
+    sha256: 7d5699303f257698
+  - file: aedi-antwerp-designs-ionity-global-16.png
+    bytes: 543
+    dimensions: 16x9
+    sha256: 9e3d976370a327e0
+  - file: aedi-antwerp-designs-ionity-global-160.png
+    bytes: 33576
+    dimensions: 160x90
+    sha256: 8d0be37ecb9e37ac
+  - file: aedi-antwerp-designs-ionity-global-180.png
+    bytes: 42023
+    dimensions: 180x102
+    sha256: 8ec05869bb1d7b72
+  - file: aedi-antwerp-designs-ionity-global-192.png
+    bytes: 47121
+    dimensions: 192x108
+    sha256: 85f3372917d5f288
+  - file: aedi-antwerp-designs-ionity-global-2048.png
+    bytes: 1099130
+    dimensions: 1025x579
+    sha256: 7d5699303f257698
+  - file: aedi-antwerp-designs-ionity-global-24.png
+    bytes: 1053
+    dimensions: 24x14
+    sha256: a99672a602f980e4
+  - file: aedi-antwerp-designs-ionity-global-256.png
+    bytes: 82069
+    dimensions: 256x145
+    sha256: 4e4fe5541c8f2248
+  - file: aedi-antwerp-designs-ionity-global-32.png
+    bytes: 1655
+    dimensions: 32x18
+    sha256: 84ed7c30fd7e3904
+  - file: aedi-antwerp-designs-ionity-global-320.png
+    bytes: 125718
+    dimensions: 320x180
+    sha256: 524d39710755bc73
+  - file: aedi-antwerp-designs-ionity-global-384.png
+    bytes: 179546
+    dimensions: 384x217
+    sha256: d536be30eb76eebf
+  - file: aedi-antwerp-designs-ionity-global-48.png
+    bytes: 3466
+    dimensions: 48x27
+    sha256: ee6f7af31a722456
+  - file: aedi-antwerp-designs-ionity-global-512.png
+    bytes: 312565
+    dimensions: 512x289
+    sha256: db36a2f02e6603b4
+  - file: aedi-antwerp-designs-ionity-global-64.png
+    bytes: 5981
+    dimensions: 64x36
+    sha256: 38285295e7683621
+  - file: aedi-antwerp-designs-ionity-global-640.png
+    bytes: 474592
+    dimensions: 640x360
+    sha256: d05c22f4057f6ba4
+  - file: aedi-antwerp-designs-ionity-global-768.png
+    bytes: 667002
+    dimensions: 768x434
+    sha256: 0f99033fb89d4b6f
+  - file: aedi-antwerp-designs-ionity-global-96.png
+    bytes: 12818
+    dimensions: 96x54
+    sha256: cffa4397d6a0da2d

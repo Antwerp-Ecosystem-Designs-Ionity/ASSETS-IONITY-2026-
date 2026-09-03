@@ -1,0 +1,66 @@
+name: ascii
+path: ansi/ascii
+title: ansi/ascii
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Plain ASCII renders - safe for logs, READMEs and monochrome terminals.
+asset_count: 17
+total_bytes: 45482
+formats:
+  txt: 15
+  md: 1
+  yml: 1
+assets:
+  - file: aedi-mark-ascii-110col.txt
+    bytes: 9213
+    sha256: 2cc5f9e4f00519e8
+  - file: aedi-mark-ascii-60col.txt
+    bytes: 2745
+    sha256: 0edc93f222c3e1a6
+  - file: ionity-ai-mark-ascii-110col.txt
+    bytes: 6105
+    sha256: c2daab944beb4934
+  - file: ionity-ai-mark-ascii-60col.txt
+    bytes: 1830
+    sha256: 4eab08ad41e1679e
+  - file: ionity-ecosystems-eagle-ascii-110col.txt
+    bytes: 4107
+    sha256: 2ba184f5c65daa7d
+  - file: ionity-ecosystems-eagle-ascii-60col.txt
+    bytes: 1220
+    sha256: 4c266fe12b04a9c7
+  - file: ionity-global-logo-ascii-110col.txt
+    bytes: 4107
+    sha256: c5338d16a617b4b4
+  - file: ionity-global-logo-ascii-60col.txt
+    bytes: 1220
+    sha256: afc65262f00aa0f0
+  - file: ionity-logo-white-ascii-110col.txt
+    bytes: 4107
+    sha256: debc7ee2f86ba0fa
+  - file: ionity-logo-white-ascii-60col.txt
+    bytes: 1220
+    sha256: 9544cd0ce328986b
+  - file: ionity-nodes.txt
+    bytes: 323
+    sha256: d350d11d41298c00
+  - file: ionity-wordmark.txt
+    bytes: 266
+    sha256: ced4c59c780d24f6
+  - file: nobify-logo-ascii-110col.txt
+    bytes: 3108
+    sha256: 7de951d24148aade
+  - file: nobify-logo-ascii-60col.txt
+    bytes: 976
+    sha256: 5745849bbab56107
+  - file: signature-block.txt
+    bytes: 1534
+    sha256: c132c3411e70f61b

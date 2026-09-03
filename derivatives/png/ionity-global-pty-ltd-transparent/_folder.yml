@@ -1,0 +1,101 @@
+name: ionity-global-pty-ltd-transparent
+path: derivatives/png/ionity-global-pty-ltd-transparent
+title: derivatives/png/ionity-global-pty-ltd-transparent
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  PNG size ladder, 16 px to 2048 px, aspect preserved, transparent.
+asset_count: 22
+total_bytes: 4245969
+formats:
+  png: 20
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-global-pty-ltd-transparent-1024.png
+    bytes: 116480
+    dimensions: 1024x694
+    sha256: e998a3b40761dabe
+  - file: ionity-global-pty-ltd-transparent-128.png
+    bytes: 3735
+    dimensions: 128x87
+    sha256: b8c5700ca00c0e81
+  - file: ionity-global-pty-ltd-transparent-1280.png
+    bytes: 171595
+    dimensions: 1280x853
+    sha256: ec3c801a937a32dd
+  - file: ionity-global-pty-ltd-transparent-1536.png
+    bytes: 1867863
+    dimensions: 1511x1024
+    sha256: 37995a2d015b909e
+  - file: ionity-global-pty-ltd-transparent-16.png
+    bytes: 302
+    dimensions: 16x11
+    sha256: e34fd1a4828f279a
+  - file: ionity-global-pty-ltd-transparent-160.png
+    bytes: 5060
+    dimensions: 160x107
+    sha256: 7a2b0ad775e46db6
+  - file: ionity-global-pty-ltd-transparent-180.png
+    bytes: 6193
+    dimensions: 180x122
+    sha256: f57d026fadc7b8a3
+  - file: ionity-global-pty-ltd-transparent-192.png
+    bytes: 6846
+    dimensions: 192x130
+    sha256: 05685270b319d87d
+  - file: ionity-global-pty-ltd-transparent-2048.png
+    bytes: 1867863
+    dimensions: 1511x1024
+    sha256: 37995a2d015b909e
+  - file: ionity-global-pty-ltd-transparent-24.png
+    bytes: 384
+    dimensions: 24x16
+    sha256: 3178588da5e2504f
+  - file: ionity-global-pty-ltd-transparent-256.png
+    bytes: 10753
+    dimensions: 256x173
+    sha256: da14954e1789126f
+  - file: ionity-global-pty-ltd-transparent-32.png
+    bytes: 567
+    dimensions: 32x22
+    sha256: 09094585ec9799f2
+  - file: ionity-global-pty-ltd-transparent-320.png
+    bytes: 14624
+    dimensions: 320x213
+    sha256: 494fa1183474a686
+  - file: ionity-global-pty-ltd-transparent-384.png
+    bytes: 19965
+    dimensions: 384x260
+    sha256: a3c0176d83f18f2e
+  - file: ionity-global-pty-ltd-transparent-48.png
+    bytes: 893
+    dimensions: 48x33
+    sha256: b5c6dc48091d9730
+  - file: ionity-global-pty-ltd-transparent-512.png
+    bytes: 32619
+    dimensions: 512x347
+    sha256: 93d49dfd6fbb8b1c
+  - file: ionity-global-pty-ltd-transparent-64.png
+    bytes: 1421
+    dimensions: 64x43
+    sha256: 701c3b47dbc6894d
+  - file: ionity-global-pty-ltd-transparent-640.png
+    bytes: 46117
+    dimensions: 640x427
+    sha256: 2d63a28d986040e4
+  - file: ionity-global-pty-ltd-transparent-768.png
+    bytes: 65460
+    dimensions: 768x520
+    sha256: 9edfe36a64b7b929
+  - file: ionity-global-pty-ltd-transparent-96.png
+    bytes: 2522
+    dimensions: 96x65
+    sha256: fda96484f291956b

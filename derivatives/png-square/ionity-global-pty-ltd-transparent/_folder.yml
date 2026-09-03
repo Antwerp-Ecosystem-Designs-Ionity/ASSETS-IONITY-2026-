@@ -1,0 +1,41 @@
+name: ionity-global-pty-ltd-transparent
+path: derivatives/png-square/ionity-global-pty-ltd-transparent
+title: derivatives/png-square/ionity-global-pty-ltd-transparent
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Square, padded, transparent PNG for avatars and tiles.
+asset_count: 7
+total_bytes: 124027
+formats:
+  png: 5
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-global-pty-ltd-transparent-square-1024.png
+    bytes: 84222
+    dimensions: 1024x1024
+    sha256: 6e0701a7f3f05d47
+  - file: ionity-global-pty-ltd-transparent-square-128.png
+    bytes: 3103
+    dimensions: 128x128
+    sha256: 9495341044d7ca92
+  - file: ionity-global-pty-ltd-transparent-square-256.png
+    bytes: 8311
+    dimensions: 256x256
+    sha256: 3fe3088f2b52bca8
+  - file: ionity-global-pty-ltd-transparent-square-512.png
+    bytes: 24848
+    dimensions: 512x512
+    sha256: 3d3869e33fd13fc8
+  - file: ionity-global-pty-ltd-transparent-square-64.png
+    bytes: 1111
+    dimensions: 64x64
+    sha256: 83b647bf904be158

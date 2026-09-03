@@ -1,0 +1,101 @@
+name: ionity-logo-clouds
+path: derivatives/social/ionity-logo-clouds
+title: derivatives/social/ionity-logo-clouds
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Platform-exact social scopes - OG, X, LinkedIn, Instagram, YouTube and more.
+asset_count: 22
+total_bytes: 8743924
+formats:
+  png: 20
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-logo-clouds-avatar-400-400x400.png
+    bytes: 75506
+    dimensions: 400x400
+    sha256: d62b532a03f6bbdc
+  - file: ionity-logo-clouds-avatar-512-512x512.png
+    bytes: 108548
+    dimensions: 512x512
+    sha256: 9e774c122a6e9c88
+  - file: ionity-logo-clouds-discord-banner-960x540.png
+    bytes: 376478
+    dimensions: 960x540
+    sha256: 6ec88c914f1022fb
+  - file: ionity-logo-clouds-email-signature-600x200.png
+    bytes: 86156
+    dimensions: 600x200
+    sha256: ba0787d518f3d2ad
+  - file: ionity-logo-clouds-facebook-cover-1640x624.png
+    bytes: 584081
+    dimensions: 1640x624
+    sha256: df4089272cdc5c76
+  - file: ionity-logo-clouds-github-social-1280x640.png
+    bytes: 391103
+    dimensions: 1280x640
+    sha256: 04669ed3f512269c
+  - file: ionity-logo-clouds-instagram-portrait-1080x1350.png
+    bytes: 379653
+    dimensions: 1080x1350
+    sha256: eeb2557635852654
+  - file: ionity-logo-clouds-instagram-square-1080x1080.png
+    bytes: 377995
+    dimensions: 1080x1080
+    sha256: 5851a1dcc0facd5c
+  - file: ionity-logo-clouds-instagram-story-1080x1920.png
+    bytes: 378349
+    dimensions: 1080x1920
+    sha256: 7be40ca8ca5b66a6
+  - file: ionity-logo-clouds-linkedin-cover-1584x396.png
+    bytes: 262299
+    dimensions: 1584x396
+    sha256: 4d148bfcbfe9ddde
+  - file: ionity-logo-clouds-linkedin-post-1200x627.png
+    bytes: 376717
+    dimensions: 1200x627
+    sha256: ee7c57fba12ff74b
+  - file: ionity-logo-clouds-og-facebook-linkedin-1200x630.png
+    bytes: 378907
+    dimensions: 1200x630
+    sha256: bed07943522578cd
+  - file: ionity-logo-clouds-og-twitter-x-1200x675.png
+    bytes: 428580
+    dimensions: 1200x675
+    sha256: f53d9e9c71bfc496
+  - file: ionity-logo-clouds-pinterest-pin-1000x1500.png
+    bytes: 422230
+    dimensions: 1000x1500
+    sha256: a44888ae2026a1c4
+  - file: ionity-logo-clouds-presentation-16x9-1920x1080.png
+    bytes: 1009937
+    dimensions: 1920x1080
+    sha256: 067506fed90e057f
+  - file: ionity-logo-clouds-tiktok-cover-1080x1920.png
+    bytes: 486297
+    dimensions: 1080x1920
+    sha256: d75b7c56220cc5f1
+  - file: ionity-logo-clouds-whatsapp-profile-640x640.png
+    bytes: 189490
+    dimensions: 640x640
+    sha256: 9b51bd2ae90780e8
+  - file: ionity-logo-clouds-x-header-1500x500.png
+    bytes: 392746
+    dimensions: 1500x500
+    sha256: fc0c2fea7206fd5a
+  - file: ionity-logo-clouds-youtube-banner-2560x1440.png
+    bytes: 1551799
+    dimensions: 2560x1440
+    sha256: fa9598ee40360c71
+  - file: ionity-logo-clouds-youtube-thumbnail-1280x720.png
+    bytes: 482250
+    dimensions: 1280x720
+    sha256: a1c7bce5724be038

@@ -1,0 +1,87 @@
+name: nobify
+path: derivatives/pwa/nobify
+title: derivatives/pwa/nobify
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 17
+total_bytes: 445766
+formats:
+  png: 17
+assets:
+  - file: nobify-1024.png
+    bytes: 130723
+    dimensions: 1024x1024
+    sha256: d4765fa025ef8b1a
+  - file: nobify-128.png
+    bytes: 6812
+    dimensions: 128x128
+    sha256: a2b4bb297cdea40a
+  - file: nobify-144.png
+    bytes: 8147
+    dimensions: 144x144
+    sha256: 6b0b6fa45cfd8b28
+  - file: nobify-152.png
+    bytes: 8941
+    dimensions: 152x152
+    sha256: dd861316fe6b372d
+  - file: nobify-167.png
+    bytes: 10344
+    dimensions: 167x167
+    sha256: db6901531d173f5b
+  - file: nobify-180.png
+    bytes: 11453
+    dimensions: 180x180
+    sha256: 5ed5f86e362b31c1
+  - file: nobify-192.png
+    bytes: 12710
+    dimensions: 192x192
+    sha256: 46b7da9af9b2a760
+  - file: nobify-256.png
+    bytes: 19409
+    dimensions: 256x256
+    sha256: 0eb16249ab7f6ed5
+  - file: nobify-384.png
+    bytes: 35186
+    dimensions: 384x384
+    sha256: 4f0a068e62028c55
+  - file: nobify-48.png
+    bytes: 1611
+    dimensions: 48x48
+    sha256: d8696ffbf02889c1
+  - file: nobify-512.png
+    bytes: 51741
+    dimensions: 512x512
+    sha256: f3e0227e5d04169b
+  - file: nobify-72.png
+    bytes: 2910
+    dimensions: 72x72
+    sha256: 46359024fba9c1bf
+  - file: nobify-96.png
+    bytes: 4380
+    dimensions: 96x96
+    sha256: edd04641ac587dfa
+  - file: nobify-apple-touch-icon.png
+    bytes: 11453
+    dimensions: 180x180
+    sha256: 5ed5f86e362b31c1
+  - file: nobify-maskable-1024.png
+    bytes: 87097
+    dimensions: 1024x1024
+    sha256: 960773acc33f701b
+  - file: nobify-maskable-192.png
+    bytes: 8072
+    dimensions: 192x192
+    sha256: 33d42a0ec157e491
+  - file: nobify-maskable-512.png
+    bytes: 34777
+    dimensions: 512x512
+    sha256: 485a762b1f05d19e

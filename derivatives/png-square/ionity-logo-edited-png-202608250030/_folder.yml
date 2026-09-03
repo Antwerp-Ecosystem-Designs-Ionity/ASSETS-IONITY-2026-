@@ -1,0 +1,39 @@
+name: ionity-logo-edited-png-202608250030
+path: derivatives/png-square/ionity-logo-edited-png-202608250030
+title: derivatives/png-square/ionity-logo-edited-png-202608250030
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Square, padded, transparent PNG for avatars and tiles.
+asset_count: 5
+total_bytes: 166380
+formats:
+  png: 5
+assets:
+  - file: ionity-logo-edited-png-202608250030-square-1024.png
+    bytes: 117146
+    dimensions: 1024x1024
+    sha256: 7c78f42a98742f11
+  - file: ionity-logo-edited-png-202608250030-square-128.png
+    bytes: 3639
+    dimensions: 128x128
+    sha256: 423f9ff95527862f
+  - file: ionity-logo-edited-png-202608250030-square-256.png
+    bytes: 10638
+    dimensions: 256x256
+    sha256: 6e65f543cb018b6b
+  - file: ionity-logo-edited-png-202608250030-square-512.png
+    bytes: 33500
+    dimensions: 512x512
+    sha256: 863bb06cb62d37fd
+  - file: ionity-logo-edited-png-202608250030-square-64.png
+    bytes: 1457
+    dimensions: 64x64
+    sha256: b9fdd77776ec4ba4

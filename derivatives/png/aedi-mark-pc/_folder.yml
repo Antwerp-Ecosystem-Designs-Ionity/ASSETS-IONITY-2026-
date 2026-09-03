@@ -1,0 +1,99 @@
+name: aedi-mark-pc
+path: derivatives/png/aedi-mark-pc
+title: derivatives/png/aedi-mark-pc
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  PNG size ladder, 16 px to 2048 px, aspect preserved, transparent.
+asset_count: 20
+total_bytes: 5495998
+formats:
+  png: 20
+assets:
+  - file: aedi-mark-pc-1024.png
+    bytes: 635037
+    dimensions: 1024x576
+    sha256: 5534626704d003ad
+  - file: aedi-mark-pc-128.png
+    bytes: 15966
+    dimensions: 128x72
+    sha256: 34228f397465f4fd
+  - file: aedi-mark-pc-1280.png
+    bytes: 863513
+    dimensions: 1280x720
+    sha256: c7a162621c94b16d
+  - file: aedi-mark-pc-1536.png
+    bytes: 1099564
+    dimensions: 1536x864
+    sha256: a518777e9c9e6019
+  - file: aedi-mark-pc-16.png
+    bytes: 478
+    dimensions: 16x9
+    sha256: 9fc7868163252f30
+  - file: aedi-mark-pc-160.png
+    bytes: 24178
+    dimensions: 160x90
+    sha256: 4a3972691ddfcf7d
+  - file: aedi-mark-pc-180.png
+    bytes: 29953
+    dimensions: 180x101
+    sha256: 2502c2131feded4d
+  - file: aedi-mark-pc-192.png
+    bytes: 33836
+    dimensions: 192x108
+    sha256: f3a7e1bb30f9d174
+  - file: aedi-mark-pc-2048.png
+    bytes: 1593745
+    dimensions: 2048x1152
+    sha256: 761fd67c7dda997b
+  - file: aedi-mark-pc-24.png
+    bytes: 912
+    dimensions: 24x14
+    sha256: 69645bbaeca56bce
+  - file: aedi-mark-pc-256.png
+    bytes: 57265
+    dimensions: 256x144
+    sha256: ae108a09a50c7d90
+  - file: aedi-mark-pc-32.png
+    bytes: 1392
+    dimensions: 32x18
+    sha256: 6bb8110525356b47
+  - file: aedi-mark-pc-320.png
+    bytes: 86469
+    dimensions: 320x180
+    sha256: 502f0b6840adcc4d
+  - file: aedi-mark-pc-384.png
+    bytes: 120768
+    dimensions: 384x216
+    sha256: 72fa17fa2da24622
+  - file: aedi-mark-pc-48.png
+    bytes: 2757
+    dimensions: 48x27
+    sha256: b6624744da6d1a6d
+  - file: aedi-mark-pc-512.png
+    bytes: 204306
+    dimensions: 512x288
+    sha256: 336b2842a89d4547
+  - file: aedi-mark-pc-64.png
+    bytes: 4569
+    dimensions: 64x36
+    sha256: c48cbee7578b1ace
+  - file: aedi-mark-pc-640.png
+    bytes: 301550
+    dimensions: 640x360
+    sha256: e092b548d8c0bc93
+  - file: aedi-mark-pc-768.png
+    bytes: 410255
+    dimensions: 768x432
+    sha256: dd8d5bea7aaa1108
+  - file: aedi-mark-pc-96.png
+    bytes: 9485
+    dimensions: 96x54
+    sha256: b0e910c49723e718

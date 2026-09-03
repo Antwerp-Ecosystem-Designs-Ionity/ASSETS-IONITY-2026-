@@ -1,0 +1,101 @@
+name: ionity-logo-dark
+path: derivatives/png/ionity-logo-dark
+title: derivatives/png/ionity-logo-dark
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  PNG size ladder, 16 px to 2048 px, aspect preserved, transparent.
+asset_count: 22
+total_bytes: 1462843
+formats:
+  png: 20
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-logo-dark-1024.png
+    bytes: 191812
+    dimensions: 1024x683
+    sha256: 6e503602ec9e12ce
+  - file: ionity-logo-dark-128.png
+    bytes: 5682
+    dimensions: 128x85
+    sha256: e3357e5bcda422b8
+  - file: ionity-logo-dark-1280.png
+    bytes: 241374
+    dimensions: 1280x853
+    sha256: bca567d642413e4b
+  - file: ionity-logo-dark-1536.png
+    bytes: 335780
+    dimensions: 1536x1024
+    sha256: a01bc3dc330a0e87
+  - file: ionity-logo-dark-16.png
+    bytes: 367
+    dimensions: 16x11
+    sha256: c2cee74bfc1f5714
+  - file: ionity-logo-dark-160.png
+    bytes: 8035
+    dimensions: 160x107
+    sha256: e3d7651474eb4b4f
+  - file: ionity-logo-dark-180.png
+    bytes: 9637
+    dimensions: 180x120
+    sha256: 0244219e104b5d8e
+  - file: ionity-logo-dark-192.png
+    bytes: 10526
+    dimensions: 192x128
+    sha256: 142000aa1f142b15
+  - file: ionity-logo-dark-2048.png
+    bytes: 335780
+    dimensions: 1536x1024
+    sha256: a01bc3dc330a0e87
+  - file: ionity-logo-dark-24.png
+    bytes: 571
+    dimensions: 24x16
+    sha256: 84df8f551db1d04d
+  - file: ionity-logo-dark-256.png
+    bytes: 16280
+    dimensions: 256x171
+    sha256: 4365aefb8f0249a0
+  - file: ionity-logo-dark-32.png
+    bytes: 836
+    dimensions: 32x21
+    sha256: dde15213a4d0ee6e
+  - file: ionity-logo-dark-320.png
+    bytes: 23100
+    dimensions: 320x213
+    sha256: cfc35156ff1848fb
+  - file: ionity-logo-dark-384.png
+    bytes: 31774
+    dimensions: 384x256
+    sha256: 7e1c999d6198b08b
+  - file: ionity-logo-dark-48.png
+    bytes: 1482
+    dimensions: 48x32
+    sha256: aa56cc95a52dc425
+  - file: ionity-logo-dark-512.png
+    bytes: 53487
+    dimensions: 512x341
+    sha256: 4f1514d58419191a
+  - file: ionity-logo-dark-64.png
+    bytes: 2179
+    dimensions: 64x43
+    sha256: 8f3c5685465079e4
+  - file: ionity-logo-dark-640.png
+    bytes: 74831
+    dimensions: 640x427
+    sha256: 5de766c5ae6d9ba9
+  - file: ionity-logo-dark-768.png
+    bytes: 111325
+    dimensions: 768x512
+    sha256: 35e7367b8a6526cb
+  - file: ionity-logo-dark-96.png
+    bytes: 3855
+    dimensions: 96x64
+    sha256: 4835934c002744d4

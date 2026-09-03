@@ -1,0 +1,49 @@
+name: icons
+path: brand/icons
+title: brand/icons
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Small UI and social glyphs used across Ionity properties.
+asset_count: 9
+total_bytes: 6813176
+formats:
+  svg: 7
+  md: 1
+  yml: 1
+assets:
+  - file: icon-github.svg
+    bytes: 824
+    dimensions: 24.0x24.0
+    sha256: 82432112767d32f0
+  - file: icon-gravatar.svg
+    bytes: 306
+    dimensions: 24.0x24.0
+    sha256: eb5dab3be6df6a81
+  - file: icon-linkedin.svg
+    bytes: 602
+    dimensions: 24.0x24.0
+    sha256: c402631c83b3b8e1
+  - file: social-github.svg
+    bytes: 1702315
+    dimensions: 3872.0x2581.0
+    sha256: 22e619e32056bafc
+  - file: social-gravatar.svg
+    bytes: 1702317
+    dimensions: 3872.0x2581.0
+    sha256: cbeeea7130051969
+  - file: social-linkedin.svg
+    bytes: 1702317
+    dimensions: 3872.0x2581.0
+    sha256: 0ebd837e7c69f81f
+  - file: social-whatsapp.svg
+    bytes: 1702317
+    dimensions: 3872.0x2581.0
+    sha256: 1cf582fe56a5955d

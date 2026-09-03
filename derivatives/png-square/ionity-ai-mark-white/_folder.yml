@@ -1,0 +1,41 @@
+name: ionity-ai-mark-white
+path: derivatives/png-square/ionity-ai-mark-white
+title: derivatives/png-square/ionity-ai-mark-white
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Square, padded, transparent PNG for avatars and tiles.
+asset_count: 7
+total_bytes: 80583
+formats:
+  png: 5
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-ai-mark-white-square-1024.png
+    bytes: 19967
+    dimensions: 1024x1024
+    sha256: 0c710582d9acddd5
+  - file: ionity-ai-mark-white-square-128.png
+    bytes: 6021
+    dimensions: 128x128
+    sha256: 0f0e1d6d020cbad6
+  - file: ionity-ai-mark-white-square-256.png
+    bytes: 14573
+    dimensions: 256x256
+    sha256: a09baac3cbdb77eb
+  - file: ionity-ai-mark-white-square-512.png
+    bytes: 34726
+    dimensions: 512x512
+    sha256: ca8a6af9c9b70a79
+  - file: ionity-ai-mark-white-square-64.png
+    bytes: 3022
+    dimensions: 64x64
+    sha256: 28ff38e7bd9291df

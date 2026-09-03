@@ -1,0 +1,137 @@
+name: ian-jaco-raven
+path: derivatives/people/ian-jaco-raven
+title: derivatives/people/ian-jaco-raven
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Per-person derivative sizes.
+asset_count: 31
+total_bytes: 12154762
+formats:
+  png: 29
+  md: 1
+  yml: 1
+assets:
+  - file: ian-jaco-raven-business-card-2752-1200.png
+    bytes: 995460
+    dimensions: 1200x670
+    sha256: 942f5c95055a0c7d
+  - file: ian-jaco-raven-business-card-2752-128.png
+    bytes: 21119
+    dimensions: 128x71
+    sha256: 5eb3e07ade01f37c
+  - file: ian-jaco-raven-business-card-2752-2048.png
+    bytes: 2218853
+    dimensions: 2048x1143
+    sha256: 77af2014a38126e7
+  - file: ian-jaco-raven-business-card-2752-256.png
+    bytes: 74410
+    dimensions: 256x143
+    sha256: 92919cfa5a84dddf
+  - file: ian-jaco-raven-business-card-2752-400.png
+    bytes: 160565
+    dimensions: 400x223
+    sha256: 2a3272a2c4efb4ed
+  - file: ian-jaco-raven-business-card-2752-512.png
+    bytes: 244558
+    dimensions: 512x286
+    sha256: 1d48e4479f5508d6
+  - file: ian-jaco-raven-business-card-2752-800.png
+    bytes: 514230
+    dimensions: 800x447
+    sha256: 61d840f416a1103e
+  - file: ian-jaco-raven-business-card-6880-1200.png
+    bytes: 994566
+    dimensions: 1200x670
+    sha256: c7694b154ebbada2
+  - file: ian-jaco-raven-business-card-6880-128.png
+    bytes: 21141
+    dimensions: 128x71
+    sha256: 25a038bba0877d2b
+  - file: ian-jaco-raven-business-card-6880-2048.png
+    bytes: 2189372
+    dimensions: 2048x1143
+    sha256: 7491111692b1a083
+  - file: ian-jaco-raven-business-card-6880-256.png
+    bytes: 74381
+    dimensions: 256x143
+    sha256: 1c12ea2d88f0d53f
+  - file: ian-jaco-raven-business-card-6880-400.png
+    bytes: 160723
+    dimensions: 400x223
+    sha256: 3a2ca0a260210138
+  - file: ian-jaco-raven-business-card-6880-512.png
+    bytes: 244223
+    dimensions: 512x286
+    sha256: 8caddb0d0005d4c1
+  - file: ian-jaco-raven-business-card-6880-800.png
+    bytes: 511508
+    dimensions: 800x447
+    sha256: 02039a929a1dd26c
+  - file: ian-jaco-raven-portrait-1200.png
+    bytes: 1669865
+    dimensions: 799x1200
+    sha256: 9e235b5a2d125f0e
+  - file: ian-jaco-raven-portrait-128.png
+    bytes: 27070
+    dimensions: 85x128
+    sha256: ec361f2d2ecb40a6
+  - file: ian-jaco-raven-portrait-256.png
+    bytes: 100315
+    dimensions: 171x256
+    sha256: 59d00c5eb0c5067d
+  - file: ian-jaco-raven-portrait-400.png
+    bytes: 233174
+    dimensions: 266x400
+    sha256: 666c7d2dd6aae5b3
+  - file: ian-jaco-raven-portrait-512.png
+    bytes: 367483
+    dimensions: 341x512
+    sha256: b4c760a270bfb241
+  - file: ian-jaco-raven-portrait-800.png
+    bytes: 820006
+    dimensions: 533x800
+    sha256: 247a3b106befc6ff
+  - file: ian-jaco-raven-signature-1250-1200.png
+    bytes: 225195
+    dimensions: 1200x600
+    sha256: c76172c51368b08e
+  - file: ian-jaco-raven-signature-1250-128.png
+    bytes: 4991
+    dimensions: 128x64
+    sha256: 37806fb026a4eb4e
+  - file: ian-jaco-raven-signature-1250-256.png
+    bytes: 15983
+    dimensions: 256x128
+    sha256: e1a03f89ba3b941c
+  - file: ian-jaco-raven-signature-1250-400.png
+    bytes: 34547
+    dimensions: 400x200
+    sha256: 922b0bd982463c52
+  - file: ian-jaco-raven-signature-1250-512.png
+    bytes: 53006
+    dimensions: 512x256
+    sha256: 231d72219657c060
+  - file: ian-jaco-raven-signature-1250-800.png
+    bytes: 114094
+    dimensions: 800x400
+    sha256: 85a390a0a4a9123b
+  - file: ian-jaco-raven-signature-400-128.png
+    bytes: 4995
+    dimensions: 128x64
+    sha256: 28fbfb9e2096762e
+  - file: ian-jaco-raven-signature-400-256.png
+    bytes: 16350
+    dimensions: 256x128
+    sha256: 95104669aeaf56ab
+  - file: ian-jaco-raven-signature-400-400.png
+    bytes: 35197
+    dimensions: 400x200
+    sha256: cd7d061050997e26

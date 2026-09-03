@@ -1,0 +1,101 @@
+name: ionity-ai-lockup-transparent
+path: derivatives/social/ionity-ai-lockup-transparent
+title: derivatives/social/ionity-ai-lockup-transparent
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Platform-exact social scopes - OG, X, LinkedIn, Instagram, YouTube and more.
+asset_count: 22
+total_bytes: 976971
+formats:
+  png: 20
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-ai-lockup-transparent-avatar-400-400x400.png
+    bytes: 23899
+    dimensions: 400x400
+    sha256: 11aab6cbf0d38399
+  - file: ionity-ai-lockup-transparent-avatar-512-512x512.png
+    bytes: 26995
+    dimensions: 512x512
+    sha256: dd5e986df6ff9297
+  - file: ionity-ai-lockup-transparent-discord-banner-960x540.png
+    bytes: 26253
+    dimensions: 960x540
+    sha256: 60b9b6612ea56ede
+  - file: ionity-ai-lockup-transparent-email-signature-600x200.png
+    bytes: 21064
+    dimensions: 600x200
+    sha256: 106c1e2268ddfceb
+  - file: ionity-ai-lockup-transparent-facebook-cover-1640x624.png
+    bytes: 52511
+    dimensions: 1640x624
+    sha256: dc06e78713b6de66
+  - file: ionity-ai-lockup-transparent-github-social-1280x640.png
+    bytes: 41659
+    dimensions: 1280x640
+    sha256: 80e7f322eb92adba
+  - file: ionity-ai-lockup-transparent-instagram-portrait-1080x1350.png
+    bytes: 60401
+    dimensions: 1080x1350
+    sha256: 373f7a82914a8981
+  - file: ionity-ai-lockup-transparent-instagram-square-1080x1080.png
+    bytes: 59346
+    dimensions: 1080x1080
+    sha256: 5581e3cf8317ded3
+  - file: ionity-ai-lockup-transparent-instagram-story-1080x1920.png
+    bytes: 58318
+    dimensions: 1080x1920
+    sha256: a20e94af72055df1
+  - file: ionity-ai-lockup-transparent-linkedin-cover-1584x396.png
+    bytes: 28968
+    dimensions: 1584x396
+    sha256: c6638d7cbdf0b0f1
+  - file: ionity-ai-lockup-transparent-linkedin-post-1200x627.png
+    bytes: 42068
+    dimensions: 1200x627
+    sha256: a96cbde7399a8bec
+  - file: ionity-ai-lockup-transparent-og-facebook-linkedin-1200x630.png
+    bytes: 42227
+    dimensions: 1200x630
+    sha256: a23fb74c7ad60561
+  - file: ionity-ai-lockup-transparent-og-twitter-x-1200x675.png
+    bytes: 46457
+    dimensions: 1200x675
+    sha256: 19b6dfb0822d4ccd
+  - file: ionity-ai-lockup-transparent-pinterest-pin-1000x1500.png
+    bytes: 41902
+    dimensions: 1000x1500
+    sha256: 191142801586d6af
+  - file: ionity-ai-lockup-transparent-presentation-16x9-1920x1080.png
+    bytes: 94103
+    dimensions: 1920x1080
+    sha256: 7855930cd9b6c703
+  - file: ionity-ai-lockup-transparent-tiktok-cover-1080x1920.png
+    bytes: 49983
+    dimensions: 1080x1920
+    sha256: fed8583393c56d19
+  - file: ionity-ai-lockup-transparent-whatsapp-profile-640x640.png
+    bytes: 17729
+    dimensions: 640x640
+    sha256: 7dbde63bc564516e
+  - file: ionity-ai-lockup-transparent-x-header-1500x500.png
+    bytes: 39770
+    dimensions: 1500x500
+    sha256: 8e23046946ea0224
+  - file: ionity-ai-lockup-transparent-youtube-banner-2560x1440.png
+    bytes: 149838
+    dimensions: 2560x1440
+    sha256: 41da900803e8e0d3
+  - file: ionity-ai-lockup-transparent-youtube-thumbnail-1280x720.png
+    bytes: 48370
+    dimensions: 1280x720
+    sha256: 034c57299e23caa3

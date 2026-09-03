@@ -1,0 +1,99 @@
+name: ionity-today-logo-pol986
+path: derivatives/social/ionity-today-logo-pol986
+title: derivatives/social/ionity-today-logo-pol986
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Platform-exact social scopes - OG, X, LinkedIn, Instagram, YouTube and more.
+asset_count: 20
+total_bytes: 1207844
+formats:
+  png: 20
+assets:
+  - file: ionity-today-logo-pol986-avatar-400-400x400.png
+    bytes: 12775
+    dimensions: 400x400
+    sha256: 5da836c0fc5c1e36
+  - file: ionity-today-logo-pol986-avatar-512-512x512.png
+    bytes: 19153
+    dimensions: 512x512
+    sha256: ef63574a63fa15e9
+  - file: ionity-today-logo-pol986-discord-banner-960x540.png
+    bytes: 40474
+    dimensions: 960x540
+    sha256: 0e049f4956b67152
+  - file: ionity-today-logo-pol986-email-signature-600x200.png
+    bytes: 8385
+    dimensions: 600x200
+    sha256: 24761f59ce905d1d
+  - file: ionity-today-logo-pol986-facebook-cover-1640x624.png
+    bytes: 55709
+    dimensions: 1640x624
+    sha256: b55c7fb8e34cef95
+  - file: ionity-today-logo-pol986-github-social-1280x640.png
+    bytes: 55510
+    dimensions: 1280x640
+    sha256: 5c9dee6cbb5cb349
+  - file: ionity-today-logo-pol986-instagram-portrait-1080x1350.png
+    bytes: 71169
+    dimensions: 1080x1350
+    sha256: 542baebc396e223f
+  - file: ionity-today-logo-pol986-instagram-square-1080x1080.png
+    bytes: 69463
+    dimensions: 1080x1080
+    sha256: 05e264232adcd925
+  - file: ionity-today-logo-pol986-instagram-story-1080x1920.png
+    bytes: 74284
+    dimensions: 1080x1920
+    sha256: 4a53e4c1ebe15c5a
+  - file: ionity-today-logo-pol986-linkedin-cover-1584x396.png
+    bytes: 27022
+    dimensions: 1584x396
+    sha256: af6f61f5e297bc77
+  - file: ionity-today-logo-pol986-linkedin-post-1200x627.png
+    bytes: 53313
+    dimensions: 1200x627
+    sha256: 006ed26ecb591db3
+  - file: ionity-today-logo-pol986-og-facebook-linkedin-1200x630.png
+    bytes: 53631
+    dimensions: 1200x630
+    sha256: 17e5bc5552546788
+  - file: ionity-today-logo-pol986-og-twitter-x-1200x675.png
+    bytes: 60272
+    dimensions: 1200x675
+    sha256: d273af639a77eae3
+  - file: ionity-today-logo-pol986-pinterest-pin-1000x1500.png
+    bytes: 63677
+    dimensions: 1000x1500
+    sha256: e0931d562378abc7
+  - file: ionity-today-logo-pol986-presentation-16x9-1920x1080.png
+    bytes: 130961
+    dimensions: 1920x1080
+    sha256: b0a5b7761735c556
+  - file: ionity-today-logo-pol986-tiktok-cover-1080x1920.png
+    bytes: 74284
+    dimensions: 1080x1920
+    sha256: 4a53e4c1ebe15c5a
+  - file: ionity-today-logo-pol986-whatsapp-profile-640x640.png
+    bytes: 28037
+    dimensions: 640x640
+    sha256: 23491da5c5974697
+  - file: ionity-today-logo-pol986-x-header-1500x500.png
+    bytes: 37896
+    dimensions: 1500x500
+    sha256: ee09a075754689aa
+  - file: ionity-today-logo-pol986-youtube-banner-2560x1440.png
+    bytes: 203940
+    dimensions: 2560x1440
+    sha256: 529a10cd250fa2f7
+  - file: ionity-today-logo-pol986-youtube-thumbnail-1280x720.png
+    bytes: 67889
+    dimensions: 1280x720
+    sha256: 356b53d766d4e008

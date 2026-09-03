@@ -1,0 +1,101 @@
+name: nobify-logo
+path: derivatives/png/nobify-logo
+title: derivatives/png/nobify-logo
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  PNG size ladder, 16 px to 2048 px, aspect preserved, transparent.
+asset_count: 22
+total_bytes: 1058092
+formats:
+  png: 20
+  md: 1
+  yml: 1
+assets:
+  - file: nobify-logo-1024.png
+    bytes: 151211
+    dimensions: 1024x530
+    sha256: e762790345266cc5
+  - file: nobify-logo-128.png
+    bytes: 8488
+    dimensions: 128x66
+    sha256: 5b6ada299a5c134e
+  - file: nobify-logo-1280.png
+    bytes: 199412
+    dimensions: 1280x663
+    sha256: 8316aed71e6df719
+  - file: nobify-logo-1536.png
+    bytes: 146213
+    dimensions: 1195x619
+    sha256: 7992136495ac423b
+  - file: nobify-logo-16.png
+    bytes: 412
+    dimensions: 16x8
+    sha256: 0fd8d7f84990a03e
+  - file: nobify-logo-160.png
+    bytes: 12025
+    dimensions: 160x83
+    sha256: 129a27eb0e5dfd1e
+  - file: nobify-logo-180.png
+    bytes: 14320
+    dimensions: 180x93
+    sha256: 37dcbb3887a4dd97
+  - file: nobify-logo-192.png
+    bytes: 15717
+    dimensions: 192x99
+    sha256: 8d2280f10e69692a
+  - file: nobify-logo-2048.png
+    bytes: 146213
+    dimensions: 1195x619
+    sha256: 7992136495ac423b
+  - file: nobify-logo-24.png
+    bytes: 716
+    dimensions: 24x12
+    sha256: eb5b031b3ebbce64
+  - file: nobify-logo-256.png
+    bytes: 24245
+    dimensions: 256x133
+    sha256: cfed684b5331227c
+  - file: nobify-logo-32.png
+    bytes: 1091
+    dimensions: 32x17
+    sha256: afe87cc62fb48131
+  - file: nobify-logo-320.png
+    bytes: 32812
+    dimensions: 320x166
+    sha256: c7c3e6ddfdc5606a
+  - file: nobify-logo-384.png
+    bytes: 42057
+    dimensions: 384x199
+    sha256: fb24017b2270cad5
+  - file: nobify-logo-48.png
+    bytes: 1962
+    dimensions: 48x25
+    sha256: 7dea8102ed56a3a8
+  - file: nobify-logo-512.png
+    bytes: 61710
+    dimensions: 512x265
+    sha256: a6aee1a9c29ac992
+  - file: nobify-logo-64.png
+    bytes: 2973
+    dimensions: 64x33
+    sha256: f93cf2b0ecc2b5d3
+  - file: nobify-logo-640.png
+    bytes: 82311
+    dimensions: 640x332
+    sha256: fbf5ec38f4b367e7
+  - file: nobify-logo-768.png
+    bytes: 104670
+    dimensions: 768x398
+    sha256: 35eda5aa0df7f9e4
+  - file: nobify-logo-96.png
+    bytes: 5580
+    dimensions: 96x50
+    sha256: 7a1934b11d42ac65

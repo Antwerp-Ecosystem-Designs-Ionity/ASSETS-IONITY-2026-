@@ -1,0 +1,87 @@
+name: ionity-ai-lockup
+path: derivatives/pwa/ionity-ai-lockup
+title: derivatives/pwa/ionity-ai-lockup
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 17
+total_bytes: 213078
+formats:
+  png: 17
+assets:
+  - file: ionity-ai-lockup-1024.png
+    bytes: 61194
+    dimensions: 1024x1024
+    sha256: 31247ca6960d2754
+  - file: ionity-ai-lockup-128.png
+    bytes: 3736
+    dimensions: 128x128
+    sha256: edacc2ca1b30b1fb
+  - file: ionity-ai-lockup-144.png
+    bytes: 4393
+    dimensions: 144x144
+    sha256: 508970d4e0f9d89f
+  - file: ionity-ai-lockup-152.png
+    bytes: 4695
+    dimensions: 152x152
+    sha256: d55cf3dc09826a30
+  - file: ionity-ai-lockup-167.png
+    bytes: 5369
+    dimensions: 167x167
+    sha256: 4ba7b9cf9a5f54aa
+  - file: ionity-ai-lockup-180.png
+    bytes: 5878
+    dimensions: 180x180
+    sha256: fcf5157c12e040df
+  - file: ionity-ai-lockup-192.png
+    bytes: 6437
+    dimensions: 192x192
+    sha256: 2dba87307da62baf
+  - file: ionity-ai-lockup-256.png
+    bytes: 9429
+    dimensions: 256x256
+    sha256: b460c9aa2108b69b
+  - file: ionity-ai-lockup-384.png
+    bytes: 15953
+    dimensions: 384x384
+    sha256: 075ae0f0dcc16ee8
+  - file: ionity-ai-lockup-48.png
+    bytes: 1013
+    dimensions: 48x48
+    sha256: 5bc551ff65337fa9
+  - file: ionity-ai-lockup-512.png
+    bytes: 23714
+    dimensions: 512x512
+    sha256: d008b57d4b06eefd
+  - file: ionity-ai-lockup-72.png
+    bytes: 1699
+    dimensions: 72x72
+    sha256: bd89835982af77eb
+  - file: ionity-ai-lockup-96.png
+    bytes: 2458
+    dimensions: 96x96
+    sha256: d247676ccf2022fd
+  - file: ionity-ai-lockup-apple-touch-icon.png
+    bytes: 5878
+    dimensions: 180x180
+    sha256: fcf5157c12e040df
+  - file: ionity-ai-lockup-maskable-1024.png
+    bytes: 40945
+    dimensions: 1024x1024
+    sha256: 61c22bcd3ab96fc4
+  - file: ionity-ai-lockup-maskable-192.png
+    bytes: 4289
+    dimensions: 192x192
+    sha256: a675a48c1495d0af
+  - file: ionity-ai-lockup-maskable-512.png
+    bytes: 15998
+    dimensions: 512x512
+    sha256: f2d41c91c723762c

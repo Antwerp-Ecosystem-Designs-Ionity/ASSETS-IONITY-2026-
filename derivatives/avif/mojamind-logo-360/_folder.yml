@@ -1,0 +1,31 @@
+name: mojamind-logo-360
+path: derivatives/avif/mojamind-logo-360
+title: derivatives/avif/mojamind-logo-360
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  AVIF at 256/512/1024 - smallest modern format, progressive fallback to WebP.
+asset_count: 3
+total_bytes: 95636
+formats:
+  avif: 3
+assets:
+  - file: mojamind-logo-360-1024.avif
+    bytes: 59519
+    dimensions: 1024x1002
+    sha256: e1a858e8c4cfbc2e
+  - file: mojamind-logo-360-256.avif
+    bytes: 10806
+    dimensions: 256x250
+    sha256: f4550ff8b7a2f3df
+  - file: mojamind-logo-360-512.avif
+    bytes: 25311
+    dimensions: 512x501
+    sha256: 9b9e75ce97f92c64

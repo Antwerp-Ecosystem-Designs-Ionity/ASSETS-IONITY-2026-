@@ -1,0 +1,87 @@
+name: nobify-tray
+path: derivatives/pwa/nobify-tray
+title: derivatives/pwa/nobify-tray
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 17
+total_bytes: 598016
+formats:
+  png: 17
+assets:
+  - file: nobify-tray-1024.png
+    bytes: 188032
+    dimensions: 1024x1024
+    sha256: 39ea245495de0836
+  - file: nobify-tray-128.png
+    bytes: 9418
+    dimensions: 128x128
+    sha256: 7b9ad34d5d3c2f37
+  - file: nobify-tray-144.png
+    bytes: 11083
+    dimensions: 144x144
+    sha256: e62164535fc10336
+  - file: nobify-tray-152.png
+    bytes: 12096
+    dimensions: 152x152
+    sha256: d1918063861dd4c9
+  - file: nobify-tray-167.png
+    bytes: 13821
+    dimensions: 167x167
+    sha256: 2e81cc8a760d0525
+  - file: nobify-tray-180.png
+    bytes: 15133
+    dimensions: 180x180
+    sha256: 038696406dca2430
+  - file: nobify-tray-192.png
+    bytes: 16515
+    dimensions: 192x192
+    sha256: 6d5a0c91a31e2dd7
+  - file: nobify-tray-256.png
+    bytes: 24409
+    dimensions: 256x256
+    sha256: 55b15831f7a090fc
+  - file: nobify-tray-384.png
+    bytes: 42594
+    dimensions: 384x384
+    sha256: c5734823521b6b3a
+  - file: nobify-tray-48.png
+    bytes: 2180
+    dimensions: 48x48
+    sha256: 7152da0c57982427
+  - file: nobify-tray-512.png
+    bytes: 64829
+    dimensions: 512x512
+    sha256: 557926358e914ac6
+  - file: nobify-tray-72.png
+    bytes: 4162
+    dimensions: 72x72
+    sha256: 5f70e26b03c7cfa7
+  - file: nobify-tray-96.png
+    bytes: 6305
+    dimensions: 96x96
+    sha256: c1601f098a678563
+  - file: nobify-tray-apple-touch-icon.png
+    bytes: 15133
+    dimensions: 180x180
+    sha256: 038696406dca2430
+  - file: nobify-tray-maskable-1024.png
+    bytes: 119167
+    dimensions: 1024x1024
+    sha256: 63b4e37b0da276b4
+  - file: nobify-tray-maskable-192.png
+    bytes: 10914
+    dimensions: 192x192
+    sha256: baa1432df22e00b4
+  - file: nobify-tray-maskable-512.png
+    bytes: 42225
+    dimensions: 512x512
+    sha256: ca6cf973c480bad5

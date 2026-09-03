@@ -1,2 +1,23 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+* text=auto eol=lf
+*.ans   -text
+*.bin   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.webp  binary
+*.avif  binary
+*.gif   binary
+*.ico   binary
+*.mp4   binary
+*.mp3   binary
+*.wav   binary
+*.zip   binary
+*.7z    binary
+*.gz    binary
+*.pdf   binary
+*.docx  binary
+*.jsonl linguist-generated=true
+*.tsv   linguist-generated=true
+derivatives/** linguist-generated=true
+external/**    linguist-vendored=true
+rag/**         linguist-generated=true

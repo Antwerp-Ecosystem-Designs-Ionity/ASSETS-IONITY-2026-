@@ -1,0 +1,31 @@
+name: ionity-logo-dark
+path: derivatives/avif/ionity-logo-dark
+title: derivatives/avif/ionity-logo-dark
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  AVIF at 256/512/1024 - smallest modern format, progressive fallback to WebP.
+asset_count: 3
+total_bytes: 16851
+formats:
+  avif: 3
+assets:
+  - file: ionity-logo-dark-1024.avif
+    bytes: 9160
+    dimensions: 1024x683
+    sha256: b2a5655470a440b8
+  - file: ionity-logo-dark-256.avif
+    bytes: 2869
+    dimensions: 256x171
+    sha256: d7eb0a900f1f0031
+  - file: ionity-logo-dark-512.avif
+    bytes: 4822
+    dimensions: 512x341
+    sha256: f742902018ceeadd

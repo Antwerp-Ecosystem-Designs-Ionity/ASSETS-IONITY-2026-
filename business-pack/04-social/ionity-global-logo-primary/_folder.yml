@@ -1,0 +1,85 @@
+name: ionity-global-logo-primary
+path: business-pack/04-social/ionity-global-logo-primary
+title: business-pack/04-social/ionity-global-logo-primary
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Curated, ready-to-send pack for clients, press and partners.
+asset_count: 18
+total_bytes: 2254091
+formats:
+  png: 16
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-global-logo-primary-avatar-400-400x400.png
+    bytes: 32154
+    dimensions: 400x400
+    sha256: 762d63730ca4f4ad
+  - file: ionity-global-logo-primary-avatar-512-512x512.png
+    bytes: 40419
+    dimensions: 512x512
+    sha256: 27b04da2d7b2f4fb
+  - file: ionity-global-logo-primary-email-signature-600x200.png
+    bytes: 55503
+    dimensions: 600x200
+    sha256: a2dde9bd9e69cefa
+  - file: ionity-global-logo-primary-facebook-cover-1640x624.png
+    bytes: 233604
+    dimensions: 1640x624
+    sha256: d1efc1dbc277ce05
+  - file: ionity-global-logo-primary-github-social-1280x640.png
+    bytes: 123611
+    dimensions: 1280x640
+    sha256: 1b78ac6cbdbe8941
+  - file: ionity-global-logo-primary-instagram-portrait-1080x1350.png
+    bytes: 110541
+    dimensions: 1080x1350
+    sha256: d2857c01384cf3fc
+  - file: ionity-global-logo-primary-instagram-square-1080x1080.png
+    bytes: 109207
+    dimensions: 1080x1080
+    sha256: f381172c00e451fb
+  - file: ionity-global-logo-primary-instagram-story-1080x1920.png
+    bytes: 108639
+    dimensions: 1080x1920
+    sha256: cefb1fe0512ac0f6
+  - file: ionity-global-logo-primary-linkedin-cover-1584x396.png
+    bytes: 196112
+    dimensions: 1584x396
+    sha256: 0073f9a193ec12d3
+  - file: ionity-global-logo-primary-linkedin-post-1200x627.png
+    bytes: 113484
+    dimensions: 1200x627
+    sha256: a15f6fcfc4155c8e
+  - file: ionity-global-logo-primary-og-facebook-linkedin-1200x630.png
+    bytes: 113550
+    dimensions: 1200x630
+    sha256: bd15a2dc30e225d8
+  - file: ionity-global-logo-primary-og-twitter-x-1200x675.png
+    bytes: 115174
+    dimensions: 1200x675
+    sha256: 24c9b37fd0b5b16a
+  - file: ionity-global-logo-primary-presentation-16x9-1920x1080.png
+    bytes: 226857
+    dimensions: 1920x1080
+    sha256: 0fcc272f34ae5768
+  - file: ionity-global-logo-primary-x-header-1500x500.png
+    bytes: 205733
+    dimensions: 1500x500
+    sha256: 118c5616ff3f04d1
+  - file: ionity-global-logo-primary-youtube-banner-2560x1440.png
+    bytes: 338226
+    dimensions: 2560x1440
+    sha256: fa5ef269256e1d48
+  - file: ionity-global-logo-primary-youtube-thumbnail-1280x720.png
+    bytes: 126290
+    dimensions: 1280x720
+    sha256: 761616f30d0c12ef

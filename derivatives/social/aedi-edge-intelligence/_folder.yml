@@ -1,0 +1,99 @@
+name: aedi-edge-intelligence
+path: derivatives/social/aedi-edge-intelligence
+title: derivatives/social/aedi-edge-intelligence
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Platform-exact social scopes - OG, X, LinkedIn, Instagram, YouTube and more.
+asset_count: 20
+total_bytes: 5318067
+formats:
+  png: 20
+assets:
+  - file: aedi-edge-intelligence-avatar-400-400x400.png
+    bytes: 60187
+    dimensions: 400x400
+    sha256: 24934a2fc7fb0b0c
+  - file: aedi-edge-intelligence-avatar-512-512x512.png
+    bytes: 100153
+    dimensions: 512x512
+    sha256: 0f2f1ea639c8a83a
+  - file: aedi-edge-intelligence-discord-banner-960x540.png
+    bytes: 118775
+    dimensions: 960x540
+    sha256: 39892a094ff369e2
+  - file: aedi-edge-intelligence-email-signature-600x200.png
+    bytes: 18827
+    dimensions: 600x200
+    sha256: 27f51db0fa638f5d
+  - file: aedi-edge-intelligence-facebook-cover-1640x624.png
+    bytes: 165271
+    dimensions: 1640x624
+    sha256: 4747691d068d5eea
+  - file: aedi-edge-intelligence-github-social-1280x640.png
+    bytes: 170022
+    dimensions: 1280x640
+    sha256: 8cf18ad3390a3aeb
+  - file: aedi-edge-intelligence-instagram-portrait-1080x1350.png
+    bytes: 471763
+    dimensions: 1080x1350
+    sha256: 2694ffcaef877ada
+  - file: aedi-edge-intelligence-instagram-square-1080x1080.png
+    bytes: 469291
+    dimensions: 1080x1080
+    sha256: f3b1ebf9c9df5b9e
+  - file: aedi-edge-intelligence-instagram-story-1080x1920.png
+    bytes: 475705
+    dimensions: 1080x1920
+    sha256: 33b8ad72526ef1ba
+  - file: aedi-edge-intelligence-linkedin-cover-1584x396.png
+    bytes: 66742
+    dimensions: 1584x396
+    sha256: f13e68cabb157777
+  - file: aedi-edge-intelligence-linkedin-post-1200x627.png
+    bytes: 162748
+    dimensions: 1200x627
+    sha256: a853fd58a6f64c58
+  - file: aedi-edge-intelligence-og-facebook-linkedin-1200x630.png
+    bytes: 163147
+    dimensions: 1200x630
+    sha256: 4b13f2745143cd12
+  - file: aedi-edge-intelligence-og-twitter-x-1200x675.png
+    bytes: 188033
+    dimensions: 1200x675
+    sha256: 86ca2c6c6f807713
+  - file: aedi-edge-intelligence-pinterest-pin-1000x1500.png
+    bytes: 404216
+    dimensions: 1000x1500
+    sha256: deee8da2ba01a6d6
+  - file: aedi-edge-intelligence-presentation-16x9-1920x1080.png
+    bytes: 495103
+    dimensions: 1920x1080
+    sha256: e64d62d9b6d4891e
+  - file: aedi-edge-intelligence-tiktok-cover-1080x1920.png
+    bytes: 475705
+    dimensions: 1080x1920
+    sha256: 33b8ad72526ef1ba
+  - file: aedi-edge-intelligence-whatsapp-profile-640x640.png
+    bytes: 160097
+    dimensions: 640x640
+    sha256: b26b3aa0f896fc0e
+  - file: aedi-edge-intelligence-x-header-1500x500.png
+    bytes: 104697
+    dimensions: 1500x500
+    sha256: 6453decd42464527
+  - file: aedi-edge-intelligence-youtube-banner-2560x1440.png
+    bytes: 830350
+    dimensions: 2560x1440
+    sha256: e7d6fbed2586523c
+  - file: aedi-edge-intelligence-youtube-thumbnail-1280x720.png
+    bytes: 217235
+    dimensions: 1280x720
+    sha256: d02f56b49663d554

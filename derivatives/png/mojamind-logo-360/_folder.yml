@@ -1,0 +1,99 @@
+name: mojamind-logo-360
+path: derivatives/png/mojamind-logo-360
+title: derivatives/png/mojamind-logo-360
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  PNG size ladder, 16 px to 2048 px, aspect preserved, transparent.
+asset_count: 20
+total_bytes: 6322054
+formats:
+  png: 20
+assets:
+  - file: mojamind-logo-360-1024.png
+    bytes: 684242
+    dimensions: 1024x1002
+    sha256: 6d68aee09ab9df08
+  - file: mojamind-logo-360-128.png
+    bytes: 23478
+    dimensions: 128x125
+    sha256: 70a063c22741f1e3
+  - file: mojamind-logo-360-1280.png
+    bytes: 945291
+    dimensions: 1280x1252
+    sha256: c285912779864101
+  - file: mojamind-logo-360-1536.png
+    bytes: 1229313
+    dimensions: 1536x1502
+    sha256: d01a52a2eb9c3073
+  - file: mojamind-logo-360-16.png
+    bytes: 778
+    dimensions: 16x16
+    sha256: dcf9e47c239304d5
+  - file: mojamind-logo-360-160.png
+    bytes: 35241
+    dimensions: 160x156
+    sha256: 31146091ad80f5ed
+  - file: mojamind-logo-360-180.png
+    bytes: 44247
+    dimensions: 180x176
+    sha256: 854af60c82ae5466
+  - file: mojamind-logo-360-192.png
+    bytes: 49768
+    dimensions: 192x188
+    sha256: 0c0cfeda07e0db29
+  - file: mojamind-logo-360-2048.png
+    bytes: 1867468
+    dimensions: 2048x2003
+    sha256: c9d42abe33de13ed
+  - file: mojamind-logo-360-24.png
+    bytes: 1367
+    dimensions: 24x23
+    sha256: d18111cbaa06a27a
+  - file: mojamind-logo-360-256.png
+    bytes: 83119
+    dimensions: 256x250
+    sha256: d5a89633ef26ba4c
+  - file: mojamind-logo-360-32.png
+    bytes: 2223
+    dimensions: 32x31
+    sha256: e02a83b298a3e259
+  - file: mojamind-logo-360-320.png
+    bytes: 121128
+    dimensions: 320x313
+    sha256: abca75445cfd48a5
+  - file: mojamind-logo-360-384.png
+    bytes: 162291
+    dimensions: 384x376
+    sha256: bb57d5549cae88d1
+  - file: mojamind-logo-360-48.png
+    bytes: 4360
+    dimensions: 48x47
+    sha256: d51a9211f6ebc414
+  - file: mojamind-logo-360-512.png
+    bytes: 249681
+    dimensions: 512x501
+    sha256: 189fb46b45ee0f21
+  - file: mojamind-logo-360-64.png
+    bytes: 7091
+    dimensions: 64x63
+    sha256: 47471feda6e8de93
+  - file: mojamind-logo-360-640.png
+    bytes: 345264
+    dimensions: 640x626
+    sha256: a933822eac1f1c16
+  - file: mojamind-logo-360-768.png
+    bytes: 451549
+    dimensions: 768x751
+    sha256: 8a5be0ee56270174
+  - file: mojamind-logo-360-96.png
+    bytes: 14155
+    dimensions: 96x94
+    sha256: 4c2f1e55a85856e4

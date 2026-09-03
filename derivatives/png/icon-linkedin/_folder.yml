@@ -1,0 +1,99 @@
+name: icon-linkedin
+path: derivatives/png/icon-linkedin
+title: derivatives/png/icon-linkedin
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  PNG size ladder, 16 px to 2048 px, aspect preserved, transparent.
+asset_count: 20
+total_bytes: 44045
+formats:
+  png: 20
+assets:
+  - file: icon-linkedin-1024.png
+    bytes: 4144
+    dimensions: 1024x1024
+    sha256: f12ddfea20dcca2f
+  - file: icon-linkedin-128.png
+    bytes: 143
+    dimensions: 128x128
+    sha256: 06ab142c3bad172a
+  - file: icon-linkedin-1280.png
+    bytes: 6431
+    dimensions: 1280x1280
+    sha256: 238ed49876504270
+  - file: icon-linkedin-1536.png
+    bytes: 9238
+    dimensions: 1536x1536
+    sha256: e136916d4deb51e2
+  - file: icon-linkedin-16.png
+    bytes: 75
+    dimensions: 16x16
+    sha256: a901afae7bdb6667
+  - file: icon-linkedin-160.png
+    bytes: 179
+    dimensions: 160x160
+    sha256: 3b2e6eac48076f21
+  - file: icon-linkedin-180.png
+    bytes: 204
+    dimensions: 180x180
+    sha256: 1a018660dd161304
+  - file: icon-linkedin-192.png
+    bytes: 223
+    dimensions: 192x192
+    sha256: b666d3abb93f21b7
+  - file: icon-linkedin-2048.png
+    bytes: 16350
+    dimensions: 2048x2048
+    sha256: 4366893496c99f69
+  - file: icon-linkedin-24.png
+    bytes: 81
+    dimensions: 24x24
+    sha256: bf531cfe6b0719aa
+  - file: icon-linkedin-256.png
+    bytes: 334
+    dimensions: 256x256
+    sha256: 70a213096a8a3aa5
+  - file: icon-linkedin-32.png
+    bytes: 83
+    dimensions: 32x32
+    sha256: ba04f531df0c7a12
+  - file: icon-linkedin-320.png
+    bytes: 477
+    dimensions: 320x320
+    sha256: 27c1504ad3ef9d45
+  - file: icon-linkedin-384.png
+    bytes: 652
+    dimensions: 384x384
+    sha256: d6bb6aaf00387d6c
+  - file: icon-linkedin-48.png
+    bytes: 88
+    dimensions: 48x48
+    sha256: 805d5875611b6849
+  - file: icon-linkedin-512.png
+    bytes: 1096
+    dimensions: 512x512
+    sha256: 9b04f10d403456a5
+  - file: icon-linkedin-64.png
+    bytes: 96
+    dimensions: 64x64
+    sha256: ee5f4ae0aae66a3d
+  - file: icon-linkedin-640.png
+    bytes: 1668
+    dimensions: 640x640
+    sha256: d8d9fd4d6f6cb75d
+  - file: icon-linkedin-768.png
+    bytes: 2367
+    dimensions: 768x768
+    sha256: 9542a32e82323eb0
+  - file: icon-linkedin-96.png
+    bytes: 116
+    dimensions: 96x96
+    sha256: 67f067d0981f1cc3

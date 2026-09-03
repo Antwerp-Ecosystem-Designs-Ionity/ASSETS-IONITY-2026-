@@ -1,0 +1,24 @@
+GIMP Palette
+Name: Ionity Global
+Columns: 6
+# Policy 986 AED (c) 2018-2026 Ionity (Pty) Ltd
+ 87  70 227	ionity-brand-purple
+  0 212 184	ionity-brand-teal
+  0 210 255	ionity-brand-cyan
+  0 191 255	ionity-brand-skyblue
+  0 198 255	ionity-brand-c6ff
+ 11  13  18	ionity-surface-bg
+ 13  27  42	ionity-surface-bg-legacy
+ 21  25  34	ionity-surface-surface-1
+ 36  43  56	ionity-surface-border
+  6   6  30	ionity-surface-ink
+231 235 242	ionity-text-default
+139 147 164	ionity-text-muted
+ 11  13  18	ionity-text-inverse
+ 26  26  46	ionity-document-header
+233  69  96	ionity-document-accent
+ 22  33  62	ionity-document-body
+ 15  52  96	ionity-document-secondary
+184 197 214	ionity-document-watermark
+212 230 241	ionity-document-rule
+240 247 250	ionity-document-band

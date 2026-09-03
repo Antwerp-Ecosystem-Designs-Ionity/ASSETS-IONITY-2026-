@@ -1,0 +1,89 @@
+name: ionity-ai-mark
+path: derivatives/pwa/ionity-ai-mark
+title: derivatives/pwa/ionity-ai-mark
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 19
+total_bytes: 454936
+formats:
+  png: 17
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-ai-mark-1024.png
+    bytes: 80669
+    dimensions: 1024x1024
+    sha256: ce9016f097027551
+  - file: ionity-ai-mark-128.png
+    bytes: 9806
+    dimensions: 128x128
+    sha256: fbdeb7dff8277a20
+  - file: ionity-ai-mark-144.png
+    bytes: 11505
+    dimensions: 144x144
+    sha256: 5b456cc907c3960a
+  - file: ionity-ai-mark-152.png
+    bytes: 12328
+    dimensions: 152x152
+    sha256: c1b67815cd7ede13
+  - file: ionity-ai-mark-167.png
+    bytes: 13854
+    dimensions: 167x167
+    sha256: fb1e153170368245
+  - file: ionity-ai-mark-180.png
+    bytes: 15518
+    dimensions: 180x180
+    sha256: 7f814382407cedc1
+  - file: ionity-ai-mark-192.png
+    bytes: 16833
+    dimensions: 192x192
+    sha256: ee2e831a52b39682
+  - file: ionity-ai-mark-256.png
+    bytes: 24689
+    dimensions: 256x256
+    sha256: 3840c4306bc08f5d
+  - file: ionity-ai-mark-384.png
+    bytes: 44596
+    dimensions: 384x384
+    sha256: 935c5c0ceeb8e050
+  - file: ionity-ai-mark-48.png
+    bytes: 2366
+    dimensions: 48x48
+    sha256: 2193e207ab70cb50
+  - file: ionity-ai-mark-512.png
+    bytes: 68670
+    dimensions: 512x512
+    sha256: 26a023c39831adff
+  - file: ionity-ai-mark-72.png
+    bytes: 4426
+    dimensions: 72x72
+    sha256: 094e8cb1ca81778c
+  - file: ionity-ai-mark-96.png
+    bytes: 6627
+    dimensions: 96x96
+    sha256: d7de7846cc6180a3
+  - file: ionity-ai-mark-apple-touch-icon.png
+    bytes: 12887
+    dimensions: 180x180
+    sha256: bbcd3a71397b9d15
+  - file: ionity-ai-mark-maskable-1024.png
+    bytes: 78653
+    dimensions: 1024x1024
+    sha256: fe17e57b017dbc09
+  - file: ionity-ai-mark-maskable-192.png
+    bytes: 9667
+    dimensions: 192x192
+    sha256: a939f07a2178f7ac
+  - file: ionity-ai-mark-maskable-512.png
+    bytes: 37582
+    dimensions: 512x512
+    sha256: 3bef511fa2ca1755

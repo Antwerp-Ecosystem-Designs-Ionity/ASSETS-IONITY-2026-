@@ -1,0 +1,41 @@
+name: ionity-global-logo-primary
+path: derivatives/png-square/ionity-global-logo-primary
+title: derivatives/png-square/ionity-global-logo-primary
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Square, padded, transparent PNG for avatars and tiles.
+asset_count: 7
+total_bytes: 258027
+formats:
+  png: 5
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-global-logo-primary-square-1024.png
+    bytes: 173606
+    dimensions: 1024x1024
+    sha256: 5a9021f26637a80e
+  - file: ionity-global-logo-primary-square-128.png
+    bytes: 6055
+    dimensions: 128x128
+    sha256: baaa11db0bc9f33c
+  - file: ionity-global-logo-primary-square-256.png
+    bytes: 17695
+    dimensions: 256x256
+    sha256: 5dd4a5a3291f7db4
+  - file: ionity-global-logo-primary-square-512.png
+    bytes: 56182
+    dimensions: 512x512
+    sha256: d0280ce212815c8f
+  - file: ionity-global-logo-primary-square-64.png
+    bytes: 2140
+    dimensions: 64x64
+    sha256: 53aaa83b7190dc93

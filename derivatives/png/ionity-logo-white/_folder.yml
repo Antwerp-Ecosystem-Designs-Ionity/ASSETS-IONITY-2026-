@@ -1,0 +1,101 @@
+name: ionity-logo-white
+path: derivatives/png/ionity-logo-white
+title: derivatives/png/ionity-logo-white
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  PNG size ladder, 16 px to 2048 px, aspect preserved, transparent.
+asset_count: 22
+total_bytes: 1390846
+formats:
+  png: 20
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-logo-white-1024.png
+    bytes: 135320
+    dimensions: 1024x683
+    sha256: 01286d3f2622ac7e
+  - file: ionity-logo-white-128.png
+    bytes: 4758
+    dimensions: 128x85
+    sha256: 7a795aef0a4f72f4
+  - file: ionity-logo-white-1280.png
+    bytes: 283280
+    dimensions: 1280x1280
+    sha256: 35480021a9842d65
+  - file: ionity-logo-white-1536.png
+    bytes: 250352
+    dimensions: 1536x1024
+    sha256: 9e732c2d6311f35d
+  - file: ionity-logo-white-16.png
+    bytes: 350
+    dimensions: 16x11
+    sha256: 93c2b1a9f0559346
+  - file: ionity-logo-white-160.png
+    bytes: 10292
+    dimensions: 160x160
+    sha256: 1b33b73a0a761da5
+  - file: ionity-logo-white-180.png
+    bytes: 7904
+    dimensions: 180x120
+    sha256: 5ce3d5505843a4ef
+  - file: ionity-logo-white-192.png
+    bytes: 8709
+    dimensions: 192x128
+    sha256: b5a4985bc135cf6d
+  - file: ionity-logo-white-2048.png
+    bytes: 374674
+    dimensions: 2048x1365
+    sha256: 085cfff596079a86
+  - file: ionity-logo-white-24.png
+    bytes: 552
+    dimensions: 24x16
+    sha256: 67ef9552b2e5cc8e
+  - file: ionity-logo-white-256.png
+    bytes: 13576
+    dimensions: 256x171
+    sha256: daf13d271d0270e8
+  - file: ionity-logo-white-32.png
+    bytes: 769
+    dimensions: 32x21
+    sha256: 8da349768878b051
+  - file: ionity-logo-white-320.png
+    bytes: 33225
+    dimensions: 320x320
+    sha256: bcd5bcbf45aa8fc4
+  - file: ionity-logo-white-384.png
+    bytes: 25699
+    dimensions: 384x256
+    sha256: c3f8e66268d2b8da
+  - file: ionity-logo-white-48.png
+    bytes: 1236
+    dimensions: 48x32
+    sha256: ca5bcc1e5a79b40a
+  - file: ionity-logo-white-512.png
+    bytes: 42066
+    dimensions: 512x341
+    sha256: 4289b2ed9d7b853e
+  - file: ionity-logo-white-64.png
+    bytes: 1843
+    dimensions: 64x43
+    sha256: 19aab24078cea2e8
+  - file: ionity-logo-white-640.png
+    bytes: 103892
+    dimensions: 640x640
+    sha256: c6f550a070f7bfb9
+  - file: ionity-logo-white-768.png
+    bytes: 84977
+    dimensions: 768x512
+    sha256: 7e7277f0c3b868da
+  - file: ionity-logo-white-96.png
+    bytes: 3213
+    dimensions: 96x64
+    sha256: ce585500b799aef3

@@ -1,0 +1,99 @@
+name: social-whatsapp
+path: derivatives/png/social-whatsapp
+title: derivatives/png/social-whatsapp
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  PNG size ladder, 16 px to 2048 px, aspect preserved, transparent.
+asset_count: 20
+total_bytes: 1295147
+formats:
+  png: 20
+assets:
+  - file: social-whatsapp-1024.png
+    bytes: 138559
+    dimensions: 1024x683
+    sha256: 186474a3eb183a84
+  - file: social-whatsapp-128.png
+    bytes: 4941
+    dimensions: 128x85
+    sha256: 2aa3bf4bde914f0d
+  - file: social-whatsapp-1280.png
+    bytes: 196461
+    dimensions: 1280x853
+    sha256: c6ae08df6b6f8224
+  - file: social-whatsapp-1536.png
+    bytes: 260164
+    dimensions: 1536x1024
+    sha256: c6d64aee3b2d5153
+  - file: social-whatsapp-16.png
+    bytes: 352
+    dimensions: 16x11
+    sha256: 20313f9a24633431
+  - file: social-whatsapp-160.png
+    bytes: 7037
+    dimensions: 160x107
+    sha256: d2b1cab8d48b60ce
+  - file: social-whatsapp-180.png
+    bytes: 8505
+    dimensions: 180x120
+    sha256: 9fbbceac02cfcc10
+  - file: social-whatsapp-192.png
+    bytes: 9606
+    dimensions: 192x128
+    sha256: 18a366746ab79cb7
+  - file: social-whatsapp-2048.png
+    bytes: 399856
+    dimensions: 2048x1365
+    sha256: 005de750bf4fd16d
+  - file: social-whatsapp-24.png
+    bytes: 531
+    dimensions: 24x16
+    sha256: b4740ce86a5aa079
+  - file: social-whatsapp-256.png
+    bytes: 14870
+    dimensions: 256x171
+    sha256: 1df85cb5032896ce
+  - file: social-whatsapp-32.png
+    bytes: 726
+    dimensions: 32x21
+    sha256: 900431d9b48fda82
+  - file: social-whatsapp-320.png
+    bytes: 20783
+    dimensions: 320x213
+    sha256: 2125a17ad3a9d4bb
+  - file: social-whatsapp-384.png
+    bytes: 27934
+    dimensions: 384x256
+    sha256: 04f2b2b4e5dea723
+  - file: social-whatsapp-48.png
+    bytes: 1180
+    dimensions: 48x32
+    sha256: 7e3b7d0b2d75e4d5
+  - file: social-whatsapp-512.png
+    bytes: 44912
+    dimensions: 512x341
+    sha256: bcb6875322a32868
+  - file: social-whatsapp-64.png
+    bytes: 1863
+    dimensions: 64x43
+    sha256: 977d067a06aadd0b
+  - file: social-whatsapp-640.png
+    bytes: 64865
+    dimensions: 640x427
+    sha256: f375a6e434b6f2ff
+  - file: social-whatsapp-768.png
+    bytes: 88662
+    dimensions: 768x512
+    sha256: c8d9459808bd55e2
+  - file: social-whatsapp-96.png
+    bytes: 3340
+    dimensions: 96x64
+    sha256: bb8b1f6f9621331a

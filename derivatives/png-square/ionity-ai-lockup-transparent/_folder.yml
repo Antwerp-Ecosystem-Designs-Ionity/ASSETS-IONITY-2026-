@@ -1,0 +1,41 @@
+name: ionity-ai-lockup-transparent
+path: derivatives/png-square/ionity-ai-lockup-transparent
+title: derivatives/png-square/ionity-ai-lockup-transparent
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Square, padded, transparent PNG for avatars and tiles.
+asset_count: 7
+total_bytes: 117377
+formats:
+  png: 5
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-ai-lockup-transparent-square-1024.png
+    bytes: 81611
+    dimensions: 1024x1024
+    sha256: 65d57cf51a2ecfec
+  - file: ionity-ai-lockup-transparent-square-128.png
+    bytes: 2557
+    dimensions: 128x128
+    sha256: bd1436244596ffab
+  - file: ionity-ai-lockup-transparent-square-256.png
+    bytes: 7388
+    dimensions: 256x256
+    sha256: d9e91a20acdbe1d5
+  - file: ionity-ai-lockup-transparent-square-512.png
+    bytes: 22482
+    dimensions: 512x512
+    sha256: d1613818c05ea420
+  - file: ionity-ai-lockup-transparent-square-64.png
+    bytes: 973
+    dimensions: 64x64
+    sha256: 88988b439826c264

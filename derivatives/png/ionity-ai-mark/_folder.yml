@@ -1,0 +1,101 @@
+name: ionity-ai-mark
+path: derivatives/png/ionity-ai-mark
+title: derivatives/png/ionity-ai-mark
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  PNG size ladder, 16 px to 2048 px, aspect preserved, transparent.
+asset_count: 22
+total_bytes: 1121182
+formats:
+  png: 20
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-ai-mark-1024.png
+    bytes: 77194
+    dimensions: 512x342
+    sha256: a77cedd5586bc632
+  - file: ionity-ai-mark-128.png
+    bytes: 13262
+    dimensions: 128x86
+    sha256: 3a7c25025814010e
+  - file: ionity-ai-mark-1280.png
+    bytes: 355857
+    dimensions: 1280x1280
+    sha256: ad68d4b009b012f0
+  - file: ionity-ai-mark-1536.png
+    bytes: 77194
+    dimensions: 512x342
+    sha256: a77cedd5586bc632
+  - file: ionity-ai-mark-16.png
+    bytes: 572
+    dimensions: 16x11
+    sha256: 53e2773908d5472c
+  - file: ionity-ai-mark-160.png
+    bytes: 18580
+    dimensions: 160x160
+    sha256: a8bf8428b5829bab
+  - file: ionity-ai-mark-180.png
+    bytes: 21171
+    dimensions: 180x120
+    sha256: c7033ae3da0f94a8
+  - file: ionity-ai-mark-192.png
+    bytes: 23464
+    dimensions: 192x128
+    sha256: a1d210cf18260d27
+  - file: ionity-ai-mark-2048.png
+    bytes: 77194
+    dimensions: 512x342
+    sha256: a77cedd5586bc632
+  - file: ionity-ai-mark-24.png
+    bytes: 1114
+    dimensions: 24x16
+    sha256: 57e28c84a3c8d591
+  - file: ionity-ai-mark-256.png
+    bytes: 34468
+    dimensions: 256x171
+    sha256: ad45ea658b9e3cb5
+  - file: ionity-ai-mark-32.png
+    bytes: 1712
+    dimensions: 32x21
+    sha256: e45980aee0a173f7
+  - file: ionity-ai-mark-320.png
+    bytes: 49579
+    dimensions: 320x320
+    sha256: 7167cd2b241cd637
+  - file: ionity-ai-mark-384.png
+    bytes: 62964
+    dimensions: 384x257
+    sha256: 1b96903006ba6e17
+  - file: ionity-ai-mark-48.png
+    bytes: 3322
+    dimensions: 48x32
+    sha256: 6e812cf109bf82dc
+  - file: ionity-ai-mark-512.png
+    bytes: 77194
+    dimensions: 512x342
+    sha256: a77cedd5586bc632
+  - file: ionity-ai-mark-64.png
+    bytes: 5262
+    dimensions: 64x43
+    sha256: 545ec2e93c574d16
+  - file: ionity-ai-mark-640.png
+    bytes: 130750
+    dimensions: 640x640
+    sha256: 96dae2cd7a559b92
+  - file: ionity-ai-mark-768.png
+    bytes: 77194
+    dimensions: 512x342
+    sha256: a77cedd5586bc632
+  - file: ionity-ai-mark-96.png
+    bytes: 9082
+    dimensions: 96x64
+    sha256: 0991740e77aa4a1c

@@ -1,0 +1,35 @@
+name: aedi-antwerpdesigns-ionityglobal
+path: derivatives/avif/aedi-antwerpdesigns-ionityglobal
+title: derivatives/avif/aedi-antwerpdesigns-ionityglobal
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  AVIF at 256/512/1024 - smallest modern format, progressive fallback to WebP.
+asset_count: 4
+total_bytes: 382006
+formats:
+  avif: 4
+assets:
+  - file: aedi-antwerpdesigns-ionityglobal-1024.avif
+    bytes: 109504
+    dimensions: 1024x576
+    sha256: ca86275ca77a1427
+  - file: aedi-antwerpdesigns-ionityglobal-2048.avif
+    bytes: 225006
+    dimensions: 2048x1152
+    sha256: c3505aba785ece1a
+  - file: aedi-antwerpdesigns-ionityglobal-256.avif
+    bytes: 10402
+    dimensions: 256x144
+    sha256: 4059ac7f112bb1ec
+  - file: aedi-antwerpdesigns-ionityglobal-512.avif
+    bytes: 37094
+    dimensions: 512x288
+    sha256: c180c58d191500c7

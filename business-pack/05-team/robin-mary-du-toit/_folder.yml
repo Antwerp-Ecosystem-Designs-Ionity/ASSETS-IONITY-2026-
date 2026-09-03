@@ -1,0 +1,42 @@
+name: robin-mary-du-toit
+path: business-pack/05-team/robin-mary-du-toit
+title: business-pack/05-team/robin-mary-du-toit
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Curated, ready-to-send pack for clients, press and partners.
+asset_count: 7
+total_bytes: 21614148
+formats:
+  png: 3
+  gif: 2
+  md: 1
+  yml: 1
+assets:
+  - file: robin-du-toit-avatar-animated.gif
+    bytes: 106283
+    dimensions: 600x600
+    sha256: 4bb947a2e775c7eb
+  - file: robin-du-toit-avatar.png
+    bytes: 726030
+    dimensions: 625x625
+    sha256: 16db5aaecde42bdf
+  - file: robin-du-toit-business-card-2752.png
+    bytes: 3272314
+    dimensions: 2752x1536
+    sha256: 204198789ff0284e
+  - file: robin-du-toit-business-card-8600.png
+    bytes: 15475279
+    dimensions: 8600x4800
+    sha256: 976d0712dded561a
+  - file: robin-du-toit-business-card-animated.gif
+    bytes: 2032057
+    dimensions: 1600x893
+    sha256: a773781c700e5226

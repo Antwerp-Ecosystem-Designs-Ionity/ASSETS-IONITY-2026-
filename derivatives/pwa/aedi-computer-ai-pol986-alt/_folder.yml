@@ -1,0 +1,87 @@
+name: aedi-computer-ai-pol986-alt
+path: derivatives/pwa/aedi-computer-ai-pol986-alt
+title: derivatives/pwa/aedi-computer-ai-pol986-alt
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 17
+total_bytes: 13326
+formats:
+  png: 17
+assets:
+  - file: aedi-computer-ai-pol986-alt-1024.png
+    bytes: 4158
+    dimensions: 1024x1024
+    sha256: 29426a2eb528315d
+  - file: aedi-computer-ai-pol986-alt-128.png
+    bytes: 143
+    dimensions: 128x128
+    sha256: 06ab142c3bad172a
+  - file: aedi-computer-ai-pol986-alt-144.png
+    bytes: 160
+    dimensions: 144x144
+    sha256: 585630c4766cdee9
+  - file: aedi-computer-ai-pol986-alt-152.png
+    bytes: 169
+    dimensions: 152x152
+    sha256: ff306bcf43bb279e
+  - file: aedi-computer-ai-pol986-alt-167.png
+    bytes: 188
+    dimensions: 167x167
+    sha256: 4f6cd5ed21572b9c
+  - file: aedi-computer-ai-pol986-alt-180.png
+    bytes: 204
+    dimensions: 180x180
+    sha256: 1a018660dd161304
+  - file: aedi-computer-ai-pol986-alt-192.png
+    bytes: 223
+    dimensions: 192x192
+    sha256: b666d3abb93f21b7
+  - file: aedi-computer-ai-pol986-alt-256.png
+    bytes: 334
+    dimensions: 256x256
+    sha256: 70a213096a8a3aa5
+  - file: aedi-computer-ai-pol986-alt-384.png
+    bytes: 652
+    dimensions: 384x384
+    sha256: d6bb6aaf00387d6c
+  - file: aedi-computer-ai-pol986-alt-48.png
+    bytes: 88
+    dimensions: 48x48
+    sha256: 805d5875611b6849
+  - file: aedi-computer-ai-pol986-alt-512.png
+    bytes: 1108
+    dimensions: 512x512
+    sha256: 56096a84316bcfd2
+  - file: aedi-computer-ai-pol986-alt-72.png
+    bytes: 100
+    dimensions: 72x72
+    sha256: 5b6179b529298089
+  - file: aedi-computer-ai-pol986-alt-96.png
+    bytes: 116
+    dimensions: 96x96
+    sha256: 67f067d0981f1cc3
+  - file: aedi-computer-ai-pol986-alt-apple-touch-icon.png
+    bytes: 204
+    dimensions: 180x180
+    sha256: 1a018660dd161304
+  - file: aedi-computer-ai-pol986-alt-maskable-1024.png
+    bytes: 4160
+    dimensions: 1024x1024
+    sha256: a16942467f266d8c
+  - file: aedi-computer-ai-pol986-alt-maskable-192.png
+    bytes: 223
+    dimensions: 192x192
+    sha256: b666d3abb93f21b7
+  - file: aedi-computer-ai-pol986-alt-maskable-512.png
+    bytes: 1096
+    dimensions: 512x512
+    sha256: 9b04f10d403456a5

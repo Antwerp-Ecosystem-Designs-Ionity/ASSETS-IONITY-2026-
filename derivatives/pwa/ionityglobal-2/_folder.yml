@@ -1,0 +1,87 @@
+name: ionityglobal-2
+path: derivatives/pwa/ionityglobal-2
+title: derivatives/pwa/ionityglobal-2
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 17
+total_bytes: 2037441
+formats:
+  png: 17
+assets:
+  - file: ionityglobal-2-1024.png
+    bytes: 791194
+    dimensions: 1024x1024
+    sha256: 5f0cbe6a530d83ac
+  - file: ionityglobal-2-128.png
+    bytes: 18461
+    dimensions: 128x128
+    sha256: 5f30ff6f7bfa752c
+  - file: ionityglobal-2-144.png
+    bytes: 22790
+    dimensions: 144x144
+    sha256: e115042345faa9e9
+  - file: ionityglobal-2-152.png
+    bytes: 25231
+    dimensions: 152x152
+    sha256: 7c5a3c8cee90eafc
+  - file: ionityglobal-2-167.png
+    bytes: 30014
+    dimensions: 167x167
+    sha256: e381c5461bab73c5
+  - file: ionityglobal-2-180.png
+    bytes: 34303
+    dimensions: 180x180
+    sha256: 819aaa2c3d23bd6b
+  - file: ionityglobal-2-192.png
+    bytes: 38715
+    dimensions: 192x192
+    sha256: a55de369918db9f9
+  - file: ionityglobal-2-256.png
+    bytes: 64703
+    dimensions: 256x256
+    sha256: 1b0fd18234baeb81
+  - file: ionityglobal-2-384.png
+    bytes: 133700
+    dimensions: 384x384
+    sha256: 71deac57ed087697
+  - file: ionityglobal-2-48.png
+    bytes: 3247
+    dimensions: 48x48
+    sha256: 6a6edbdc2d730cda
+  - file: ionityglobal-2-512.png
+    bytes: 225686
+    dimensions: 512x512
+    sha256: 17b09dc1993b026a
+  - file: ionityglobal-2-72.png
+    bytes: 6518
+    dimensions: 72x72
+    sha256: 76184e11719681b7
+  - file: ionityglobal-2-96.png
+    bytes: 10849
+    dimensions: 96x96
+    sha256: a1b784c76eab1b22
+  - file: ionityglobal-2-apple-touch-icon.png
+    bytes: 34303
+    dimensions: 180x180
+    sha256: 819aaa2c3d23bd6b
+  - file: ionityglobal-2-maskable-1024.png
+    bytes: 448961
+    dimensions: 1024x1024
+    sha256: 66cbe4f42bafcf7f
+  - file: ionityglobal-2-maskable-192.png
+    bytes: 21599
+    dimensions: 192x192
+    sha256: 736ebd6f5f43cb6e
+  - file: ionityglobal-2-maskable-512.png
+    bytes: 127167
+    dimensions: 512x512
+    sha256: 26b1a9201d8c6600

@@ -1,0 +1,99 @@
+name: ionity-ai-mark-white
+path: derivatives/social/ionity-ai-mark-white
+title: derivatives/social/ionity-ai-mark-white
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Platform-exact social scopes - OG, X, LinkedIn, Instagram, YouTube and more.
+asset_count: 20
+total_bytes: 895158
+formats:
+  png: 20
+assets:
+  - file: ionity-ai-mark-white-avatar-400-400x400.png
+    bytes: 17425
+    dimensions: 400x400
+    sha256: a00aa7a12f472aa8
+  - file: ionity-ai-mark-white-avatar-512-512x512.png
+    bytes: 24171
+    dimensions: 512x512
+    sha256: e69c91da18013fbb
+  - file: ionity-ai-mark-white-discord-banner-960x540.png
+    bytes: 27613
+    dimensions: 960x540
+    sha256: e5dbac0bc95f039a
+  - file: ionity-ai-mark-white-email-signature-600x200.png
+    bytes: 8576
+    dimensions: 600x200
+    sha256: b8138799e8dfc246
+  - file: ionity-ai-mark-white-facebook-cover-1640x624.png
+    bytes: 34581
+    dimensions: 1640x624
+    sha256: 0813dab807a60c18
+  - file: ionity-ai-mark-white-github-social-1280x640.png
+    bytes: 33522
+    dimensions: 1280x640
+    sha256: ef4b4f6e200a2a4e
+  - file: ionity-ai-mark-white-instagram-portrait-1080x1350.png
+    bytes: 68735
+    dimensions: 1080x1350
+    sha256: 2b50b72d4a1fa0e8
+  - file: ionity-ai-mark-white-instagram-square-1080x1080.png
+    bytes: 67062
+    dimensions: 1080x1080
+    sha256: 669da9f2ee80c005
+  - file: ionity-ai-mark-white-instagram-story-1080x1920.png
+    bytes: 71906
+    dimensions: 1080x1920
+    sha256: b4df4071d0856e99
+  - file: ionity-ai-mark-white-linkedin-cover-1584x396.png
+    bytes: 21892
+    dimensions: 1584x396
+    sha256: 8b895a1c4fced70c
+  - file: ionity-ai-mark-white-linkedin-post-1200x627.png
+    bytes: 32812
+    dimensions: 1200x627
+    sha256: 041f99a43181309a
+  - file: ionity-ai-mark-white-og-facebook-linkedin-1200x630.png
+    bytes: 33026
+    dimensions: 1200x630
+    sha256: 202e53b09e66eb08
+  - file: ionity-ai-mark-white-og-twitter-x-1200x675.png
+    bytes: 34840
+    dimensions: 1200x675
+    sha256: 67010dac460c5ada
+  - file: ionity-ai-mark-white-pinterest-pin-1000x1500.png
+    bytes: 62090
+    dimensions: 1000x1500
+    sha256: 15624d5bb3ff2db2
+  - file: ionity-ai-mark-white-presentation-16x9-1920x1080.png
+    bytes: 73535
+    dimensions: 1920x1080
+    sha256: 1f5fe4ba2a697764
+  - file: ionity-ai-mark-white-tiktok-cover-1080x1920.png
+    bytes: 71906
+    dimensions: 1080x1920
+    sha256: b4df4071d0856e99
+  - file: ionity-ai-mark-white-whatsapp-profile-640x640.png
+    bytes: 30691
+    dimensions: 640x640
+    sha256: 52901ef09f565b6d
+  - file: ionity-ai-mark-white-x-header-1500x500.png
+    bytes: 27656
+    dimensions: 1500x500
+    sha256: 3f134ba053e9ba04
+  - file: ionity-ai-mark-white-youtube-banner-2560x1440.png
+    bytes: 116381
+    dimensions: 2560x1440
+    sha256: aae4d5075bed796c
+  - file: ionity-ai-mark-white-youtube-thumbnail-1280x720.png
+    bytes: 36738
+    dimensions: 1280x720
+    sha256: a0d0e49e2e7d0d17

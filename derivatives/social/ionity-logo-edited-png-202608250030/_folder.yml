@@ -1,0 +1,99 @@
+name: ionity-logo-edited-png-202608250030
+path: derivatives/social/ionity-logo-edited-png-202608250030
+title: derivatives/social/ionity-logo-edited-png-202608250030
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Platform-exact social scopes - OG, X, LinkedIn, Instagram, YouTube and more.
+asset_count: 20
+total_bytes: 1343923
+formats:
+  png: 20
+assets:
+  - file: ionity-logo-edited-png-202608250030-avatar-400-400x400.png
+    bytes: 13741
+    dimensions: 400x400
+    sha256: 4214f238435c070d
+  - file: ionity-logo-edited-png-202608250030-avatar-512-512x512.png
+    bytes: 20400
+    dimensions: 512x512
+    sha256: a20af0402ddaef0a
+  - file: ionity-logo-edited-png-202608250030-discord-banner-960x540.png
+    bytes: 44324
+    dimensions: 960x540
+    sha256: 59903a1c363f41d6
+  - file: ionity-logo-edited-png-202608250030-email-signature-600x200.png
+    bytes: 8944
+    dimensions: 600x200
+    sha256: 885c501988678746
+  - file: ionity-logo-edited-png-202608250030-facebook-cover-1640x624.png
+    bytes: 61411
+    dimensions: 1640x624
+    sha256: ee5f03527fb12658
+  - file: ionity-logo-edited-png-202608250030-github-social-1280x640.png
+    bytes: 61697
+    dimensions: 1280x640
+    sha256: 1b2a6784588da601
+  - file: ionity-logo-edited-png-202608250030-instagram-portrait-1080x1350.png
+    bytes: 77285
+    dimensions: 1080x1350
+    sha256: a52af99ee2f490dd
+  - file: ionity-logo-edited-png-202608250030-instagram-square-1080x1080.png
+    bytes: 76521
+    dimensions: 1080x1080
+    sha256: c17370d287b6e380
+  - file: ionity-logo-edited-png-202608250030-instagram-story-1080x1920.png
+    bytes: 78501
+    dimensions: 1080x1920
+    sha256: 3dedb3362a729bec
+  - file: ionity-logo-edited-png-202608250030-linkedin-cover-1584x396.png
+    bytes: 28301
+    dimensions: 1584x396
+    sha256: f3fac010392c2ae3
+  - file: ionity-logo-edited-png-202608250030-linkedin-post-1200x627.png
+    bytes: 58871
+    dimensions: 1200x627
+    sha256: fe816a10cc59ee60
+  - file: ionity-logo-edited-png-202608250030-og-facebook-linkedin-1200x630.png
+    bytes: 59414
+    dimensions: 1200x630
+    sha256: e6a68a0b81125a35
+  - file: ionity-logo-edited-png-202608250030-og-twitter-x-1200x675.png
+    bytes: 66976
+    dimensions: 1200x675
+    sha256: 6c12cef0f8dd93a8
+  - file: ionity-logo-edited-png-202608250030-pinterest-pin-1000x1500.png
+    bytes: 69979
+    dimensions: 1000x1500
+    sha256: bb22672ded1f36f2
+  - file: ionity-logo-edited-png-202608250030-presentation-16x9-1920x1080.png
+    bytes: 152591
+    dimensions: 1920x1080
+    sha256: 1b2630b459cf467c
+  - file: ionity-logo-edited-png-202608250030-tiktok-cover-1080x1920.png
+    bytes: 78501
+    dimensions: 1080x1920
+    sha256: 3dedb3362a729bec
+  - file: ionity-logo-edited-png-202608250030-whatsapp-profile-640x640.png
+    bytes: 29744
+    dimensions: 640x640
+    sha256: 4509f52f2d8f65ae
+  - file: ionity-logo-edited-png-202608250030-x-header-1500x500.png
+    bytes: 40925
+    dimensions: 1500x500
+    sha256: 7ad35496d27784e2
+  - file: ionity-logo-edited-png-202608250030-youtube-banner-2560x1440.png
+    bytes: 240416
+    dimensions: 2560x1440
+    sha256: 962fe6ac74798734
+  - file: ionity-logo-edited-png-202608250030-youtube-thumbnail-1280x720.png
+    bytes: 75381
+    dimensions: 1280x720
+    sha256: 28c3a6537daf6e87

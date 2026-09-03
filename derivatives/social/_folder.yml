@@ -1,0 +1,50 @@
+name: social
+path: derivatives/social
+title: derivatives/social
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Platform-exact social scopes - OG, X, LinkedIn, Instagram, YouTube and more.
+asset_count: 9
+total_bytes: 3968987
+formats:
+  png: 6
+  md: 1
+  yml: 1
+  svg: 1
+assets:
+  - file: banner-ionity-yt.png
+    bytes: 627390
+    dimensions: 1536x1024
+    sha256: c873b518a8b7f289
+  - file: ionity-banner.png
+    bytes: 566525
+    dimensions: 1536x1024
+    sha256: 871ae5f0367e9454
+  - file: ionity-social-avatar-512.png
+    bytes: 50096
+    dimensions: 512x512
+    sha256: 030739d125aac585
+  - file: ionity-social-card-1200x630.png
+    bytes: 137442
+    dimensions: 1200x630
+    sha256: e16d535c92635407
+  - file: ionity-social-card.svg
+    bytes: 1702327
+    dimensions: 3872.0x2581.0
+    sha256: 179c57f08ae8d366
+  - file: ionity-youtube-banner-2.png
+    bytes: 737409
+    dimensions: 1536x1024
+    sha256: c97f4f4b7282a4b6
+  - file: nobify-og-1200x630.png
+    bytes: 145542
+    dimensions: 1200x630
+    sha256: b0aed2034488604e

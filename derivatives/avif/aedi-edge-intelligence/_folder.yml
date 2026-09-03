@@ -1,0 +1,31 @@
+name: aedi-edge-intelligence
+path: derivatives/avif/aedi-edge-intelligence
+title: derivatives/avif/aedi-edge-intelligence
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  AVIF at 256/512/1024 - smallest modern format, progressive fallback to WebP.
+asset_count: 3
+total_bytes: 52752
+formats:
+  avif: 3
+assets:
+  - file: aedi-edge-intelligence-1024.avif
+    bytes: 31961
+    dimensions: 1024x1024
+    sha256: 0c978cff55811dce
+  - file: aedi-edge-intelligence-256.avif
+    bytes: 6710
+    dimensions: 256x256
+    sha256: a5889e7e3d8d7df3
+  - file: aedi-edge-intelligence-512.avif
+    bytes: 14081
+    dimensions: 512x512
+    sha256: 3c6294086a06ab0a

@@ -1,0 +1,141 @@
+<!doctype html>
+<!--
+========================================================================================
+AEDI - IONITY GLOBAL - RAG / ASSET SEARCH
+Author: Johan Wilhelm van Antwerp | Ionity (Pty) Ltd | AEDI
+Document ID: DOC-2026-08-003 | Version: 1.0.0 | Updated: 2026-08-31 SAST
+Governance: Policy 986 AED | (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - TM2
+Web: https://www.ionity.today | https://www.ionity.world | Ref: https://www.ionity.co.za
+Classification: PUBLIC | Building Tomorrow, Today. | Anything is Possible with God.
+========================================================================================
+-->
+<html lang="en-ZA"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ionity Global · AEDI — Asset & RAG Index</title>
+<meta name="author" content="Johan Wilhelm van Antwerp">
+<meta name="description" content="Searchable index of every Ionity Global / AEDI asset, with the RAG corpus and cross-branch repository map.">
+<meta name="theme-color" content="#00c6ff">
+<style>
+:root{--bg:#0d1b2a;--surf:#132437;--surf2:#0f1d2e;--ink:#e8f1f8;--mut:#8fa6bb;
+--cy:#00c6ff;--cy2:#00bfff;--bd:#1e3category;--bd:#1e3550;--ok:#3ddc97;--warn:#ffb454}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+font:14px/1.55 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Inter,sans-serif}
+a{color:var(--cy);text-decoration:none}a:hover{text-decoration:underline}
+header{padding:22px 20px 16px;border-bottom:1px solid var(--bd);
+background:linear-gradient(180deg,#10203400,#0d1b2a),radial-gradient(900px 220px at 12% -40%,rgba(0,198,255,.22),transparent)}
+h1{margin:0 0 4px;font-size:20px;letter-spacing:.4px}
+h1 b{color:var(--cy)}
+.sub{color:var(--mut);font-size:12.5px}
+.wrap{max-width:1280px;margin:0 auto;padding:0 20px}
+.stats{display:flex;flex-wrap:wrap;gap:10px;margin:14px 0 0}
+.stat{background:var(--surf);border:1px solid var(--bd);border-radius:9px;padding:8px 12px;min-width:118px}
+.stat b{display:block;font-size:17px;color:var(--cy)}
+.stat span{font-size:11px;color:var(--mut);text-transform:uppercase;letter-spacing:.7px}
+.bar{position:sticky;top:0;z-index:5;background:rgba(13,27,42,.94);backdrop-filter:blur(8px);
+border-bottom:1px solid var(--bd);padding:12px 0}
+input,select{background:var(--surf2);color:var(--ink);border:1px solid var(--bd);
+border-radius:8px;padding:9px 12px;font:inherit}
+input#q{flex:1;min-width:220px}
+input:focus,select:focus{outline:2px solid var(--cy2);outline-offset:1px}
+.row{display:flex;gap:9px;flex-wrap:wrap;align-items:center}
+.count{color:var(--mut);font-size:12px;margin-left:auto}
+table{width:100%;border-collapse:collapse;margin:14px 0 40px;font-size:13px}
+th{position:sticky;top:60px;background:var(--surf);text-align:left;font-weight:600;
+padding:8px 10px;border-bottom:1px solid var(--bd);color:var(--mut);
+font-size:11px;text-transform:uppercase;letter-spacing:.7px;cursor:pointer;white-space:nowrap}
+td{padding:7px 10px;border-bottom:1px solid #16283c;vertical-align:top}
+tr:hover td{background:#11213363}
+.pth{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace;font-size:12px;word-break:break-all}
+.tag{display:inline-block;background:#14293f;border:1px solid var(--bd);color:var(--mut);
+border-radius:5px;padding:1px 6px;margin:1px 3px 1px 0;font-size:10.5px}
+.k{border-radius:5px;padding:2px 7px;font-size:11px;white-space:nowrap;
+background:#0e2a3a;border:1px solid #17455c;color:#7fd8ff}
+.k.document{background:#2a2413;border-color:#5c4a17;color:#ffd88a}
+.k.code{background:#132a1c;border-color:#1d5c33;color:#8fe0ad}
+.k.data{background:#241a2e;border-color:#4b2f63;color:#d2a8ff}
+.k.video,.k.audio{background:#2e1a1a;border-color:#63302f;color:#ffb0a8}
+.num{text-align:right;color:var(--mut);white-space:nowrap;font-variant-numeric:tabular-nums}
+footer{border-top:1px solid var(--bd);padding:18px 0 40px;color:var(--mut);font-size:12px}
+.links{display:flex;gap:14px;flex-wrap:wrap;margin:10px 0 0}
+mark{background:#00c6ff33;color:#bdeaff;border-radius:3px}
+.empty{padding:36px;text-align:center;color:var(--mut)}
+@media(prefers-color-scheme:light){}
+</style></head><body>
+<header><div class="wrap">
+<h1><b>IONITY GLOBAL</b> · AEDI — Asset Catalogue</h1>
+<div class="sub">Ionity (Pty) Ltd · Antwerp Ecosystems Designs Ionity · Johan Wilhelm van Antwerp ·
+Policy 986 AED · <em>Building Tomorrow, Today.</em></div>
+<div class="stats" id="stats"></div>
+<div class="links">
+ <a href="rag/index.json">RAG manifest</a><a href="rag/corpus.jsonl">corpus.jsonl</a>
+ <a href="rag/assets.jsonl">assets.jsonl</a><a href="rag/branches.jsonl">branches.jsonl</a>
+ <a href="rag/repos.branches.json">repos + branches</a><a href="rag/llms-full.txt">llms-full.txt</a>
+ <a href="metadata/assets.index.json">asset index</a><a href="MAP.md">repo map</a>
+ <a href="rag/index.html">catalogue</a>
+</div>
+</div></header>
+<div class="bar"><div class="wrap"><div class="row">
+ <input id="q" placeholder="Search 7,862 assets — try: eagle svg, favicon ico, og 1200x630, nobify, xmp…" autofocus>
+ <select id="kind"><option value="">every kind</option></select>
+ <select id="role"><option value="">every role</option></select>
+ <select id="ext"><option value="">every format</option></select>
+ <span class="count" id="count"></span>
+</div></div></div>
+<div class="wrap"><div id="out"></div></div>
+<footer><div class="wrap">
+ © 2018–2026 Antwerp Designs | Ionity (Pty) Ltd — All Rights Reserved — TM² ·
+ Governance Policy 986 AED · Licence AED 900 | CC BY-NC-SA 4.0 where stated<br>
+ <a href="https://www.ionity.today">ionity.today</a> ·
+ <a href="https://www.ionity.world">ionity.world</a> ·
+ <a href="https://www.ionity.co.za">ionity.co.za</a> ·
+ info@ionity.today · Centurion, Gauteng, South Africa ·
+ <em>Anything is Possible with God.</em>
+</div></footer>
+<script>
+const RAW="https://raw.githubusercontent.com/Ionity-Global/ionity-assets-ionity-global-jwva/main/";
+let ROWS=[],VIEW=[],sortKey=0,sortDir=1;
+const $=s=>document.querySelector(s);
+const fmt=b=>b<1024?b+" B":b<1048576?(b/1024).toFixed(0)+" KB":(b/1048576).toFixed(1)+" MB";
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function hl(t,terms){let o=esc(t);terms.forEach(x=>{if(x.length<2)return;
+ o=o.replace(new RegExp("("+x.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+")","ig"),"<mark>$1</mark>")});return o}
+fetch("rag/search-index.json").then(r=>r.json()).then(d=>{
+ ROWS=d.rows.map(r=>({p:r[0],k:r[1],ro:r[2],e:r[3],b:r[4],w:r[5],h:r[6],t:r[7],
+   s:(r[0]+" "+r[1]+" "+r[2]+" "+r[3]+" "+r[7]+" "+(r[5]&&r[6]?r[5]+"x"+r[6]:"")).toLowerCase()}));
+ fill("#kind","k");fill("#role","ro");fill("#ext","e");
+ fetch("rag/index.json").then(r=>r.json()).then(m=>{
+   const T=m.totals||{},S=[["assets",d.count],["text chunks",T.text_chunks_core],
+    ["asset cards",T.asset_cards],["cross-branch files",T.cross_branch_records],
+    ["repositories",T.repositories],["branches",T.branches]];
+   $("#stats").innerHTML=S.map(([l,v])=>`<div class="stat"><b>${(v||0).toLocaleString()}</b><span>${l}</span></div>`).join("");
+ }).catch(()=>{});
+ run();
+});
+function fill(sel,key){const s=$(sel),v=[...new Set(ROWS.map(r=>r[key]).filter(Boolean))].sort();
+ v.forEach(x=>{const o=document.createElement("option");o.value=o.textContent=x;s.appendChild(o)});}
+function run(){
+ const q=$("#q").value.trim().toLowerCase(),terms=q.split(/\s+/).filter(Boolean);
+ const fk=$("#kind").value,fr=$("#role").value,fe=$("#ext").value;
+ VIEW=ROWS.filter(r=>(!fk||r.k===fk)&&(!fr||r.ro===fr)&&(!fe||r.e===fe)&&terms.every(t=>r.s.includes(t)));
+ const keys=["p","k","ro","e","b"];const K=keys[sortKey];
+ VIEW.sort((a,b)=>{const x=a[K],y=b[K];return (x>y?1:x<y?-1:0)*sortDir});
+ $("#count").textContent=VIEW.length.toLocaleString()+" of "+ROWS.length.toLocaleString();
+ const N=Math.min(VIEW.length,600);
+ if(!VIEW.length){$("#out").innerHTML='<div class="empty">Nothing matches — try fewer words.</div>';return}
+ let h='<table><thead><tr>'+
+  ["path","kind","role","format","size","dimensions","tags"].map((c,i)=>
+   `<th data-i="${i}">${c}${i===sortKey?(sortDir>0?" ▲":" ▼"):""}</th>`).join("")+"</tr></thead><tbody>";
+ for(let i=0;i<N;i++){const r=VIEW[i];
+  h+=`<tr><td class="pth"><a href="${RAW}${encodeURI(r.p)}" target="_blank" rel="noopener">${hl(r.p,terms)}</a></td>`+
+     `<td><span class="k ${r.k}">${r.k}</span></td><td>${esc(r.ro)}</td><td>${esc(r.e||"—")}</td>`+
+     `<td class="num">${fmt(r.b)}</td><td class="num">${r.w?r.w+"×"+r.h:"—"}</td>`+
+     `<td>${r.t.split(" ").slice(0,7).map(t=>`<span class="tag">${esc(t)}</span>`).join("")}</td></tr>`}
+ h+="</tbody></table>";
+ if(VIEW.length>N)h+=`<div class="empty">showing first ${N} of ${VIEW.length.toLocaleString()} — refine the search to see the rest</div>`;
+ $("#out").innerHTML=h;
+ document.querySelectorAll("th").forEach(th=>th.onclick=()=>{
+  const i=+th.dataset.i;if(i>4)return;sortDir=(i===sortKey)?-sortDir:1;sortKey=i;run()});
+}
+["#q","#kind","#role","#ext"].forEach(s=>$(s).addEventListener("input",run));
+</script></body></html>

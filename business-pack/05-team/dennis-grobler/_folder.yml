@@ -1,0 +1,34 @@
+name: dennis-grobler
+path: business-pack/05-team/dennis-grobler
+title: business-pack/05-team/dennis-grobler
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Curated, ready-to-send pack for clients, press and partners.
+asset_count: 5
+total_bytes: 19699422
+formats:
+  png: 2
+  md: 1
+  yml: 1
+  gif: 1
+assets:
+  - file: dennis-grobler-business-card-animated.gif
+    bytes: 2041038
+    dimensions: 1600x893
+    sha256: 429667b6ea0f8845
+  - file: dennis-grobler-business-card.png
+    bytes: 15277695
+    dimensions: 8600x4800
+    sha256: 037acb534f88a162
+  - file: dennis-grobler-portrait.png
+    bytes: 2378906
+    dimensions: 1024x1536
+    sha256: 1ebbbe40554851b7

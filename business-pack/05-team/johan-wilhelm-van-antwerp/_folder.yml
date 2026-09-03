@@ -1,0 +1,67 @@
+name: johan-wilhelm-van-antwerp
+path: business-pack/05-team/johan-wilhelm-van-antwerp
+title: business-pack/05-team/johan-wilhelm-van-antwerp
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Curated, ready-to-send pack for clients, press and partners.
+asset_count: 13
+total_bytes: 30002639
+formats:
+  png: 6
+  jpg: 3
+  md: 1
+  yml: 1
+  svg: 1
+  vcf: 1
+assets:
+  - file: author-johan-200.jpg
+    bytes: 6853
+    dimensions: 200x200
+    sha256: f0fa9cf0253ea74b
+  - file: author-johan.svg
+    bytes: 9448
+    dimensions: 200.0x200.0
+    sha256: bbe84fdeb9d6b7dc
+  - file: johan-origin-retro.png
+    bytes: 941949
+    dimensions: 794x1024
+    sha256: 9c4bb3b90c90bd20
+  - file: johan-portrait-200.jpg
+    bytes: 10793
+    dimensions: 200x200
+    sha256: 7157905bbaba0bf9
+  - file: johan-portrait-2048.png
+    bytes: 1747343
+    dimensions: 1143x2048
+    sha256: 7c1ed10eb7453f32
+  - file: johan-portrait-400.jpg
+    bytes: 35913
+    dimensions: 400x400
+    sha256: 19148bbb36e8b1b3
+  - file: johan-portrait-512.png
+    bytes: 106081
+    dimensions: 512x512
+    sha256: 3dbf80b1d0b3f0d6
+  - file: johan-portrait-master.png
+    bytes: 21542010
+    dimensions: 3572x6400
+    sha256: 1bd7b35876e3b325
+  - file: johan-signature-a.png
+    bytes: 2231759
+    dimensions: 2752x1536
+    sha256: 534e6f1e8a331210
+  - file: johan-signature-ionity.png
+    bytes: 3150864
+    dimensions: 2752x1536
+    sha256: b7a11e5344e47102
+  - file: johan-wilhelm-van-antwerp.vcf
+    bytes: 216532
+    sha256: af727d957c00597a

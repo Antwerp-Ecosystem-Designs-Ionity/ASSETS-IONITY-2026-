@@ -1,0 +1,89 @@
+name: aedi-mark
+path: derivatives/pwa/aedi-mark
+title: derivatives/pwa/aedi-mark
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 19
+total_bytes: 574761
+formats:
+  png: 17
+  md: 1
+  yml: 1
+assets:
+  - file: aedi-mark-1024.png
+    bytes: 176277
+    dimensions: 1024x1024
+    sha256: f4283b71b67495e1
+  - file: aedi-mark-128.png
+    bytes: 7796
+    dimensions: 128x128
+    sha256: d52b6ff52aae0243
+  - file: aedi-mark-144.png
+    bytes: 9429
+    dimensions: 144x144
+    sha256: ef50b9bad7702b0f
+  - file: aedi-mark-152.png
+    bytes: 10218
+    dimensions: 152x152
+    sha256: 804ddd7415c3db5e
+  - file: aedi-mark-167.png
+    bytes: 11834
+    dimensions: 167x167
+    sha256: c49934a91e51f4f8
+  - file: aedi-mark-180.png
+    bytes: 13300
+    dimensions: 180x180
+    sha256: 66fe701d8c695441
+  - file: aedi-mark-192.png
+    bytes: 14705
+    dimensions: 192x192
+    sha256: fd72dd480647e5c3
+  - file: aedi-mark-256.png
+    bytes: 22825
+    dimensions: 256x256
+    sha256: f9cb2f01c5a05255
+  - file: aedi-mark-384.png
+    bytes: 42498
+    dimensions: 384x384
+    sha256: b68c930fe9162cbc
+  - file: aedi-mark-48.png
+    bytes: 1674
+    dimensions: 48x48
+    sha256: 4d88c119f313a20a
+  - file: aedi-mark-512.png
+    bytes: 64546
+    dimensions: 512x512
+    sha256: 7b86eafc11783a36
+  - file: aedi-mark-72.png
+    bytes: 3171
+    dimensions: 72x72
+    sha256: 1f2319cfe25fce23
+  - file: aedi-mark-96.png
+    bytes: 4959
+    dimensions: 96x96
+    sha256: 616d043d362e94b4
+  - file: aedi-mark-apple-touch-icon.png
+    bytes: 12041
+    dimensions: 180x180
+    sha256: d77a8a346afee2d2
+  - file: aedi-mark-maskable-1024.png
+    bytes: 121293
+    dimensions: 1024x1024
+    sha256: ccabb679dff4d08f
+  - file: aedi-mark-maskable-192.png
+    bytes: 9769
+    dimensions: 192x192
+    sha256: 73b7210caf8752d0
+  - file: aedi-mark-maskable-512.png
+    bytes: 44344
+    dimensions: 512x512
+    sha256: 549e708f796f7e2a

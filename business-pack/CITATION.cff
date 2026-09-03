@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: "Ionity Global / AEDI — Master Asset Repository"
+message: "If you reference these assets, please cite as below."
+type: dataset
+version: "2.0.0"
+date-released: "2026-08-30"
+license: CC-BY-NC-SA-4.0
+url: "https://www.ionity.today"
+repository: "https://github.com/Ionity-Global/ionity-assets-ionity-global-ionity-today"
+abstract: >-
+  Canonical, de-duplicated and fully indexed registry of every Ionity Global /
+  AEDI brand, product, media, document and web asset, including generated
+  derivative size ladders, favicon and PWA sets, platform social scopes, design
+  tokens, ANSI/ASCII brand art, XMP provenance sidecars and a machine-readable
+  asset registry. Governed by Policy 986 AED.
+keywords:
+  - Ionity
+  - AEDI
+  - Antwerp Designs
+  - brand assets
+  - design tokens
+  - IoT
+  - Edge AI
+  - Policy 986 AED
+authors:
+  - family-names: "van Antwerp"
+    given-names: "Johan Wilhelm"
+    orcid: "https://orcid.org/0009-0005-7181-0347"
+    affiliation: "Ionity (Pty) Ltd — AEDI"
+    email: "johan@ionity.today"
+    city: "Centurion"
+    region: "Gauteng"
+    country: "ZA"
+identifiers:
+  - type: other
+    value: "DOC-2026-08-001"
+    description: "AEDI document identifier"
+  - type: other
+    value: "POL-986-AED"
+    description: "Governing policy"

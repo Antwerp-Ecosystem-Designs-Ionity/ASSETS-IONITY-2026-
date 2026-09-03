@@ -1,0 +1,99 @@
+name: ionityglobal-2
+path: derivatives/social/ionityglobal-2
+title: derivatives/social/ionityglobal-2
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Platform-exact social scopes - OG, X, LinkedIn, Instagram, YouTube and more.
+asset_count: 20
+total_bytes: 8218505
+formats:
+  png: 20
+assets:
+  - file: ionityglobal-2-avatar-400-400x400.png
+    bytes: 87920
+    dimensions: 400x400
+    sha256: 465c71137e629410
+  - file: ionityglobal-2-avatar-512-512x512.png
+    bytes: 137464
+    dimensions: 512x512
+    sha256: 25b857f09aa37b90
+  - file: ionityglobal-2-discord-banner-960x540.png
+    bytes: 258733
+    dimensions: 960x540
+    sha256: d10c6b608d42a65e
+  - file: ionityglobal-2-email-signature-600x200.png
+    bytes: 43557
+    dimensions: 600x200
+    sha256: 6650784ecf849204
+  - file: ionityglobal-2-facebook-cover-1640x624.png
+    bytes: 344027
+    dimensions: 1640x624
+    sha256: f6fa86e11affa4fc
+  - file: ionityglobal-2-github-social-1280x640.png
+    bytes: 355084
+    dimensions: 1280x640
+    sha256: a78c5cd4639434a7
+  - file: ionityglobal-2-instagram-portrait-1080x1350.png
+    bytes: 536156
+    dimensions: 1080x1350
+    sha256: 284115a792c688b4
+  - file: ionityglobal-2-instagram-square-1080x1080.png
+    bytes: 533941
+    dimensions: 1080x1080
+    sha256: 1f443193462f2afa
+  - file: ionityglobal-2-instagram-story-1080x1920.png
+    bytes: 539989
+    dimensions: 1080x1920
+    sha256: abdd82a4261bdf76
+  - file: ionityglobal-2-linkedin-cover-1584x396.png
+    bytes: 152648
+    dimensions: 1584x396
+    sha256: 55102a6ea4fd5bfd
+  - file: ionityglobal-2-linkedin-post-1200x627.png
+    bytes: 341475
+    dimensions: 1200x627
+    sha256: fabdc8e31aa7af06
+  - file: ionityglobal-2-og-facebook-linkedin-1200x630.png
+    bytes: 344834
+    dimensions: 1200x630
+    sha256: 808491dd23c99523
+  - file: ionityglobal-2-og-twitter-x-1200x675.png
+    bytes: 388557
+    dimensions: 1200x675
+    sha256: b000a336b4b88160
+  - file: ionityglobal-2-pinterest-pin-1000x1500.png
+    bytes: 469030
+    dimensions: 1000x1500
+    sha256: d814fbcce268fde2
+  - file: ionityglobal-2-presentation-16x9-1920x1080.png
+    bytes: 893226
+    dimensions: 1920x1080
+    sha256: e9b253f7538b1438
+  - file: ionityglobal-2-tiktok-cover-1080x1920.png
+    bytes: 539989
+    dimensions: 1080x1920
+    sha256: abdd82a4261bdf76
+  - file: ionityglobal-2-whatsapp-profile-640x640.png
+    bytes: 206468
+    dimensions: 640x640
+    sha256: 5044b6dfccbc14d8
+  - file: ionityglobal-2-x-header-1500x500.png
+    bytes: 229919
+    dimensions: 1500x500
+    sha256: b2ca45555fb56e6d
+  - file: ionityglobal-2-youtube-banner-2560x1440.png
+    bytes: 1377871
+    dimensions: 2560x1440
+    sha256: c1e4dd1070b83a41
+  - file: ionityglobal-2-youtube-thumbnail-1280x720.png
+    bytes: 437617
+    dimensions: 1280x720
+    sha256: 28649b07420a5f83

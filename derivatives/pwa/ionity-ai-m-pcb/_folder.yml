@@ -1,0 +1,89 @@
+name: ionity-ai-m-pcb
+path: derivatives/pwa/ionity-ai-m-pcb
+title: derivatives/pwa/ionity-ai-m-pcb
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 19
+total_bytes: 2935840
+formats:
+  png: 17
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-ai-m-pcb-1024.png
+    bytes: 1207451
+    dimensions: 1024x1024
+    sha256: f7e07ae372aded57
+  - file: ionity-ai-m-pcb-128.png
+    bytes: 21443
+    dimensions: 128x128
+    sha256: 4166c53a7f083a23
+  - file: ionity-ai-m-pcb-144.png
+    bytes: 26920
+    dimensions: 144x144
+    sha256: f456303d91fbaf8e
+  - file: ionity-ai-m-pcb-152.png
+    bytes: 29346
+    dimensions: 152x152
+    sha256: ef76285d4860eab2
+  - file: ionity-ai-m-pcb-167.png
+    bytes: 35200
+    dimensions: 167x167
+    sha256: aff605b05a92a775
+  - file: ionity-ai-m-pcb-180.png
+    bytes: 40620
+    dimensions: 180x180
+    sha256: b3c4e0721b93ba06
+  - file: ionity-ai-m-pcb-192.png
+    bytes: 45800
+    dimensions: 192x192
+    sha256: 8244abf1dc513726
+  - file: ionity-ai-m-pcb-256.png
+    bytes: 79038
+    dimensions: 256x256
+    sha256: 204933ac698ef29e
+  - file: ionity-ai-m-pcb-384.png
+    bytes: 173379
+    dimensions: 384x384
+    sha256: 6554bff55058d802
+  - file: ionity-ai-m-pcb-48.png
+    bytes: 3427
+    dimensions: 48x48
+    sha256: 143f702bd4b69eba
+  - file: ionity-ai-m-pcb-512.png
+    bytes: 305639
+    dimensions: 512x512
+    sha256: 5e0f1b2f3098687a
+  - file: ionity-ai-m-pcb-72.png
+    bytes: 7229
+    dimensions: 72x72
+    sha256: 5b6f1fd5e271325b
+  - file: ionity-ai-m-pcb-96.png
+    bytes: 12410
+    dimensions: 96x96
+    sha256: c0f9767b01c1af5d
+  - file: ionity-ai-m-pcb-apple-touch-icon.png
+    bytes: 36968
+    dimensions: 180x180
+    sha256: 340b216eaa45416d
+  - file: ionity-ai-m-pcb-maskable-1024.png
+    bytes: 701157
+    dimensions: 1024x1024
+    sha256: f6813a962b849474
+  - file: ionity-ai-m-pcb-maskable-192.png
+    bytes: 27647
+    dimensions: 192x192
+    sha256: c88eeadcb235cd20
+  - file: ionity-ai-m-pcb-maskable-512.png
+    bytes: 177850
+    dimensions: 512x512
+    sha256: 1d210747da3e16b4

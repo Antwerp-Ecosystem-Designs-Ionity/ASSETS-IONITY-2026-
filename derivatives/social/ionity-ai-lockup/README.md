@@ -1,0 +1,43 @@
+<!--
+========================================================================================
+AEDI - IONITY GLOBAL - DERIVATIVES/SOCIAL/IONITY-AI-LOCKUP
+Author: Johan Wilhelm van Antwerp | Ionity (Pty) Ltd | AEDI
+Version: 3.0.0 | Updated: 2026-08-31 SAST | Governance: Policy 986 AED
+(c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+Web: https://www.ionity.today | https://www.ionity.world | Ref: https://www.ionity.co.za
+Classification: PUBLIC | Building Tomorrow, Today. | Anything is Possible with God.
+========================================================================================
+-->
+
+# `derivatives/social/ionity-ai-lockup`
+
+Platform-exact social scopes - OG, X, LinkedIn, Instagram, YouTube and more.
+
+**20 assets · 0.79 MB · 20 png**
+
+| File | Kind | Bytes | Dimensions |
+|---|---|---:|---|
+| `ionity-ai-lockup-avatar-400-400x400.png` | image | 12,249 | 400×400 |
+| `ionity-ai-lockup-avatar-512-512x512.png` | image | 16,849 | 512×512 |
+| `ionity-ai-lockup-discord-banner-960x540.png` | image | 30,390 | 960×540 |
+| `ionity-ai-lockup-email-signature-600x200.png` | image | 8,551 | 600×200 |
+| `ionity-ai-lockup-facebook-cover-1640x624.png` | image | 39,475 | 1640×624 |
+| `ionity-ai-lockup-github-social-1280x640.png` | image | 38,105 | 1280×640 |
+| `ionity-ai-lockup-instagram-portrait-1080x1350.png` | image | 47,576 | 1080×1350 |
+| `ionity-ai-lockup-instagram-square-1080x1080.png` | image | 46,008 | 1080×1080 |
+| `ionity-ai-lockup-instagram-story-1080x1920.png` | image | 50,911 | 1080×1920 |
+| `ionity-ai-lockup-linkedin-cover-1584x396.png` | image | 22,838 | 1584×396 |
+| `ionity-ai-lockup-linkedin-post-1200x627.png` | image | 37,388 | 1200×627 |
+| `ionity-ai-lockup-og-facebook-linkedin-1200x630.png` | image | 37,465 | 1200×630 |
+| `ionity-ai-lockup-og-twitter-x-1200x675.png` | image | 40,530 | 1200×675 |
+| `ionity-ai-lockup-pinterest-pin-1000x1500.png` | image | 43,937 | 1000×1500 |
+| `ionity-ai-lockup-presentation-16x9-1920x1080.png` | image | 81,824 | 1920×1080 |
+| `ionity-ai-lockup-tiktok-cover-1080x1920.png` | image | 50,911 | 1080×1920 |
+| `ionity-ai-lockup-whatsapp-profile-640x640.png` | image | 22,754 | 640×640 |
+| `ionity-ai-lockup-x-header-1500x500.png` | image | 30,030 | 1500×500 |
+| `ionity-ai-lockup-youtube-banner-2560x1440.png` | image | 122,254 | 2560×1440 |
+| `ionity-ai-lockup-youtube-thumbnail-1280x720.png` | image | 44,594 | 1280×720 |
+
+---
+
+*© 2018–2026 Antwerp Designs | Ionity (Pty) Ltd — All Rights Reserved — TM² · Policy 986 AED · [ionity.today](https://www.ionity.today) · [ionity.world](https://www.ionity.world) · Building Tomorrow, Today.*

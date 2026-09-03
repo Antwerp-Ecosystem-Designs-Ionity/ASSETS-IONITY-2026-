@@ -1,0 +1,89 @@
+name: ionity-logo-white
+path: derivatives/pwa/ionity-logo-white
+title: derivatives/pwa/ionity-logo-white
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 19
+total_bytes: 294917
+formats:
+  png: 17
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-logo-white-1024.png
+    bytes: 97930
+    dimensions: 1024x1024
+    sha256: 9eee8eff2c080b40
+  - file: ionity-logo-white-128.png
+    bytes: 3620
+    dimensions: 128x128
+    sha256: 21c794ff7fe30cea
+  - file: ionity-logo-white-144.png
+    bytes: 4302
+    dimensions: 144x144
+    sha256: 25ba39fb2f497d26
+  - file: ionity-logo-white-152.png
+    bytes: 4704
+    dimensions: 152x152
+    sha256: 98328551eba28575
+  - file: ionity-logo-white-167.png
+    bytes: 5400
+    dimensions: 167x167
+    sha256: 3e10b84d6f5bbd49
+  - file: ionity-logo-white-180.png
+    bytes: 5986
+    dimensions: 180x180
+    sha256: e86c7afd6168d2c4
+  - file: ionity-logo-white-192.png
+    bytes: 6655
+    dimensions: 192x192
+    sha256: e28e7a3edfee0354
+  - file: ionity-logo-white-256.png
+    bytes: 10171
+    dimensions: 256x256
+    sha256: dc39f5ee273151b4
+  - file: ionity-logo-white-384.png
+    bytes: 18823
+    dimensions: 384x384
+    sha256: 9960cc1d39564863
+  - file: ionity-logo-white-48.png
+    bytes: 932
+    dimensions: 48x48
+    sha256: 4c17a387015dce99
+  - file: ionity-logo-white-512.png
+    bytes: 30493
+    dimensions: 512x512
+    sha256: 286315adf4f0c5f7
+  - file: ionity-logo-white-72.png
+    bytes: 1687
+    dimensions: 72x72
+    sha256: b103a837192c5038
+  - file: ionity-logo-white-96.png
+    bytes: 2522
+    dimensions: 96x96
+    sha256: 501bf69adb7afcef
+  - file: ionity-logo-white-apple-touch-icon.png
+    bytes: 5558
+    dimensions: 180x180
+    sha256: 59214ac8f8878af9
+  - file: ionity-logo-white-maskable-1024.png
+    bytes: 66570
+    dimensions: 1024x1024
+    sha256: 3f8beeb5a35a7ea6
+  - file: ionity-logo-white-maskable-192.png
+    bytes: 4691
+    dimensions: 192x192
+    sha256: b1dd6fb3cb3f5ae7
+  - file: ionity-logo-white-maskable-512.png
+    bytes: 20520
+    dimensions: 512x512
+    sha256: ccebf5fee302a5d4

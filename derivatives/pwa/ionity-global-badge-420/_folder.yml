@@ -1,0 +1,87 @@
+name: ionity-global-badge-420
+path: derivatives/pwa/ionity-global-badge-420
+title: derivatives/pwa/ionity-global-badge-420
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 17
+total_bytes: 42410
+formats:
+  png: 17
+assets:
+  - file: ionity-global-badge-420-1024.png
+    bytes: 9367
+    dimensions: 1024x1024
+    sha256: a121eb969e9ed51b
+  - file: ionity-global-badge-420-128.png
+    bytes: 1417
+    dimensions: 128x128
+    sha256: 77dbbd0b64455448
+  - file: ionity-global-badge-420-144.png
+    bytes: 1120
+    dimensions: 144x144
+    sha256: cad03893ac390c86
+  - file: ionity-global-badge-420-152.png
+    bytes: 1596
+    dimensions: 152x152
+    sha256: 9d4eb7090d5a3619
+  - file: ionity-global-badge-420-167.png
+    bytes: 1527
+    dimensions: 167x167
+    sha256: 2f14458ce8d2fe40
+  - file: ionity-global-badge-420-180.png
+    bytes: 1648
+    dimensions: 180x180
+    sha256: 193f1cd1e7af524c
+  - file: ionity-global-badge-420-192.png
+    bytes: 1733
+    dimensions: 192x192
+    sha256: 5fcceb86a6b1d902
+  - file: ionity-global-badge-420-256.png
+    bytes: 1921
+    dimensions: 256x256
+    sha256: 1fad742f854124f3
+  - file: ionity-global-badge-420-384.png
+    bytes: 2266
+    dimensions: 384x384
+    sha256: a97d98a28f8a72c1
+  - file: ionity-global-badge-420-48.png
+    bytes: 956
+    dimensions: 48x48
+    sha256: 4fff2357b0b2bf07
+  - file: ionity-global-badge-420-512.png
+    bytes: 3254
+    dimensions: 512x512
+    sha256: a852e1fc14ccd00a
+  - file: ionity-global-badge-420-72.png
+    bytes: 649
+    dimensions: 72x72
+    sha256: 61359666ea51f30d
+  - file: ionity-global-badge-420-96.png
+    bytes: 1183
+    dimensions: 96x96
+    sha256: 24dabb3b20c397e1
+  - file: ionity-global-badge-420-apple-touch-icon.png
+    bytes: 1648
+    dimensions: 180x180
+    sha256: 193f1cd1e7af524c
+  - file: ionity-global-badge-420-maskable-1024.png
+    bytes: 7496
+    dimensions: 1024x1024
+    sha256: a4808640b2433407
+  - file: ionity-global-badge-420-maskable-192.png
+    bytes: 1696
+    dimensions: 192x192
+    sha256: b33569312d076847
+  - file: ionity-global-badge-420-maskable-512.png
+    bytes: 2933
+    dimensions: 512x512
+    sha256: 512505e34ade5b45

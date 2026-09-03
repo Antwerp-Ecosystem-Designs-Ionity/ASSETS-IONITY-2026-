@@ -1,0 +1,82 @@
+name: 01-logos
+path: business-pack/01-logos
+title: business-pack/01-logos
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Curated, ready-to-send pack for clients, press and partners.
+asset_count: 17
+total_bytes: 16963088
+formats:
+  png: 9
+  svg: 6
+  md: 1
+  yml: 1
+assets:
+  - file: aedi-antwerp-designs-ionity-global.png
+    bytes: 1108858
+    dimensions: 1029x579
+    sha256: 1b2c2e7d55d8ca70
+  - file: ionity-global-badge-420.png
+    bytes: 5188
+    dimensions: 420x420
+    sha256: 9a42fccba8e0c241
+  - file: ionity-global-badge-932.png
+    bytes: 856065
+    dimensions: 932x699
+    sha256: 88dc95b080086f20
+  - file: ionity-global-logo-primary.png
+    bytes: 920240
+    dimensions: 3872x2581
+    sha256: 657fa1bc3588d142
+  - file: ionity-global-logo-primary.svg
+    bytes: 1702327
+    dimensions: 3872.0x2581.0
+    sha256: 3355a31cb1fbae4c
+  - file: ionity-global-logo-transparent.svg
+    bytes: 1702348
+    dimensions: 3872.0x2581.0
+    sha256: d32739ee83d4dbb8
+  - file: ionity-global-pty-ltd-transparent-1000.png
+    bytes: 19822
+    dimensions: 855x570
+    sha256: 10b47d8dcc39e40f
+  - file: ionity-global-pty-ltd-transparent.png
+    bytes: 1900874
+    dimensions: 1536x1024
+    sha256: e893dc826be292c4
+  - file: ionity-logo-clouds.png
+    bytes: 1468439
+    dimensions: 1344x768
+    sha256: 6ed09ec4c4f6b952
+  - file: ionity-logo-clouds.svg
+    bytes: 2199766
+    dimensions: 1344.0x768.0
+    sha256: 3e71c9f28a9df352
+  - file: ionity-logo-dark.png
+    bytes: 305037
+    dimensions: 1536x1024
+    sha256: e462fb11e4f6ebc8
+  - file: ionity-logo-dark.svg
+    bytes: 419204
+    dimensions: 1536.0x1024.0
+    sha256: 8e33503d43d3d24c
+  - file: ionity-logo-white.png
+    bytes: 1094707
+    dimensions: 4800x3200
+    sha256: 67e612dde960a732
+  - file: ionity-logo-white.svg
+    bytes: 1554287
+    dimensions: 4800.0x3200.0
+    sha256: 02f490d1ec2d2ae7
+  - file: ionity-today-logo-pol986.svg
+    bytes: 1702414
+    dimensions: 3872.0x2581.0
+    sha256: 267efa81ecdd2762

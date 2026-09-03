@@ -1,0 +1,89 @@
+name: ionity-logo-dark
+path: derivatives/pwa/ionity-logo-dark
+title: derivatives/pwa/ionity-logo-dark
+classification: PUBLIC
+author: Johan Wilhelm van Antwerp
+organisation: Ionity (Pty) Ltd | AEDI
+governance: Policy 986 AED
+license: AED 900 | CC BY-NC-SA 4.0 where stated
+rights: (c) 2018-2026 Antwerp Designs | Ionity (Pty) Ltd - All Rights Reserved - TM2
+web: https://www.ionity.today
+reference: https://www.ionity.co.za
+updated: 2026-08-31
+purpose: >-
+  Progressive-web-app icons including maskable and Apple touch variants.
+asset_count: 19
+total_bytes: 371966
+formats:
+  png: 17
+  md: 1
+  yml: 1
+assets:
+  - file: ionity-logo-dark-1024.png
+    bytes: 132084
+    dimensions: 1024x1024
+    sha256: 82ede1f92bd8b211
+  - file: ionity-logo-dark-128.png
+    bytes: 4402
+    dimensions: 128x128
+    sha256: 2b6917428d27aec6
+  - file: ionity-logo-dark-144.png
+    bytes: 5179
+    dimensions: 144x144
+    sha256: 160ef859cb259bb5
+  - file: ionity-logo-dark-152.png
+    bytes: 5673
+    dimensions: 152x152
+    sha256: 836c7ad9391e0f98
+  - file: ionity-logo-dark-167.png
+    bytes: 6342
+    dimensions: 167x167
+    sha256: 9ac888403cc570d3
+  - file: ionity-logo-dark-180.png
+    bytes: 7119
+    dimensions: 180x180
+    sha256: efea2c9e8a422694
+  - file: ionity-logo-dark-192.png
+    bytes: 7852
+    dimensions: 192x192
+    sha256: 778ba4ada00d3cdf
+  - file: ionity-logo-dark-256.png
+    bytes: 12261
+    dimensions: 256x256
+    sha256: 5c639798cf9f0235
+  - file: ionity-logo-dark-384.png
+    bytes: 22941
+    dimensions: 384x384
+    sha256: 8d3e4b7a39808564
+  - file: ionity-logo-dark-48.png
+    bytes: 1098
+    dimensions: 48x48
+    sha256: 0551c22485dca8b0
+  - file: ionity-logo-dark-512.png
+    bytes: 38052
+    dimensions: 512x512
+    sha256: b9657249853f0df5
+  - file: ionity-logo-dark-72.png
+    bytes: 1907
+    dimensions: 72x72
+    sha256: f616a35f24bb65fd
+  - file: ionity-logo-dark-96.png
+    bytes: 2948
+    dimensions: 96x96
+    sha256: 766a9b9d7cdd1c6f
+  - file: ionity-logo-dark-apple-touch-icon.png
+    bytes: 6366
+    dimensions: 180x180
+    sha256: 6056ea52bf333c44
+  - file: ionity-logo-dark-maskable-1024.png
+    bytes: 83085
+    dimensions: 1024x1024
+    sha256: 96e627030282fb51
+  - file: ionity-logo-dark-maskable-192.png
+    bytes: 5572
+    dimensions: 192x192
+    sha256: 62be670a6dcc4a22
+  - file: ionity-logo-dark-maskable-512.png
+    bytes: 24763
+    dimensions: 512x512
+    sha256: 528234a12a3dc5c4
